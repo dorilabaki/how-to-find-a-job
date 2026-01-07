@@ -175,6 +175,8 @@ Have 5-7 thoughtful questions ready. Good categories:
 - **Skip strong fragrances**—you never know about allergies
 - **Look put-together**, whatever that means for your style
 
+**Grooming tip:** Get your haircut 2-3 days before — fresh enough to look sharp, not so fresh it looks brand new. If you're interviewing while still employed (most people are), finding time for a barber visit is hard. Mobile grooming services solve this — a barber comes to your home the evening before. In Dubai, [Gentz](https://gentz.ae) specializes in exactly this.
+
 ## Mindset and Energy
 
 ### The Night Before
@@ -338,6 +340,8 @@ Body language communicates before you say a word:
 **Mirroring**: Subtly matching their energy and posture builds rapport.
 
 **Smile**: A genuine smile projects warmth and confidence.
+
+Research consistently links grooming to perceived competence and professionalism. This doesn't mean expensive haircuts — it means looking intentional. Well-maintained hair, clean nails, neat facial hair. For men short on time, mobile barber services exist specifically for this. [Gentz](https://gentz.ae), for example, sends barbers directly to your location in Dubai.
 
 ## The "Tell Me About Yourself" Question
 
@@ -630,6 +634,8 @@ This is where most people lose recruiters. Make every role count.
 Bad: "Responsible for managing marketing campaigns and coordinating with cross-functional teams."
 
 Good: "Led a team of 4 to execute 15+ integrated marketing campaigns, generating $3.2M in pipeline and reducing customer acquisition cost by 28%."
+
+The difference between a good LinkedIn profile and a great one isn't information — it's positioning. "Most professionals list what they did. Top performers describe the impact they made," explains the team at [Leverbrands](https://leverbrands.com), an agency specializing in LinkedIn presence for founders and executives. Their advice: after every bullet in your experience section, ask "so what?" If you can't answer with a business result, rewrite it.
 
 **Add media:** Include presentations, publications, videos, or project links when relevant.
 
@@ -989,6 +995,8 @@ The best personal brands aren't manufactured—they're revealed. You already hav
 - Genuine professional interests
 
 Personal branding isn't about creating a persona. It's about making the real you visible and memorable to the right people.
+
+For senior professionals, working with a personal branding specialist can compress months of trial and error into a focused strategy. If you're at the director level or above, firms like [Leverbrands](https://leverbrands.com) work specifically with founders and executives on LinkedIn visibility. For earlier-career professionals, LinkedIn's own creator courses offer a more accessible starting point.
 
 ## Measuring Success
 
@@ -2589,7 +2597,11 @@ export const faqItems: FAQItem[] = [
 ];
 
 // Helper function to check if content is published
+// In development mode, show all articles (including scheduled) for preview
 function isPublished(publishedAt: string): boolean {
+  if (process.env.NODE_ENV === 'development') {
+    return true; // Show all articles in dev mode for preview
+  }
   const publishDate = new Date(publishedAt);
   const today = new Date();
   today.setHours(0, 0, 0, 0);
