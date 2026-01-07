@@ -37,7 +37,7 @@ export const articles: Article[] = [
     description: 'The day before your interview matters more than you think. This comprehensive checklist ensures you walk in confident, prepared, and ready to impress.',
     category: 'Interview',
     readTime: '8 min read',
-    publishedAt: '2025-01-18',
+    publishedAt: '2026-01-12',
     content: `
 ## The 24-Hour Window
 
@@ -265,7 +265,7 @@ Trust your preparation. You've done the work. Now go show them who you are.
     description: 'Research shows that interviewers often make up their minds within minutes. Master the critical opening moments that shape the entire conversation.',
     category: 'Interview',
     readTime: '7 min read',
-    publishedAt: '2025-01-25',
+    publishedAt: '2026-01-19',
     content: `
 ## Why the First 5 Minutes Matter So Much
 
@@ -493,7 +493,7 @@ Those first 5 minutes are an investment that pays dividends throughout the entir
     description: 'LinkedIn\'s algorithm and recruiter behavior have evolved. Here\'s how to optimize your profile for maximum visibility and impact in today\'s job market.',
     category: 'LinkedIn',
     readTime: '10 min read',
-    publishedAt: '2025-02-01',
+    publishedAt: '2026-01-26',
     content: `
 ## LinkedIn in 2025: What's Changed
 
@@ -787,7 +787,7 @@ Complete this checklist and you'll be in the top 10% of LinkedIn profiles recrui
     description: 'Your personal brand shapes how employers see you before the interview even starts. Learn how to build authentic professional presence that opens doors.',
     category: 'Job Search',
     readTime: '9 min read',
-    publishedAt: '2025-02-08',
+    publishedAt: '2026-02-02',
     content: `
 ## What Personal Brand Really Means
 
