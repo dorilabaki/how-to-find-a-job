@@ -2,11 +2,12 @@
 
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-import { articles } from '@/lib/content';
+import { getPublishedArticles } from '@/lib/content';
 
 const categories = ['All', 'Resume', 'Interview', 'Negotiation', 'LinkedIn', 'Job Search'];
 
 export default function ResourcesPage() {
+  const articles = getPublishedArticles();
   return (
     <>
       {/* Hero */}

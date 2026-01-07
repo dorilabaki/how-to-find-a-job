@@ -28,7 +28,7 @@ export function Header() {
             height={44}
             className="rounded-lg shadow-md group-hover:shadow-lg transition-shadow"
           />
-          <span className="font-display text-xl text-text-primary hidden sm:block">
+          <span className="font-display text-sm sm:text-xl text-text-primary leading-tight">
             How To Find A Job
           </span>
         </Link>

@@ -32,6 +32,996 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'interview-prep-checklist-24-hours',
+    title: 'Interview Prep Checklist: What to Do 24 Hours Before',
+    description: 'The day before your interview matters more than you think. This comprehensive checklist ensures you walk in confident, prepared, and ready to impress.',
+    category: 'Interview',
+    readTime: '8 min read',
+    publishedAt: '2025-01-18',
+    content: `
+## The 24-Hour Window
+
+The day before your interview isn't the time to cram. It's the time to prepare strategically and set yourself up for confidence. What you do in these 24 hours can make the difference between a good interview and a great one.
+
+This checklist covers everything from logistics to mindset, ensuring nothing catches you off guard.
+
+## Logistics and Planning (Do This First)
+
+### Confirm the Details
+
+- **Interview time and timezone**: Triple-check, especially for remote interviews across time zones
+- **Location or video platform**: Know exactly where you're going or what link you're clicking
+- **Interviewer names and titles**: You should know who you're meeting with
+- **Interview format**: Phone, video, panel, one-on-one, technical assessment?
+- **Expected duration**: Plan your day around the full length plus buffer time
+
+### Plan Your Route (In-Person)
+
+If your interview is in-person:
+
+- **Map the route** and check traffic patterns for that time of day
+- **Do a test drive** if possible, especially if it's unfamiliar
+- **Locate parking** and know the cost/payment method
+- **Plan to arrive 10-15 minutes early**—not more, not less
+- **Have a backup transportation plan** in case something goes wrong
+
+### Tech Check (Remote)
+
+For virtual interviews:
+
+- **Test your camera, microphone, and speakers**
+- **Download any required software** (Zoom, Teams, etc.) and log in
+- **Check your internet speed**—have a backup hotspot ready
+- **Test your background** in the lighting you'll actually have
+- **Silence notifications** and close unnecessary tabs/apps
+- **Have the interviewer's contact info** in case of tech issues
+
+## Research and Preparation
+
+### Company Research
+
+You should have done extensive research earlier, but review:
+
+- **Recent news** about the company (last 2-3 weeks)
+- **Their products/services** and how they make money
+- **Key competitors** and market position
+- **Company mission and values**—look for specific language they use
+- **Leadership team** and any relevant executives
+
+### Role Research
+
+- **Re-read the job description** carefully
+- **Note the key requirements** and how your experience maps to each
+- **Identify likely questions** based on the role specifics
+- **Prepare questions** about the role, team, and expectations
+
+### Interviewer Research
+
+For each person you're meeting:
+
+- **LinkedIn profile**: Their background, tenure, and interests
+- **Common connections** or shared experiences
+- **Content they've published** (posts, articles, talks)
+- **Their role** in the interview (hiring manager vs. team member vs. HR)
+
+## Your Story and Answers
+
+### Review Your Stories
+
+You should have prepared stories using the STAR method. Review:
+
+- **Leadership/initiative story**
+- **Problem-solving story**
+- **Collaboration story**
+- **Failure and learning story**
+- **Achievement story**
+- **Role-specific technical stories**
+
+Practice telling each one in 2-3 minutes. Not scripted, but polished.
+
+### Rehearse Key Questions
+
+Practice answers to these out loud:
+
+- "Tell me about yourself" (2-minute version)
+- "Why are you interested in this role?"
+- "Why are you leaving your current job?"
+- "What's your greatest weakness?"
+- "Where do you see yourself in 5 years?"
+- "Why should we hire you?"
+
+### Prepare Your Questions
+
+Have 5-7 thoughtful questions ready. Good categories:
+
+- About the role and expectations
+- About the team and culture
+- About challenges and opportunities
+- About growth and development
+- About the interviewer's experience
+
+**Don't ask**: Anything you could easily Google, or salary/benefits (save for later stages).
+
+## Materials and Documents
+
+### Physical Materials
+
+- **Multiple copies of your resume** (bring 5+, even if you think you won't need them)
+- **Portfolio or work samples** if relevant
+- **Notepad and pen** for taking notes
+- **List of references** (formatted and ready to share if asked)
+- **Your questions written down** (it's okay to reference notes)
+
+### Digital Materials
+
+- **Resume PDF** accessible on your phone/laptop
+- **Portfolio links** bookmarked
+- **LinkedIn profile** updated and ready to be viewed
+- **Calendar** cleared for the interview block
+
+## What to Wear
+
+### Choose Your Outfit the Night Before
+
+- **Lay out everything**: Clothes, shoes, accessories
+- **Check for wrinkles, stains, or missing buttons**
+- **Try it on** to ensure fit and comfort
+- **When in doubt, dress one level up** from the company's normal attire
+- **Keep it professional** even for casual environments
+
+### Grooming
+
+- **Hair, nails, and personal grooming** should be polished
+- **Skip strong fragrances**—you never know about allergies
+- **Look put-together**, whatever that means for your style
+
+## Mindset and Energy
+
+### The Night Before
+
+- **Review your prep materials** one more time (but don't cram)
+- **Eat a good dinner**—nothing too heavy or experimental
+- **Set multiple alarms** to avoid sleep anxiety
+- **Prepare everything** so morning is stress-free
+- **Get to bed at a reasonable hour**—sleep matters
+
+### The Morning Of
+
+- **Wake up with time to spare**—no rushing
+- **Eat breakfast** (your brain needs fuel)
+- **Light exercise or movement** helps with nerves
+- **Do a final review** of key talking points
+- **Practice power poses** or whatever helps your confidence
+- **Arrive early or log in early**
+
+### Managing Nerves
+
+Nervousness is normal. Channel it:
+
+- **Reframe anxiety as excitement**—the physical sensations are similar
+- **Focus on the conversation**, not your performance
+- **Remember**: They want you to succeed. They're not trying to trip you up.
+- **Breathe deeply** before entering or logging in
+
+## Last-Minute Checklist
+
+### Night Before
+
+- [ ] Interview details confirmed (time, location/link, interviewers)
+- [ ] Route planned or tech tested
+- [ ] Company and interviewer research reviewed
+- [ ] Stories and answers practiced
+- [ ] Questions prepared
+- [ ] Outfit ready and checked
+- [ ] Materials prepared
+- [ ] Alarm set, evening relaxed
+
+### Morning Of
+
+- [ ] Good breakfast consumed
+- [ ] Final review completed
+- [ ] Outfit on and looking sharp
+- [ ] Materials in bag (or files accessible)
+- [ ] Phone silenced (except for interview emergencies)
+- [ ] Arrived/logged in early
+- [ ] Confident and ready
+
+## What NOT to Do
+
+### Don't Cram
+
+You either know the material or you don't. Frantic last-minute studying just increases anxiety.
+
+### Don't Try Anything New
+
+This isn't the time for a new outfit, hairstyle, or morning routine. Stick with what works.
+
+### Don't Stalk the Interviewers on Social Media
+
+A quick LinkedIn check is fine. Reading through years of Instagram posts is not.
+
+### Don't Forget to Eat and Sleep
+
+Your brain needs fuel and rest to perform. Don't sacrifice either.
+
+### Don't Psych Yourself Out
+
+You got the interview because you're qualified. They're not doing you a favor—they genuinely want to find the right person, and it might be you.
+
+## The Final Word
+
+By the time you walk into that interview, the preparation is done. Your job now is simply to have a conversation—to be curious, authentic, and engaged.
+
+Trust your preparation. You've done the work. Now go show them who you are.
+
+---
+
+*Land your dream job. HowToFindAJob.org has everything you need to succeed in your search.*
+    `,
+  },
+  {
+    slug: 'first-impressions-interview',
+    title: 'First Impressions: How to Nail the First 5 Minutes of an Interview',
+    description: 'Research shows that interviewers often make up their minds within minutes. Master the critical opening moments that shape the entire conversation.',
+    category: 'Interview',
+    readTime: '7 min read',
+    publishedAt: '2025-01-25',
+    content: `
+## Why the First 5 Minutes Matter So Much
+
+Here's an uncomfortable truth: research suggests that interviewers often make preliminary judgments within the first few minutes of meeting a candidate. The rest of the interview? Often spent confirming that initial impression.
+
+This doesn't mean the whole interview doesn't matter. But it does mean the opening moments are disproportionately important. Nail the first five minutes, and the rest of the conversation flows downhill.
+
+## Before You Enter the Room
+
+### The Waiting Room Matters
+
+Your interview starts before you think it does.
+
+**Be kind to everyone**: The receptionist might be asked for their impression. The person in the elevator might be your interviewer's colleague.
+
+**Put your phone away**: Sitting in the waiting room scrolling looks disengaged.
+
+**Sit up and appear confident**: Even when you think no one's watching, they might be.
+
+**Review your key talking points**: But don't look frantic or nervous.
+
+### The Walk-In
+
+When your interviewer comes to get you:
+
+**Stand immediately**: Don't make them wait for you to gather yourself.
+
+**Make eye contact and smile**: Before they even reach you.
+
+**Shake hands firmly** (when appropriate): Not crushing, not limp—confident.
+
+**Use their name**: "Nice to meet you, Sarah" personalizes the interaction.
+
+## The Critical First 60 Seconds
+
+### What They're Evaluating
+
+In the first minute, interviewers are assessing:
+
+- **Energy**: Do you seem engaged and positive?
+- **Confidence**: Do you carry yourself well?
+- **Professionalism**: Are you polished and appropriate?
+- **Warmth**: Are you someone they'd want to work with?
+- **Fit**: Do you seem like you belong here?
+
+These judgments happen fast and largely unconsciously. Your job is to send the right signals.
+
+### The Small Talk
+
+Most interviews start with a few minutes of small talk. This isn't wasted time—it's data.
+
+**Weather/traffic/building comments**: Keep these brief and positive. "The commute was smooth" is fine. A 5-minute traffic complaint is not.
+
+**Weekend/holiday talk**: Be friendly but professional. Share something appropriate.
+
+**Building/office comments**: Genuine compliments are good. "Your office has great natural light" beats generic praise.
+
+**Finding common ground**: If you noticed something in your research—a shared connection, school, or interest—this is a natural time to mention it.
+
+### Your Body Language
+
+Body language communicates before you say a word:
+
+**Posture**: Sit up straight, lean slightly forward to show engagement.
+
+**Eye contact**: Maintain it comfortably—not staring, not avoiding.
+
+**Hands**: Keep them visible and relaxed. Avoid fidgeting.
+
+**Mirroring**: Subtly matching their energy and posture builds rapport.
+
+**Smile**: A genuine smile projects warmth and confidence.
+
+## The "Tell Me About Yourself" Question
+
+This question often comes within the first 2-3 minutes. It's your chance to set the tone for the entire interview.
+
+### The Wrong Approach
+
+- Reciting your resume chronologically
+- Starting from childhood or college
+- Rambling for 10+ minutes
+- Focusing on personal details unrelated to the job
+- Seeming unsure of what to say
+
+### The Right Approach
+
+Use a Past-Present-Future structure in about 2 minutes:
+
+**Present (30 seconds)**: Where you are now and what you're doing
+"I'm currently a product manager at TechCorp, where I lead a team focused on our mobile platform."
+
+**Past (45 seconds)**: Relevant background that led here
+"Before that, I spent five years in user research, which gave me a strong foundation in understanding customer needs. That background shaped how I approach product decisions—always starting with user insights."
+
+**Future (30 seconds)**: Why you're here and excited
+"I'm now looking to take on more strategic challenges, which is why this role caught my attention. The opportunity to shape the product roadmap for an established brand in a growing market is exactly the kind of challenge I'm ready for."
+
+**Key elements**:
+- Tailored to this specific job
+- Highlights relevant experience
+- Shows clear motivation for the role
+- Confident and conversational tone
+- Ends with a natural transition for follow-up questions
+
+## Building Rapport Quickly
+
+### Show Genuine Interest
+
+People like people who like them. Show interest in:
+
+- Their role and experience at the company
+- The team you'd be joining
+- The challenges they're working on
+
+This isn't fake—if you're not genuinely interested, you're probably interviewing at the wrong place.
+
+### Find Common Ground
+
+Rapport builds faster with shared experiences:
+
+- Mutual connections
+- Similar career paths
+- Shared educational background
+- Common interests (discovered through research)
+
+Don't force it, but notice and acknowledge commonalities when they arise.
+
+### Be Authentically Yourself
+
+Paradoxically, trying too hard to make a good impression often backfires. Interviewers can sense when someone is performing versus being genuine.
+
+The goal isn't to pretend to be someone you're not. It's to be the best, most confident version of who you actually are.
+
+## Common Opening Mistakes
+
+### Starting with Apologies
+
+Never open with:
+- "Sorry I'm a bit nervous"
+- "I'm not great at interviews"
+- "I hope I can answer your questions well"
+
+Even if you're thinking these things, don't say them. You're planting seeds of doubt.
+
+### Over-Familiarity
+
+It's good to be warm, but:
+- Don't use nicknames unless invited
+- Don't get too casual too quickly
+- Don't treat it like a conversation with an old friend
+
+Match their energy, don't exceed it.
+
+### Excessive Self-Deprecation
+
+Humility is good. But starting with:
+- "I'm probably not what you're looking for, but..."
+- "I'm sure you have better candidates..."
+- "I know I'm not the most experienced..."
+
+...undercuts your candidacy before it begins.
+
+### Negative Energy
+
+Avoid anything negative in the opening minutes:
+- Complaints about traffic, weather, or your day
+- Criticism of previous employers
+- Pessimistic comments about the job market
+- Visible stress or frustration
+
+Start positive and maintain that energy.
+
+## The Virtual Interview Opening
+
+Remote interviews have different dynamics:
+
+**Pre-meeting**:
+- Log in 3-5 minutes early
+- Check your background and lighting
+- Test your audio and video
+- Have water nearby
+
+**When they join**:
+- Greet them warmly: "Hi Sarah, great to virtually meet you!"
+- Acknowledge the format naturally: "Thanks for making time for this"
+- Look at the camera when speaking (this appears as eye contact)
+
+**Small talk adjustments**:
+- "How's your day going?" works better than location-based comments
+- Acknowledge remote work naturally if relevant
+- Don't comment on their background unless it's a clear conversation starter
+
+## The 5-Minute Goal
+
+By the end of the first 5 minutes, the interviewer should be thinking:
+
+- "This person is confident and professional"
+- "They seem genuinely interested in this role"
+- "I can see them fitting in here"
+- "I'm curious to learn more about their experience"
+- "This conversation is going to be engaging"
+
+If those boxes are checked, you've set yourself up for success. The rest of the interview becomes about confirming and deepening that positive impression.
+
+## The Compound Effect
+
+First impressions don't just affect the interview—they affect everything that comes after:
+
+- How they interpret your answers
+- How much benefit of the doubt you receive
+- How memorable you are compared to other candidates
+- Whether they advocate for you in hiring discussions
+
+Those first 5 minutes are an investment that pays dividends throughout the entire process.
+
+---
+
+*Make every impression count. HowToFindAJob.org is your guide to interview success.*
+    `,
+  },
+  {
+    slug: 'linkedin-profile-optimization-2025',
+    title: 'How to Optimize Your LinkedIn Profile for Recruiters in 2025',
+    description: 'LinkedIn\'s algorithm and recruiter behavior have evolved. Here\'s how to optimize your profile for maximum visibility and impact in today\'s job market.',
+    category: 'LinkedIn',
+    readTime: '10 min read',
+    publishedAt: '2025-02-01',
+    content: `
+## LinkedIn in 2025: What's Changed
+
+LinkedIn isn't what it was five years ago. The platform has evolved significantly, and so have the ways recruiters use it. A profile that worked in 2020 may be invisible in 2025.
+
+Here's what's new and how to optimize for it.
+
+## The 2025 LinkedIn Landscape
+
+### Algorithm Updates
+
+LinkedIn now prioritizes:
+- **Native content** over external links
+- **Engagement signals** (comments, saves, shares) over just views
+- **Authentic personal content** over corporate messaging
+- **Video and carousel posts** for higher visibility
+- **Active users** over passive profiles
+
+### Recruiter Behavior
+
+How recruiters search has evolved:
+- **AI-powered candidate matching** weighs keywords more heavily
+- **Skills assessments** factor into search rankings
+- **Activity signals** indicate engaged candidates
+- **Open to Work settings** are used extensively
+- **Video introductions** are increasingly common
+
+### AI Detection
+
+Both LinkedIn's algorithm and recruiters are getting better at spotting:
+- AI-generated content without human refinement
+- Fake or inflated experience
+- Keyword stuffing
+- Inauthentic engagement
+
+Authenticity matters more than ever.
+
+## Profile Optimization: Section by Section
+
+### Profile Photo
+
+Your photo is the first thing people see. In 2025:
+
+**Requirements:**
+- High resolution and professional quality
+- Good lighting (natural light is best)
+- Face takes up 60-70% of the frame
+- Neutral background or contextually appropriate setting
+- Recent (should look like you now)
+
+**What works:**
+- A genuine, approachable smile
+- Professional but not stiff
+- Consistent with your industry's norms
+
+**What to avoid:**
+- Selfies or cropped group photos
+- Outdated photos (more than 2-3 years old)
+- Overly casual or unprofessional settings
+
+### Headline
+
+Your headline is prime real estate—don't waste it on just your job title.
+
+**The Formula:**
+[What you do] + [Who you help/what you achieve] + [Proof point or specialty]
+
+**Examples:**
+- "Product Manager | Building B2B Tools That Scale | Ex-Google, AWS"
+- "Sales Leader | Helping SaaS Companies 3x Pipeline | $50M+ Closed"
+- "Data Scientist | ML for Healthcare | Python, TensorFlow, Clinical NLP"
+
+**Include:**
+- Keywords recruiters search for
+- Your value proposition
+- Credential signals (certifications, notable employers)
+- Industry-specific terminology
+
+**Character limit:** 220 characters—use them wisely.
+
+### Open to Work Feature
+
+This has become essential for active job seekers:
+
+**Options:**
+- **Visible to all**: Shows green banner. Use when you're openly searching or unemployed.
+- **Visible to recruiters only**: Hides from your network but shows in recruiter searches. Use when employed but looking.
+
+**Optimize your settings:**
+- Select up to 5 job titles you're targeting
+- Choose specific locations (or remote)
+- Specify start date flexibility
+- Update regularly to stay fresh in search results
+
+### About Section
+
+Your About section is your story. In 2025, write it in first person and make it human.
+
+**Structure:**
+
+**Hook (1-2 sentences):** What drives you or makes you unique
+"I believe data should tell stories, not just fill spreadsheets. That's been my north star across a decade of analytics work."
+
+**Experience snapshot (2-3 sentences):** Highlights of your background
+"I've led analytics teams at Fortune 500 companies and scrappy startups, helping both turn data into decisions. At my last role, our insights team drove $30M in revenue optimization."
+
+**What you're looking for (1-2 sentences):** Your goals
+"I'm now looking to lead a data team at a company tackling meaningful problems—healthcare, climate, or education."
+
+**Call to action:** How to connect
+"Open to conversations about analytics leadership. Reach out here or at email@example.com."
+
+**Include:**
+- Keywords naturally integrated
+- Specific achievements with numbers
+- Personality and voice
+- Clear indication of what you're looking for
+
+### Experience Section
+
+This is where most people lose recruiters. Make every role count.
+
+**For each position:**
+
+**Headline:** Company name, your title, dates (use month/year format)
+
+**Description:** Not job duties—achievements. Use this format:
+- Action verb + What you did + Measurable result
+- Focus on impact, not just activity
+- Include relevant keywords naturally
+
+**Example transformation:**
+
+Bad: "Responsible for managing marketing campaigns and coordinating with cross-functional teams."
+
+Good: "Led a team of 4 to execute 15+ integrated marketing campaigns, generating $3.2M in pipeline and reducing customer acquisition cost by 28%."
+
+**Add media:** Include presentations, publications, videos, or project links when relevant.
+
+### Skills Section
+
+LinkedIn's AI matching relies heavily on skills. Optimize carefully:
+
+**Strategic selection:**
+- List 30-50 skills maximum (more gets diluted)
+- Put your top 3 most relevant skills first (these display prominently)
+- Mix technical and soft skills
+- Match skills to the roles you're targeting
+
+**Get endorsements:**
+- Endorse others strategically (they often reciprocate)
+- Ask colleagues to endorse your key skills specifically
+- Quality matters more than quantity
+
+### Featured Section
+
+Pin your best work:
+- High-performing posts that represent your thinking
+- Media appearances or podcast features
+- Articles or publications
+- Portfolio pieces or case studies
+- Company announcements you're proud of
+
+This section is prime real estate for differentiation.
+
+### Recommendations
+
+Social proof matters. Aim for 5-10 strong recommendations.
+
+**Getting recommendations:**
+- Ask people who worked closely with you
+- Be specific: "Would you be willing to speak to my work on [specific project]?"
+- Give recommendations first—it often prompts reciprocation
+- Update periodically with fresh recommendations
+
+**What makes a good recommendation:**
+- Specific examples of your work
+- Measurable results when possible
+- Speaks to both hard and soft skills
+- Recent (within last 2-3 years)
+
+## Engagement and Activity
+
+In 2025, passive profiles rank lower. Show you're active:
+
+### Posting Content
+
+You don't need to become an influencer, but regular activity helps:
+- 1-2 posts per week is sufficient
+- Share industry insights, lessons learned, or observations
+- Engage with others' content through thoughtful comments
+- Quality over quantity
+
+### Commenting Strategy
+
+Strategic commenting is high-value, low-effort:
+- Comment on industry leaders' posts
+- Add genuine perspective, not just "Great post!"
+- Build relationships through consistent engagement
+- Your comments appear in your connections' feeds
+
+### Article Publishing
+
+LinkedIn articles can establish expertise:
+- Write about topics in your field
+- Original perspective matters more than length
+- Articles remain on your profile indefinitely
+- Include relevant keywords for search
+
+## Technical Optimization
+
+### Profile Completeness
+
+LinkedIn rewards complete profiles:
+- All sections filled out
+- Profile photo and banner
+- At least 50 connections
+- Skills added and endorsed
+- Experience with descriptions
+
+### Custom URL
+
+Claim your vanity URL:
+- linkedin.com/in/yourname
+- Looks more professional
+- Easier to share
+
+### Activity Status
+
+Show you're active:
+- Update your profile periodically
+- Add new skills or experiences
+- Engage with content regularly
+- Respond to messages promptly
+
+## What to Avoid
+
+### Common Mistakes
+
+- **Keyword stuffing**: Awkward overuse of terms signals inauthenticity
+- **First-person/third-person inconsistency**: Pick one voice and stick with it
+- **Outdated information**: Old roles with no descriptions, expired certifications
+- **Empty experience sections**: Just a title with no description is a missed opportunity
+- **Overpromising**: Claims you can't back up in an interview
+
+### Red Flags for Recruiters
+
+- No activity in months
+- Minimal or no recommendations
+- Very few connections
+- Incomplete profile sections
+- Inconsistencies with resume
+
+## The Optimization Checklist
+
+**Profile Basics:**
+- [ ] Professional, high-quality photo
+- [ ] Keyword-rich headline (not just job title)
+- [ ] Custom URL claimed
+- [ ] Banner image that reinforces your brand
+
+**Content Sections:**
+- [ ] Compelling About section with personality
+- [ ] Experience with achievements, not just duties
+- [ ] Quantified results where possible
+- [ ] Skills section optimized and endorsed
+- [ ] 5+ recommendations
+
+**Activity:**
+- [ ] Open to Work settings configured
+- [ ] Some posting or engagement in past 30 days
+- [ ] Featured section with strong content
+- [ ] Messages responded to promptly
+
+**Targeting:**
+- [ ] Keywords match desired roles
+- [ ] Skills align with target positions
+- [ ] Experience descriptions use industry terminology
+- [ ] Headline includes target role language
+
+Complete this checklist and you'll be in the top 10% of LinkedIn profiles recruiters see.
+
+---
+
+*Optimize your job search. HowToFindAJob.org is your complete guide to landing your next role.*
+    `,
+  },
+  {
+    slug: 'personal-brand-job-searching',
+    title: 'Building a Personal Brand While Job Searching',
+    description: 'Your personal brand shapes how employers see you before the interview even starts. Learn how to build authentic professional presence that opens doors.',
+    category: 'Job Search',
+    readTime: '9 min read',
+    publishedAt: '2025-02-08',
+    content: `
+## What Personal Brand Really Means
+
+Personal brand isn't about self-promotion or becoming an influencer. It's simpler than that: it's the impression people have of you when you're not in the room.
+
+When a hiring manager Googles your name, what do they find? When a recruiter checks your LinkedIn, what story does your profile tell? When a contact recommends you, what words do they use?
+
+That's your personal brand. And during a job search, it matters more than ever.
+
+## Why Personal Brand Matters in Job Search
+
+### Recruiters Research You
+
+Before reaching out, recruiters typically:
+- Check your LinkedIn profile
+- Google your name
+- Look at any public content you've created
+- Ask mutual connections about you
+
+Your brand is what they find—or don't find.
+
+### It Differentiates You
+
+For any competitive role, dozens of candidates might have similar qualifications. Your brand is what makes you memorable:
+- Your unique perspective
+- Your communication style
+- Your specific expertise
+- Your professional story
+
+### It Attracts Opportunities
+
+A strong brand doesn't just help you apply—it makes opportunities come to you:
+- Recruiters reach out proactively
+- Your network thinks of you for relevant roles
+- Referrals come more easily
+
+## Building Brand During a Job Search
+
+### 1. Define Your Positioning
+
+Before building anything, get clear on:
+
+**What are you known for?**
+List 3-5 specific skills, areas of expertise, or qualities. Be specific:
+- Not "marketing" but "B2B SaaS demand generation"
+- Not "leadership" but "building engineering teams from 0 to 20"
+- Not "problem-solving" but "turning around underperforming products"
+
+**Who is your audience?**
+During a job search, your audience includes:
+- Recruiters in your target field
+- Hiring managers at target companies
+- Your professional network who might refer you
+- Industry peers who influence hiring decisions
+
+**What's your unique angle?**
+What makes your perspective different? Maybe:
+- Your combination of experiences (engineering + MBA + startups)
+- Your specific approach (data-driven design decisions)
+- Your contrarian view (remote teams outperform co-located ones)
+
+### 2. Optimize Your Online Presence
+
+**LinkedIn** (see our detailed guide):
+- Headline that positions you clearly
+- About section that tells your story
+- Experience that highlights achievements
+- Regular engagement showing you're active
+
+**Google yourself:**
+What appears on page one when someone searches your name?
+- Claim profiles on relevant platforms
+- Clean up anything unprofessional
+- Create positive content to outrank anything neutral or negative
+
+**Personal website** (optional but powerful):
+A simple site with:
+- Your professional summary
+- Work highlights or portfolio
+- Contact information
+- Maybe a blog or articles
+
+You don't need fancy design—clarity and professionalism matter more.
+
+### 3. Create Content That Demonstrates Expertise
+
+You don't need to become a content creator, but sharing your perspective has real benefits:
+
+**LinkedIn posts:**
+- Share insights from your experience
+- Comment thoughtfully on industry topics
+- Celebrate wins and learnings
+- Weekly posting builds momentum
+
+**Articles or blog posts:**
+- Deep dives on topics in your field
+- Lessons learned from your career
+- How-to guides for problems you've solved
+- Opinions on industry trends
+
+**Other formats:**
+- Podcast appearances (many industry podcasts seek guests)
+- Speaking at meetups or conferences
+- Contributing to industry publications
+
+### 4. Network Strategically
+
+Your brand is reinforced through relationships:
+
+**Reconnect with your network:**
+- Reach out to former colleagues
+- Update mentors on your search
+- Attend industry events
+
+**Build new connections:**
+- Connect with people at target companies
+- Engage with industry leaders' content
+- Join relevant professional groups
+
+**Make it easy to refer you:**
+When someone asks "what are you looking for?", have a clear, memorable answer:
+"I'm looking for a product management role at a B2B company where I can own a product end-to-end. Ideally a Series B to D company in fintech or healthtech."
+
+### 5. Be Consistent Across Touchpoints
+
+Every interaction reinforces—or undermines—your brand:
+
+**Resume**: Should tell the same story as your LinkedIn
+**Cover letters**: Should reflect your voice and positioning
+**Email communication**: Professional, clear, and prompt
+**Interviews**: Should match the impression from your profile
+**Social media**: Should be either professional or private
+
+Inconsistency creates doubt. Consistency builds trust.
+
+## Common Mistakes to Avoid
+
+### Being Too Generic
+
+"I'm a passionate professional seeking opportunities to grow" could apply to anyone. Be specific about what you do and what makes you different.
+
+### Inauthenticity
+
+Trying to be someone you're not shows. Interviewers will sense the disconnect between your online presence and real-life conversation.
+
+### Negativity
+
+During a job search, it's tempting to vent about:
+- Former employers
+- The job market
+- Rejection experiences
+
+Don't do this publicly. It becomes part of your brand.
+
+### Oversharing
+
+Some things don't belong in your professional brand:
+- Strong political opinions (usually)
+- Personal drama
+- Anything you wouldn't want a hiring manager to see
+
+This doesn't mean being inauthentic—it means being appropriate.
+
+### Disappearing
+
+A LinkedIn profile you haven't touched in months looks like you're not engaged. Stay active even when discouraged.
+
+## Brand Building on a Timeline
+
+### If You're Employed (Passive Search)
+
+You have time to build gradually:
+- Optimize your LinkedIn profile completely
+- Start posting or engaging 1-2 times per week
+- Build relationships before you need them
+- Create a piece of long-form content monthly
+
+### If You're Actively Searching
+
+Focus on high-impact activities:
+- LinkedIn profile optimization (do this first)
+- Reconnecting with network (immediate)
+- Visible engagement on LinkedIn (ongoing)
+- Google search cleanup (immediate)
+
+### If You're Unemployed
+
+Balance brand-building with active searching:
+- 70% of time on applications and networking
+- 30% on content and brand development
+- Use the gap productively—speaking, writing, learning
+
+## The Authenticity Principle
+
+The best personal brands aren't manufactured—they're revealed. You already have:
+- A unique combination of experiences
+- Specific expertise and skills
+- A natural communication style
+- Genuine professional interests
+
+Personal branding isn't about creating a persona. It's about making the real you visible and memorable to the right people.
+
+## Measuring Success
+
+How do you know your brand is working?
+
+**Leading indicators:**
+- Increased profile views on LinkedIn
+- Inbound recruiter messages
+- Engagement on your content
+- Network asking to connect you with opportunities
+
+**Lagging indicators:**
+- Interview rates on applications
+- Quality of opportunities presented
+- Referrals from your network
+- Offers and negotiations
+
+## The Long-Term Perspective
+
+Your job search will end, but your brand continues. The visibility you build now becomes an asset:
+- Future job searches become easier
+- Career opportunities find you
+- Your voice has more reach
+- Your network grows and strengthens
+
+Think of brand-building during your job search as an investment that pays dividends for years.
+
+---
+
+*Build a brand that opens doors. HowToFindAJob.org is your complete guide to landing your next opportunity.*
+    `,
+  },
+  {
     slug: 'resume-beats-ats',
     title: 'How to Write a Resume That Beats ATS Systems',
     description: 'Learn the exact formatting and keyword strategies that get your resume past automated screening and into the hands of hiring managers.',
@@ -1597,3 +2587,39 @@ export const faqItems: FAQItem[] = [
     answer: 'Wait at least one week after applying before following up, as it takes time for applications to be reviewed. For follow-ups after interviews, send a thank-you within 24 hours. For next-steps follow-ups, wait until 2-3 days after the timeline they mentioned. If no timeline was given, wait about a week after your last interaction.',
   },
 ];
+
+// Helper function to check if content is published
+function isPublished(publishedAt: string): boolean {
+  const publishDate = new Date(publishedAt);
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  return publishDate <= today;
+}
+
+// Get only published articles (filters out future-dated content)
+export function getPublishedArticles() {
+  return articles.filter(article => isPublished(article.publishedAt));
+}
+
+// Get only published guides
+export function getPublishedGuides() {
+  return guides.filter(guide => isPublished(guide.publishedAt));
+}
+
+// Get article by slug (only if published)
+export function getArticleBySlug(slug: string) {
+  const article = articles.find(a => a.slug === slug);
+  if (article && isPublished(article.publishedAt)) {
+    return article;
+  }
+  return null;
+}
+
+// Get guide by slug (only if published)
+export function getGuideBySlug(slug: string) {
+  const guide = guides.find(g => g.slug === slug);
+  if (guide && isPublished(guide.publishedAt)) {
+    return guide;
+  }
+  return null;
+}

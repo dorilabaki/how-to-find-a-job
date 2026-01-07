@@ -1,8 +1,8 @@
 import { MetadataRoute } from 'next';
-import { articles, guides, glossaryTerms } from '@/lib/content';
+import { getPublishedArticles, getPublishedGuides, glossaryTerms } from '@/lib/content';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://howtofindajob.com';
+  const baseUrl = 'https://howtofindajob.org';
 
   // Static pages
   const staticPages = [
@@ -56,16 +56,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  // Article pages
-  const articlePages = articles.map((article) => ({
+  // Article pages (only published)
+  const articlePages = getPublishedArticles().map((article) => ({
     url: `${baseUrl}/resources/${article.slug}`,
     lastModified: new Date(article.publishedAt),
     changeFrequency: 'monthly' as const,
     priority: 0.8,
   }));
 
-  // Guide pages
-  const guidePages = guides.map((guide) => ({
+  // Guide pages (only published)
+  const guidePages = getPublishedGuides().map((guide) => ({
     url: `${baseUrl}/guides/${guide.slug}`,
     lastModified: new Date(guide.publishedAt),
     changeFrequency: 'monthly' as const,

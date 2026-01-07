@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { articles } from '@/lib/content';
+import { getPublishedArticles, getArticleBySlug } from '@/lib/content';
 import { ArticleContent } from '@/components/ArticleContent';
 
 interface Props {
@@ -9,14 +9,14 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return articles.map((article) => ({
+  return getPublishedArticles().map((article) => ({
     slug: article.slug,
   }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const article = articles.find((a) => a.slug === slug);
+  const article = getArticleBySlug(slug);
 
   if (!article) {
     return { title: 'Article Not Found' };
@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function ArticlePage({ params }: Props) {
   const { slug } = await params;
-  const article = articles.find((a) => a.slug === slug);
+  const article = getArticleBySlug(slug);
 
   if (!article) {
     notFound();
@@ -69,7 +69,7 @@ export default async function ArticlePage({ params }: Props) {
     },
   };
 
-  const relatedArticles = articles
+  const relatedArticles = getPublishedArticles()
     .filter((a) => a.slug !== article.slug)
     .slice(0, 3);
 

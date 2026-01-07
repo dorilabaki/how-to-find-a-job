@@ -4,7 +4,7 @@ import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://howtofindajob.com'),
+  metadataBase: new URL('https://howtofindajob.org'),
   title: {
     default: 'How To Find A Job - Land Your Next Role, Faster',
     template: '%s | How To Find A Job',
@@ -17,15 +17,15 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://howtofindajob.com',
+    url: 'https://howtofindajob.org',
     siteName: 'How To Find A Job',
     title: 'How To Find A Job - Land Your Next Role, Faster',
     description: 'Expert career advice on job searching, resume writing, interview preparation, and salary negotiation.',
     images: [
       {
-        url: '/og-image.png',
-        width: 1200,
-        height: 630,
+        url: '/logo.jpeg',
+        width: 400,
+        height: 400,
         alt: 'How To Find A Job',
       },
     ],
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How To Find A Job - Land Your Next Role, Faster',
     description: 'Expert career advice on job searching, resume writing, interview preparation, and salary negotiation.',
-    images: ['/og-image.png'],
+    images: ['/logo.jpeg'],
   },
   robots: {
     index: true,
@@ -79,8 +79,8 @@ function OrganizationSchema() {
     '@context': 'https://schema.org',
     '@type': 'Organization',
     name: 'How To Find A Job',
-    url: 'https://howtofindajob.com',
-    logo: 'https://howtofindajob.com/logo.png',
+    url: 'https://howtofindajob.org',
+    logo: 'https://howtofindajob.org/logo.jpeg',
     description: 'How To Find A Job helps you land the right job, faster. We share practical tips on job searching, interview prep, resume writing, and career growth.',
     sameAs: [
       'https://www.linkedin.com/company/how-to-find-a-job',
@@ -88,7 +88,7 @@ function OrganizationSchema() {
     contactPoint: {
       '@type': 'ContactPoint',
       contactType: 'customer service',
-      url: 'https://howtofindajob.com/contact',
+      url: 'https://howtofindajob.org/contact',
     },
     numberOfEmployees: {
       '@type': 'QuantitativeValue',
