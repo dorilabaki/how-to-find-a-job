@@ -84,15 +84,17 @@ export default async function ArticlePage({ params }: Props) {
       <article>
         <header className="bg-gradient-to-b from-primary-50 to-bg-primary py-16 md:py-24">
           <div className="container-narrow">
-            <Link
-              href="/resources"
-              className="inline-flex items-center gap-2 text-primary-500 mb-6 hover:text-primary-600 transition-colors"
-            >
-              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                <path strokeLinecap="round" strokeLinejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-              </svg>
-              Back to Resources
-            </Link>
+            <div className="mb-8">
+              <Link
+                href="/resources"
+                className="inline-flex items-center gap-2 text-primary-500 hover:text-primary-600 transition-colors"
+              >
+                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+                </svg>
+                Back to Resources
+              </Link>
+            </div>
             <span className="tag mb-4">{article.category}</span>
             <h1 className="font-display text-3xl md:text-4xl lg:text-5xl text-text-primary mb-4">
               {article.title}
