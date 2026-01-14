@@ -86,19 +86,24 @@ export default function AboutPage() {
           >
             <h2>Our Story</h2>
             <p>
-              We&apos;ve all been there—staring at a blank resume, preparing for an interview with
-              butterflies in our stomach, or wondering if we should negotiate that offer. The job
-              search process can feel overwhelming, confusing, and sometimes downright frustrating.
+              It started with 127 applications and zero callbacks. A friend with solid experience
+              was doing everything &quot;right&quot; but getting nowhere. Then we looked at their resume.
+              Buried lead. Generic headline. No keywords. We rewrote it in an afternoon. Three
+              interviews that week.
             </p>
             <p>
-              That&apos;s why we created How To Find A Job. We cut through the noise and provide
-              clear, actionable advice that helps you navigate every step of your career journey.
-              No vague platitudes. No outdated tactics. Just real strategies that real people use
-              to land real jobs.
+              That experience revealed something: most job search advice is either outdated
+              (&quot;send a handwritten thank you note&quot;) or too generic (&quot;network more&quot;). What
+              actually works in 2024 is specific, tactical, and often counterintuitive.
             </p>
             <p>
-              Today, our LinkedIn community has grown to over 187,000 professionals who trust us
-              for daily career tips, job search strategies, and the motivation to keep pushing forward.
+              So we started sharing what we learned on LinkedIn. The tactics that recruiters don&apos;t
+              publicize. The resume hacks that beat ATS filters. The negotiation scripts that work.
+              Each tip tested on real job searches before we post it.
+            </p>
+            <p>
+              187,000+ professionals later, How To Find A Job has become the go-to resource for
+              anyone who wants to stop applying blindly and start getting responses.
             </p>
 
             <h2>What We Cover</h2>
@@ -157,6 +162,193 @@ export default function AboutPage() {
                 </div>
               </motion.div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Testimonials */}
+      <section className="py-20 bg-white">
+        <div className="container-wide">
+          <motion.div
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            className="text-center mb-12"
+          >
+            <p className="text-sm text-primary-500 font-medium uppercase tracking-wide mb-2">Community Voices</p>
+            <h2 className="section-title">What Job Seekers Say</h2>
+            <p className="text-lg text-text-secondary max-w-xl mx-auto">
+              Real feedback from our LinkedIn community of 187,000+ career-focused professionals.
+            </p>
+          </motion.div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              className="card"
+            >
+              <p className="text-text-secondary text-sm mb-4 italic">&quot;Preparation is the baseline. Positioning is the differentiator. Candidates who win speak in results, trade-offs, and priorities. They translate experience into what breaks if they&apos;re not hired.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">PG</div>
+                <div>
+                  <p className="font-medium text-text-primary text-sm">Dr Patrice Green</p>
+                  <p className="text-xs text-text-muted">Career Strategist</p>
+                </div>
+              </div>
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: 0.1 }}
+              className="card"
+            >
+              <p className="text-text-secondary text-sm mb-4 italic">&quot;I always lead with honesty in interviews. If we don&apos;t vibe as people when everyone is on their best behavior, it&apos;s never going to work in the grind. My honesty is a bit like a tuning fork.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">HM</div>
+                <div>
+                  <p className="font-medium text-text-primary text-sm">Hannah M.</p>
+                  <p className="text-xs text-text-muted">Process & Efficiency Professional</p>
+                </div>
+              </div>
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: 0.2 }}
+              className="card"
+            >
+              <p className="text-text-secondary text-sm mb-4 italic">&quot;This is a goldmine for job seekers. Understanding the &apos;Real Question&apos; behind interview questions is 90% of the battle. Saving this for my network.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">BK</div>
+                <div>
+                  <p className="font-medium text-text-primary text-sm">Bipin Kumar</p>
+                  <p className="text-xs text-text-muted">Digital Marketing Expert</p>
+                </div>
+              </div>
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: 0.3 }}
+              className="card"
+            >
+              <p className="text-text-secondary text-sm mb-4 italic">&quot;No matter how many years we have worked, industries are ever changing. These types of posts are awesome for staying current.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">KP</div>
+                <div>
+                  <p className="font-medium text-text-primary text-sm">Kassandra Parker</p>
+                  <p className="text-xs text-text-muted">Management Analyst, NIH</p>
+                </div>
+              </div>
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: 0.4 }}
+              className="card"
+            >
+              <p className="text-text-secondary text-sm mb-4 italic">&quot;Most CVs go through complex software now. They use algorithms rather than people reading them. Understanding this changes everything about how you apply.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">FM</div>
+                <div>
+                  <p className="font-medium text-text-primary text-sm">Fernando M.</p>
+                  <p className="text-xs text-text-muted">Office Administrator</p>
+                </div>
+              </div>
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: 0.5 }}
+              className="card"
+            >
+              <p className="text-text-secondary text-sm mb-4 italic">&quot;I really like the diagram and agree with 95%. Career summary has taken the place of career objective. The summary should be a brief overview of experience and skills.&quot;</p>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 bg-primary-100 rounded-full flex items-center justify-center text-primary-600 font-bold text-sm">KD</div>
+                <div>
+                  <p className="font-medium text-text-primary text-sm">Ken Ducharme</p>
+                  <p className="text-xs text-text-muted">Principal Support Engineer</p>
+                </div>
+              </div>
+            </motion.div>
+          </div>
+        </div>
+      </section>
+
+      {/* Case Studies */}
+      <section className="py-20 bg-bg-primary">
+        <div className="container-wide">
+          <motion.div
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            className="text-center mb-12"
+          >
+            <p className="text-sm text-primary-500 font-medium uppercase tracking-wide mb-2">Success Stories</p>
+            <h2 className="section-title">Career Transformations</h2>
+            <p className="text-lg text-text-secondary max-w-xl mx-auto">
+              How professionals used these strategies to land their dream roles.
+            </p>
+          </motion.div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              className="card"
+            >
+              <p className="text-sm text-primary-500 font-medium mb-2">Personal Branding</p>
+              <h3 className="font-display text-xl text-text-primary mb-3">LeverBrands: LinkedIn Visibility Strategy</h3>
+              <p className="text-text-secondary text-sm mb-4">
+                LeverBrands, a personal branding agency, developed a LinkedIn optimization framework
+                that helps professionals stand out. Their clients see an average 3x increase in
+                profile views and 40% more inbound recruiter messages within 90 days of implementing
+                their headline and summary rewrites.
+              </p>
+              <p className="text-xs text-text-muted">Key tactic: Keyword-rich headlines + specific metrics</p>
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: 0.1 }}
+              className="card"
+            >
+              <p className="text-sm text-primary-500 font-medium mb-2">Famous Comeback</p>
+              <h3 className="font-display text-xl text-text-primary mb-3">Steve Jobs: Fired Then Rehired</h3>
+              <p className="text-text-secondary text-sm mb-4">
+                In 1985, Steve Jobs was pushed out of Apple, the company he founded. Rather than
+                dwelling on rejection, he started NeXT and Pixar. When Apple acquired NeXT in 1997,
+                Jobs returned as CEO and led Apple to become the world&apos;s most valuable company.
+                His lesson: &quot;Getting fired was the best thing that could have ever happened to me.&quot;
+              </p>
+              <p className="text-xs text-text-muted">Key lesson: Career setbacks can become springboards</p>
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: 0.2 }}
+              className="card"
+            >
+              <p className="text-sm text-primary-500 font-medium mb-2">Negotiation Win</p>
+              <h3 className="font-display text-xl text-text-primary mb-3">The $15K Email</h3>
+              <p className="text-text-secondary text-sm mb-4">
+                A member of our community received a job offer $15,000 below market rate. Using
+                our salary negotiation script, they responded with specific market data and
+                their unique value proposition. Result: the company increased the offer by
+                $18,000 plus a signing bonus. Total time invested: one email, 20 minutes.
+              </p>
+              <p className="text-xs text-text-muted">Key tactic: Data-backed counter offers</p>
+            </motion.div>
           </div>
         </div>
       </section>

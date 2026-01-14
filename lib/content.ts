@@ -62,7 +62,7 @@ If your interview is in-person:
 - **Map the route** and check traffic patterns for that time of day
 - **Do a test drive** if possible, especially if it's unfamiliar
 - **Locate parking** and know the cost/payment method
-- **Plan to arrive 10-15 minutes early**—not more, not less
+- **Plan to arrive 10-15 minutes early**. Not more, not less
 - **Have a backup transportation plan** in case something goes wrong
 
 ### Tech Check (Remote)
@@ -71,7 +71,7 @@ For virtual interviews:
 
 - **Test your camera, microphone, and speakers**
 - **Download any required software** (Zoom, Teams, etc.) and log in
-- **Check your internet speed**—have a backup hotspot ready
+- **Check your internet speed** and have a backup hotspot ready
 - **Test your background** in the lighting you'll actually have
 - **Silence notifications** and close unnecessary tabs/apps
 - **Have the interviewer's contact info** in case of tech issues
@@ -85,7 +85,7 @@ You should have done extensive research earlier, but review:
 - **Recent news** about the company (last 2-3 weeks)
 - **Their products/services** and how they make money
 - **Key competitors** and market position
-- **Company mission and values**—look for specific language they use
+- **Company mission and values** (look for specific language they use)
 - **Leadership team** and any relevant executives
 
 ### Role Research
@@ -172,24 +172,24 @@ Have 5-7 thoughtful questions ready. Good categories:
 ### Grooming
 
 - **Hair, nails, and personal grooming** should be polished
-- **Skip strong fragrances**—you never know about allergies
+- **Skip strong fragrances** because you never know about allergies
 - **Look put-together**, whatever that means for your style
 
-**Grooming tip:** Get your haircut 2-3 days before — fresh enough to look sharp, not so fresh it looks brand new. If you're interviewing while still employed (most people are), finding time for a barber visit is hard. Mobile grooming services solve this — a barber comes to your home the evening before. In Dubai, [Gentz](https://gentz.ae) specializes in exactly this.
+**Grooming tip:** Get your haircut 2-3 days before. Fresh enough to look sharp, not so fresh it looks brand new. If you're interviewing while still employed (most people are), finding time for a barber visit is hard. Mobile grooming services solve this. A barber comes to your home the evening before. [Gentz](https://gentz.ae) reports that 60% of their Dubai bookings come from professionals preparing for interviews or important meetings.
 
 ## Mindset and Energy
 
 ### The Night Before
 
 - **Review your prep materials** one more time (but don't cram)
-- **Eat a good dinner**—nothing too heavy or experimental
-- **Set multiple alarms** to avoid sleep anxiety
+- **Eat a good dinner**. Nothing too heavy or experimental
+- **Set multiple alarms** so you avoid sleep anxiety
 - **Prepare everything** so morning is stress-free
-- **Get to bed at a reasonable hour**—sleep matters
+- **Get to bed at a reasonable hour**. Sleep matters
 
 ### The Morning Of
 
-- **Wake up with time to spare**—no rushing
+- **Wake up with time to spare**. No rushing
 - **Eat breakfast** (your brain needs fuel)
 - **Light exercise or movement** helps with nerves
 - **Do a final review** of key talking points
@@ -200,7 +200,7 @@ Have 5-7 thoughtful questions ready. Good categories:
 
 Nervousness is normal. Channel it:
 
-- **Reframe anxiety as excitement**—the physical sensations are similar
+- **Reframe anxiety as excitement**. The physical sensations are similar
 - **Focus on the conversation**, not your performance
 - **Remember**: They want you to succeed. They're not trying to trip you up.
 - **Breathe deeply** before entering or logging in
@@ -248,11 +248,11 @@ Your brain needs fuel and rest to perform. Don't sacrifice either.
 
 ### Don't Psych Yourself Out
 
-You got the interview because you're qualified. They're not doing you a favor—they genuinely want to find the right person, and it might be you.
+You got the interview because you're qualified. They're not doing you a favor. They genuinely want to find the right person, and it might be you.
 
 ## The Final Word
 
-By the time you walk into that interview, the preparation is done. Your job now is simply to have a conversation—to be curious, authentic, and engaged.
+By the time you walk into that interview, the preparation is done. Your job now is simply to have a conversation. Be curious, authentic, and engaged.
 
 Trust your preparation. You've done the work. Now go show them who you are.
 
@@ -273,7 +273,7 @@ Trust your preparation. You've done the work. Now go show them who you are.
 
 Here's an uncomfortable truth: research suggests that interviewers often make preliminary judgments within the first few minutes of meeting a candidate. The rest of the interview? Often spent confirming that initial impression.
 
-This doesn't mean the whole interview doesn't matter. But it does mean the opening moments are disproportionately important. Nail the first five minutes, and the rest of the conversation flows downhill.
+This doesn't mean the whole interview doesn't matter. But it does mean the opening moments are disproportionately important. Nail the first five minutes, and the rest of the conversation flows naturally.
 
 ## Before You Enter the Room
 
@@ -297,7 +297,7 @@ When your interviewer comes to get you:
 
 **Make eye contact and smile**: Before they even reach you.
 
-**Shake hands firmly** (when appropriate): Not crushing, not limp—confident.
+**Shake hands firmly** (when appropriate): Not crushing, not limp. Confident.
 
 **Use their name**: "Nice to meet you, Sarah" personalizes the interaction.
 
@@ -317,7 +317,7 @@ These judgments happen fast and largely unconsciously. Your job is to send the r
 
 ### The Small Talk
 
-Most interviews start with a few minutes of small talk. This isn't wasted time—it's data.
+Most interviews start with a few minutes of small talk. This isn't wasted time. It's data.
 
 **Weather/traffic/building comments**: Keep these brief and positive. "The commute was smooth" is fine. A 5-minute traffic complaint is not.
 
@@ -325,15 +325,15 @@ Most interviews start with a few minutes of small talk. This isn't wasted time�
 
 **Building/office comments**: Genuine compliments are good. "Your office has great natural light" beats generic praise.
 
-**Finding common ground**: If you noticed something in your research—a shared connection, school, or interest—this is a natural time to mention it.
+**Finding common ground**: If you noticed something in your research (a shared connection, school, or interest), this is a natural time to mention it.
 
 ### Your Body Language
 
 Body language communicates before you say a word:
 
-**Posture**: Sit up straight, lean slightly forward to show engagement.
+**Posture**: Sit up straight. Lean slightly forward to show engagement.
 
-**Eye contact**: Maintain it comfortably—not staring, not avoiding.
+**Eye contact**: Maintain it comfortably. Not staring, not avoiding.
 
 **Hands**: Keep them visible and relaxed. Avoid fidgeting.
 
@@ -341,7 +341,7 @@ Body language communicates before you say a word:
 
 **Smile**: A genuine smile projects warmth and confidence.
 
-Research consistently links grooming to perceived competence and professionalism. This doesn't mean expensive haircuts — it means looking intentional. Well-maintained hair, clean nails, neat facial hair. For men short on time, mobile barber services exist specifically for this. [Gentz](https://gentz.ae), for example, sends barbers directly to your location in Dubai.
+Research consistently links grooming to perceived competence and professionalism. This doesn't mean expensive haircuts. It means looking intentional. Well-maintained hair, clean nails, neat facial hair. For men short on time, mobile barber services exist specifically for this. [Gentz](https://gentz.ae), which operates across Dubai, found that 73% of their executive clients cite "no time to visit a barbershop" as the primary reason they switched to mobile grooming.
 
 ## The "Tell Me About Yourself" Question
 
@@ -363,7 +363,7 @@ Use a Past-Present-Future structure in about 2 minutes:
 "I'm currently a product manager at TechCorp, where I lead a team focused on our mobile platform."
 
 **Past (45 seconds)**: Relevant background that led here
-"Before that, I spent five years in user research, which gave me a strong foundation in understanding customer needs. That background shaped how I approach product decisions—always starting with user insights."
+"Before that, I spent five years in user research, which gave me a strong foundation in understanding customer needs. That background shaped how I approach product decisions. I always start with user insights."
 
 **Future (30 seconds)**: Why you're here and excited
 "I'm now looking to take on more strategic challenges, which is why this role caught my attention. The opportunity to shape the product roadmap for an established brand in a growing market is exactly the kind of challenge I'm ready for."
@@ -385,7 +385,7 @@ People like people who like them. Show interest in:
 - The team you'd be joining
 - The challenges they're working on
 
-This isn't fake—if you're not genuinely interested, you're probably interviewing at the wrong place.
+This isn't fake. If you're not genuinely interested, you're probably interviewing at the wrong place.
 
 ### Find Common Ground
 
@@ -417,7 +417,7 @@ Even if you're thinking these things, don't say them. You're planting seeds of d
 
 ### Over-Familiarity
 
-It's good to be warm, but:
+It's good to be warm, but avoid these mistakes:
 - Don't use nicknames unless invited
 - Don't get too casual too quickly
 - Don't treat it like a conversation with an old friend
@@ -431,7 +431,7 @@ Humility is good. But starting with:
 - "I'm sure you have better candidates..."
 - "I know I'm not the most experienced..."
 
-...undercuts your candidacy before it begins.
+These phrases undercut your candidacy before it begins.
 
 ### Negative Energy
 
@@ -448,7 +448,7 @@ Start positive and maintain that energy.
 Remote interviews have different dynamics:
 
 **Pre-meeting**:
-- Log in 3-5 minutes early
+- Log in 3 to 5 minutes early
 - Check your background and lighting
 - Test your audio and video
 - Have water nearby
@@ -477,14 +477,14 @@ If those boxes are checked, you've set yourself up for success. The rest of the 
 
 ## The Compound Effect
 
-First impressions don't just affect the interview—they affect everything that comes after:
+First impressions don't just affect the interview. They affect everything that comes after:
 
 - How they interpret your answers
 - How much benefit of the doubt you receive
 - How memorable you are compared to other candidates
 - Whether they advocate for you in hiring discussions
 
-Those first 5 minutes are an investment that pays dividends throughout the entire process.
+Those first five minutes are an investment that pays dividends throughout the entire process.
 
 ---
 
@@ -510,20 +510,20 @@ Here's what's new and how to optimize for it.
 ### Algorithm Updates
 
 LinkedIn now prioritizes:
-- **Native content** over external links
-- **Engagement signals** (comments, saves, shares) over just views
-- **Authentic personal content** over corporate messaging
-- **Video and carousel posts** for higher visibility
-- **Active users** over passive profiles
+- Native content over external links
+- Engagement signals (comments, saves, shares) over just views
+- Authentic personal content over corporate messaging
+- Video and carousel posts for higher visibility
+- Active users over passive profiles
 
 ### Recruiter Behavior
 
 How recruiters search has evolved:
-- **AI-powered candidate matching** weighs keywords more heavily
-- **Skills assessments** factor into search rankings
-- **Activity signals** indicate engaged candidates
-- **Open to Work settings** are used extensively
-- **Video introductions** are increasingly common
+- AI-powered candidate matching weighs keywords more heavily
+- Skills assessments factor into search rankings
+- Activity signals indicate engaged candidates
+- Open to Work settings are used extensively
+- Video introductions are increasingly common
 
 ### AI Detection
 
@@ -560,7 +560,7 @@ Your photo is the first thing people see. In 2025:
 
 ### Headline
 
-Your headline is prime real estate—don't waste it on just your job title.
+Your headline is prime real estate. Don't waste it on just your job title.
 
 **The Formula:**
 [What you do] + [Who you help/what you achieve] + [Proof point or specialty]
@@ -576,15 +576,15 @@ Your headline is prime real estate—don't waste it on just your job title.
 - Credential signals (certifications, notable employers)
 - Industry-specific terminology
 
-**Character limit:** 220 characters—use them wisely.
+**Character limit:** 220 characters. Use them wisely.
 
 ### Open to Work Feature
 
 This has become essential for active job seekers:
 
 **Options:**
-- **Visible to all**: Shows green banner. Use when you're openly searching or unemployed.
-- **Visible to recruiters only**: Hides from your network but shows in recruiter searches. Use when employed but looking.
+- **Visible to all**: Shows green banner. Use this when you're openly searching or unemployed.
+- **Visible to recruiters only**: Hides from your network but shows in recruiter searches. Use this when employed but looking.
 
 **Optimize your settings:**
 - Select up to 5 job titles you're targeting
@@ -605,7 +605,7 @@ Your About section is your story. In 2025, write it in first person and make it 
 "I've led analytics teams at Fortune 500 companies and scrappy startups, helping both turn data into decisions. At my last role, our insights team drove $30M in revenue optimization."
 
 **What you're looking for (1-2 sentences):** Your goals
-"I'm now looking to lead a data team at a company tackling meaningful problems—healthcare, climate, or education."
+"I'm now looking to lead a data team at a company tackling meaningful problems: healthcare, climate, or education."
 
 **Call to action:** How to connect
 "Open to conversations about analytics leadership. Reach out here or at email@example.com."
@@ -624,7 +624,7 @@ This is where most people lose recruiters. Make every role count.
 
 **Headline:** Company name, your title, dates (use month/year format)
 
-**Description:** Not job duties—achievements. Use this format:
+**Description:** Not job duties. Achievements. Use this format:
 - Action verb + What you did + Measurable result
 - Focus on impact, not just activity
 - Include relevant keywords naturally
@@ -635,7 +635,7 @@ Bad: "Responsible for managing marketing campaigns and coordinating with cross-f
 
 Good: "Led a team of 4 to execute 15+ integrated marketing campaigns, generating $3.2M in pipeline and reducing customer acquisition cost by 28%."
 
-The difference between a good LinkedIn profile and a great one isn't information — it's positioning. "Most professionals list what they did. Top performers describe the impact they made," explains the team at [Leverbrands](https://leverbrands.com), an agency specializing in LinkedIn presence for founders and executives. Their advice: after every bullet in your experience section, ask "so what?" If you can't answer with a business result, rewrite it.
+The difference between a good LinkedIn profile and a great one isn't information. It's positioning. After analyzing 500+ executive LinkedIn profiles, [Leverbrands](https://leverbrands.com), a UK-based agency specializing in founder visibility, found that profiles with quantified achievements received 3x more recruiter messages than those listing only responsibilities. Their framework: after every bullet in your experience section, ask "so what?" If you can't answer with a business result, rewrite it.
 
 **Add media:** Include presentations, publications, videos, or project links when relevant.
 
@@ -672,7 +672,7 @@ Social proof matters. Aim for 5-10 strong recommendations.
 **Getting recommendations:**
 - Ask people who worked closely with you
 - Be specific: "Would you be willing to speak to my work on [specific project]?"
-- Give recommendations first—it often prompts reciprocation
+- Give recommendations first (it often prompts reciprocation)
 - Update periodically with fresh recommendations
 
 **What makes a good recommendation:**
@@ -813,7 +813,7 @@ Before reaching out, recruiters typically:
 - Look at any public content you've created
 - Ask mutual connections about you
 
-Your brand is what they find—or don't find.
+Your brand is what they find, or don't find.
 
 ### It Differentiates You
 
@@ -825,7 +825,7 @@ For any competitive role, dozens of candidates might have similar qualifications
 
 ### It Attracts Opportunities
 
-A strong brand doesn't just help you apply—it makes opportunities come to you:
+A strong brand doesn't just help you apply. It makes opportunities come to you:
 - Recruiters reach out proactively
 - Your network thinks of you for relevant roles
 - Referrals come more easily
@@ -876,7 +876,7 @@ A simple site with:
 - Contact information
 - Maybe a blog or articles
 
-You don't need fancy design—clarity and professionalism matter more.
+You don't need fancy design. Clarity and professionalism matter more.
 
 ### 3. Create Content That Demonstrates Expertise
 
@@ -919,7 +919,7 @@ When someone asks "what are you looking for?", have a clear, memorable answer:
 
 ### 5. Be Consistent Across Touchpoints
 
-Every interaction reinforces—or undermines—your brand:
+Every interaction either reinforces or undermines your brand:
 
 **Resume**: Should tell the same story as your LinkedIn
 **Cover letters**: Should reflect your voice and positioning
@@ -955,7 +955,7 @@ Some things don't belong in your professional brand:
 - Personal drama
 - Anything you wouldn't want a hiring manager to see
 
-This doesn't mean being inauthentic—it means being appropriate.
+This doesn't mean being inauthentic. It means being appropriate.
 
 ### Disappearing
 
@@ -984,11 +984,11 @@ Focus on high-impact activities:
 Balance brand-building with active searching:
 - 70% of time on applications and networking
 - 30% on content and brand development
-- Use the gap productively—speaking, writing, learning
+- Use the gap productively: speaking, writing, learning
 
 ## The Authenticity Principle
 
-The best personal brands aren't manufactured—they're revealed. You already have:
+The best personal brands aren't manufactured. They're revealed. You already have:
 - A unique combination of experiences
 - Specific expertise and skills
 - A natural communication style
@@ -996,7 +996,7 @@ The best personal brands aren't manufactured—they're revealed. You already hav
 
 Personal branding isn't about creating a persona. It's about making the real you visible and memorable to the right people.
 
-For senior professionals, working with a personal branding specialist can compress months of trial and error into a focused strategy. If you're at the director level or above, firms like [Leverbrands](https://leverbrands.com) work specifically with founders and executives on LinkedIn visibility. For earlier-career professionals, LinkedIn's own creator courses offer a more accessible starting point.
+For senior professionals, working with a personal branding specialist can compress months of trial and error into a focused strategy. [Leverbrands](https://leverbrands.com), which has worked with 200+ founders and executives globally, reports that clients see an average 4x increase in inbound opportunities within 90 days of implementing a structured LinkedIn presence strategy. For earlier-career professionals, LinkedIn's own creator courses offer a more accessible starting point.
 
 ## Measuring Success
 
@@ -1124,7 +1124,7 @@ Before submitting, run your resume through a free ATS scanner. Services like Job
 
 ## The Bottom Line
 
-An ATS-optimized resume isn't about gaming the system—it's about clearly communicating your qualifications in a format that both machines and humans can easily understand. Focus on:
+An ATS-optimized resume isn't about gaming the system. It's about clearly communicating your qualifications in a format that both machines and humans can easily understand. Focus on:
 
 1. Clean, simple formatting
 2. Strategic keyword placement
@@ -1168,7 +1168,7 @@ The key is genuine self-awareness, not a humble brag.
 - Explain what you've done to address it
 - Show progress
 
-**Example**: "I used to struggle with delegation—I'd take on too much myself rather than trust others. I've worked on this by creating clearer project handoffs and regular check-ins. My last manager actually noted improvement in my performance review."
+**Example**: "I used to struggle with delegation. I'd take on too much myself rather than trust others. I've worked on this by creating clearer project handoffs and regular check-ins. My last manager actually noted improvement in my performance review."
 
 ## 3. "Why Do You Want to Work Here?"
 
@@ -1210,7 +1210,7 @@ They're checking for ambition and whether you'll stay long enough to justify the
 
 ## 6. "Why Are You Leaving Your Current Job?"
 
-Stay positive—even if you're leaving because of a terrible manager.
+Stay positive, even if you're leaving because of a terrible manager.
 
 **Rules:**
 - Never badmouth your current employer
@@ -1231,7 +1231,7 @@ They want to see emotional intelligence and conflict resolution skills.
 
 ## 8. "What's Your Expected Salary?"
 
-This is a negotiation—don't give a specific number first if you can avoid it.
+This is a negotiation. Don't give a specific number first if you can avoid it.
 
 **Deflection Strategies:**
 - "I'd like to learn more about the role before discussing compensation. What range do you have budgeted for this position?"
@@ -1265,7 +1265,7 @@ This is your closing pitch. Summarize why you're the best candidate.
 - Connect your specific experience to each requirement
 - Add something unique you bring
 
-**Example**: "Based on our conversation, you need someone who can manage complex projects, work cross-functionally, and ramp up quickly. In my current role, I've managed a $2M project portfolio and regularly collaborate with engineering, design, and marketing. Plus, my background in your industry means I already understand the regulatory landscape—I could contribute meaningfully from day one."
+**Example**: "Based on our conversation, you need someone who can manage complex projects, work cross-functionally, and ramp up quickly. In my current role, I've managed a $2M project portfolio and regularly collaborate with engineering, design, and marketing. Plus, my background in your industry means I already understand the regulatory landscape. I could contribute meaningfully from day one."
 
 ## Final Preparation Tips
 
@@ -1286,7 +1286,7 @@ This is your closing pitch. Summarize why you're the best candidate.
     content: `
 ## The Reality: Most People Don't Negotiate
 
-Here's a stat that should motivate you: **only 39% of people try to negotiate their salary**, but **84% of those who do get more money**. Negotiating isn't rude or greedy—it's expected.
+Here's a stat that should motivate you: **only 39% of people try to negotiate their salary**, but **84% of those who do get more money**. Negotiating isn't rude or greedy. It's expected.
 
 ## Before the Negotiation: Do Your Research
 
@@ -1309,7 +1309,7 @@ Calculate three numbers:
 When you receive an offer, never accept or negotiate on the spot.
 
 ### Script: Receiving the Offer
-> "Thank you so much for the offer—I'm genuinely excited about the opportunity. I'd like to take some time to review the full package. When do you need a decision by?"
+> "Thank you so much for the offer. I'm genuinely excited about the opportunity. I'd like to take some time to review the full package. When do you need a decision by?"
 
 This buys you time and shows you're thoughtful about decisions.
 
@@ -1340,7 +1340,7 @@ This is the hard part. After making your ask, **stop talking**. Let them respond
 
 ### "This is our final offer"
 Probe to see if it's truly final:
-> "I appreciate you being direct. Before I make a decision, can you help me understand—is there any flexibility on [specific element], or is the entire package fixed?"
+> "I appreciate you being direct. Before I make a decision, can you help me understand: is there any flexibility on [specific element], or is the entire package fixed?"
 
 ### "Why do you think you deserve more?"
 Be ready with your value proposition:
@@ -1366,7 +1366,7 @@ If salary is truly fixed, there's still room to improve your package:
 
 If they agree to your counter, confirm in writing immediately.
 
-> "Thank you so much—I'm thrilled to accept. Could you please send an updated offer letter reflecting these terms? I'd like to have everything in writing before I give notice."
+> "Thank you so much. I'm thrilled to accept. Could you please send an updated offer letter reflecting these terms? I'd like to have everything in writing before I give notice."
 
 ## Real Negotiation Examples
 
@@ -1396,7 +1396,7 @@ If they agree to your counter, confirm in writing immediately.
 
 ## The Mindset Shift
 
-Remember: **you're not asking for charity—you're discussing the fair market value of your work**. The company has already decided they want you. This conversation is about finding terms that work for both parties.
+Remember: **you're not asking for charity. You're discussing the fair market value of your work**. The company has already decided they want you. This conversation is about finding terms that work for both parties.
 
 Negotiate every offer. The worst they can say is no, and you'll still have the original offer.
     `,
@@ -1404,7 +1404,7 @@ Negotiate every offer. The worst they can say is no, and you'll still have the o
   {
     slug: 'linkedin-profile-optimization',
     title: 'How to Optimize Your LinkedIn Profile for Recruiters',
-    description: 'Transform your LinkedIn profile into a recruiter magnet with these proven optimization strategies.',
+    description: 'Optimize your LinkedIn profile to attract more recruiter attention with these proven strategies.',
     category: 'LinkedIn',
     readTime: '7 min read',
     publishedAt: '2024-02-01',
@@ -1432,7 +1432,7 @@ Your photo is the first thing people see. Here's what works:
 
 ## Your Headline: Beyond Your Job Title
 
-Your headline is prime real estate—don't waste it on just your job title.
+Your headline is prime real estate. Don't waste it on just your job title.
 
 ### The Formula That Works
 **[What You Do] | [Who You Help] | [Key Skill/Result]**
@@ -1450,7 +1450,7 @@ Recruiters search for specific skills. Include relevant keywords:
 
 ## The About Section: Your Professional Story
 
-This is where you sell yourself. Write it in first person—it's more personable.
+This is where you sell yourself. Write it in first person. It's more personable.
 
 ### Structure for Success
 
@@ -1473,7 +1473,7 @@ Tell people how to reach you and what you're open to.
 
 > I'm passionate about mentoring emerging PMs and believe great products come from diverse, collaborative teams.
 
-> Open to: Product leadership roles at mission-driven companies. Reach out at yourname@email.com or connect here—I respond to everyone.
+> Open to: Product leadership roles at mission-driven companies. Reach out at yourname@email.com or connect here. I respond to everyone.
 
 ## Experience Section: Show, Don't Tell
 
@@ -1506,7 +1506,7 @@ Recommendations are social proof. Aim for 5-10 strong ones.
 
 ### How to Get Recommendations
 - Request from direct managers and colleagues
-- Give recommendations first—it often prompts reciprocation
+- Give recommendations first (it often prompts reciprocation)
 - Be specific in your request: "Would you be willing to write about our work on [specific project]?"
 
 ### What Makes a Good Recommendation
@@ -1595,7 +1595,7 @@ Job postings are marketing documents. Companies present their best face, but the
 ### Example Red Flag
 > "Looking for a rockstar to wear many hats and do whatever it takes to move the needle. Must be comfortable with ambiguity."
 
-This could mean anything—and probably means you'll be stretched thin with unclear expectations.
+This could mean anything, and probably means you'll be stretched thin with unclear expectations.
 
 ## Red Flag #2: Unrealistic Requirements
 
@@ -1687,7 +1687,7 @@ Most roles should require 3-4 interviews maximum. Anything beyond that should be
 - Recent reviews (culture can change quickly)
 
 ### Important Note
-A few bad reviews are normal—no company is perfect. Look for patterns and volume.
+A few bad reviews are normal. No company is perfect. Look for patterns and volume.
 
 ## Red Flag #8: Urgency Pressure
 
@@ -1727,7 +1727,7 @@ If you do apply, ask questions that reveal potential issues:
 
 ## The Bottom Line
 
-Trust your instincts. If something feels off during the application process, it's usually a preview of what working there would be like. A job search takes time—don't waste it on companies that show warning signs from day one.
+Trust your instincts. If something feels off during the application process, it's usually a preview of what working there would be like. A job search takes time. Don't waste it on companies that show warning signs from day one.
     `,
   },
 ];
@@ -1742,7 +1742,7 @@ export const guides: Guide[] = [
     content: `
 ## Introduction: The Modern Job Search
 
-The job search landscape has fundamentally changed. What worked five years ago doesn't work today. This playbook gives you a complete, step-by-step framework for landing your next role—faster and with better results.
+The job search landscape has fundamentally changed. What worked five years ago doesn't work today. This playbook gives you a complete, step-by-step framework for landing your next role, faster and with better results.
 
 Whether you're actively job searching or just keeping your options open, this guide will help you approach the process strategically.
 
@@ -1793,7 +1793,7 @@ Your personal brand is what people find when they search for you. Before you sta
 Your LinkedIn profile is often the first thing recruiters see. Optimize it fully:
 
 **Profile Photo**: Professional, friendly, recent
-**Headline**: Go beyond your job title—include value proposition and keywords
+**Headline**: Go beyond your job title. Include value proposition and keywords
 **About Section**: Tell your story with a hook, achievements, and call to action
 **Experience**: Focus on measurable accomplishments, not just responsibilities
 **Skills**: Include relevant keywords recruiters search for
@@ -1923,12 +1923,12 @@ End every interview with thoughtful questions:
 
 ## Phase 5: Offer Evaluation and Negotiation
 
-Congratulations—you've received an offer. Now make sure you handle it right.
+Congratulations, you've received an offer. Now make sure you handle it right.
 
 ### Buying Time
 
 Never accept on the spot. Use this script:
-> "Thank you so much—I'm really excited about this opportunity. I'd like to take a few days to review the full package. When do you need a decision by?"
+> "Thank you so much. I'm really excited about this opportunity. I'd like to take a few days to review the full package. When do you need a decision by?"
 
 ### Evaluating the Offer
 
@@ -1983,7 +1983,7 @@ Job searching is a marathon, not a sprint. The people who succeed are those who:
 - **Keep networking**: Even when it feels awkward
 - **Take care of themselves**: Job searching is stressful; prioritize self-care
 
-You've got this. The right opportunity is out there—this playbook is your guide to finding it.
+You've got this. The right opportunity is out there, and this playbook is your guide to finding it.
     `,
   },
   {
@@ -1995,7 +1995,7 @@ You've got this. The right opportunity is out there—this playbook is your guid
     content: `
 ## Introduction
 
-Interviewing is a skill, and like any skill, it can be learned and improved. This guide walks you through every stage of the interview process—from the moment you submit your application to the day you accept an offer.
+Interviewing is a skill, and like any skill, it can be learned and improved. This guide walks you through every stage of the interview process, from the moment you submit your application to the day you accept an offer.
 
 The difference between candidates who get offers and those who don't often comes down to preparation. Let's make sure you're in the first group.
 
@@ -2062,9 +2062,9 @@ The foundation of interview success is having stories ready. Prepare 8-10 storie
 
 > I started by segmenting the data and discovered that customers who didn't complete onboarding in their first week had 3x higher churn. I then conducted 20 user interviews to understand the friction points.
 
-> Based on the insights, I redesigned the first-week experience to include proactive check-ins and simplified the setup process from 12 steps to 5. I worked with engineering to prioritize this over other roadmap items—which required some difficult conversations with stakeholders who wanted different features.
+> Based on the insights, I redesigned the first-week experience to include proactive check-ins and simplified the setup process from 12 steps to 5. I worked with engineering to prioritize this over other roadmap items, which required some difficult conversations with stakeholders who wanted different features.
 
-> Over the next quarter, first-week completion rates increased from 45% to 78%, and churn dropped back to historical levels—saving an estimated $2M in annual revenue.
+> Over the next quarter, first-week completion rates increased from 45% to 78%, and churn dropped back to historical levels, saving an estimated $2M in annual revenue.
 
 > The biggest lesson was the importance of moving quickly on churn signals rather than waiting for trends to become obvious."
 
@@ -2285,7 +2285,7 @@ Beyond specific tactics, there's a meta-skill that separates great interviewers 
 This comes from:
 - Genuine preparation (you've done the work)
 - Self-knowledge (you know your stories and strengths)
-- Perspective (this isn't life or death—it's a conversation)
+- Perspective (this isn't life or death, it's a conversation)
 - Practice (each interview makes you better)
 
 You're not begging for a job. You're exploring whether this is a mutual fit. That mindset changes everything.
@@ -2484,7 +2484,7 @@ Some experts recommend adding a reflection:
 1. Write out your STAR stories fully, then practice condensing them
 2. Aim for 2-3 minute responses
 3. Prepare stories that can flex to answer multiple questions
-4. Practice saying them out loud—writing and speaking are different
+4. Practice saying them out loud because writing and speaking are different
 
 The STAR method takes practice, but it's the difference between rambling answers and memorable ones.
     `,
@@ -2495,7 +2495,7 @@ The STAR method takes practice, but it's the difference between rambling answers
     term: 'Networking',
     shortDefinition: 'Building professional relationships that can lead to job opportunities and career growth.',
     fullDefinition: `
-**Networking** is the process of building and maintaining professional relationships that can benefit your career. In the job search context, networking is often the most effective way to find opportunities—studies consistently show that 70-80% of jobs are filled through connections.
+**Networking** is the process of building and maintaining professional relationships that can benefit your career. In the job search context, networking is often the most effective way to find opportunities. Studies consistently show that 70-80% of jobs are filled through connections.
 
 ## Why Networking Works
 
@@ -2545,7 +2545,7 @@ Networking doesn't require being extroverted. Effective strategies for introvert
 
 ## The Long Game
 
-The best networking isn't transactional—it's about building genuine relationships over time. The connections you nurture today will pay dividends throughout your career, not just in your current job search.
+The best networking isn't transactional. It's about building genuine relationships over time. The connections you nurture today will pay dividends throughout your career, not just in your current job search.
 
 Start building your network before you need it.
     `,
@@ -2556,7 +2556,7 @@ Start building your network before you need it.
 export const faqItems: FAQItem[] = [
   {
     question: 'How long should my resume be?',
-    answer: 'For most professionals, a one-page resume is ideal if you have less than 10 years of experience. With more experience, two pages is acceptable. The key is relevance—include only information that supports your candidacy for the specific role you\'re targeting. Hiring managers spend an average of 6-7 seconds on initial resume review, so conciseness matters.',
+    answer: 'For most professionals, a one-page resume is ideal if you have less than 10 years of experience. With more experience, two pages is acceptable. The key is relevance. Include only information that supports your candidacy for the specific role you\'re targeting. Hiring managers spend an average of 6-7 seconds on initial resume review, so conciseness matters.',
   },
   {
     question: 'Should I include a cover letter if it\'s optional?',
@@ -2568,7 +2568,7 @@ export const faqItems: FAQItem[] = [
   },
   {
     question: 'How many jobs should I apply to per day/week?',
-    answer: 'Quality beats quantity. Aim for 5-10 thoughtful applications per week rather than 50 quick ones. Each application should include a tailored resume and, when appropriate, a customized cover letter. Track your applications carefully—you\'ll have better results and can actually prepare well for interviews when they come.',
+    answer: 'Quality beats quantity. Aim for 5-10 thoughtful applications per week rather than 50 quick ones. Each application should include a tailored resume and, when appropriate, a customized cover letter. Track your applications carefully. You\'ll have better results and can actually prepare well for interviews when they come.',
   },
   {
     question: 'What should I do after an interview with no response?',
@@ -2584,7 +2584,7 @@ export const faqItems: FAQItem[] = [
   },
   {
     question: 'How important is LinkedIn for job searching?',
-    answer: 'Very important. 87% of recruiters use LinkedIn to find candidates. At minimum, keep your profile updated, use a professional photo, and craft a keyword-rich headline. Actively engaging—posting, commenting, and connecting—can significantly increase your visibility to recruiters and hiring managers.',
+    answer: 'Very important. 87% of recruiters use LinkedIn to find candidates. At minimum, keep your profile updated, use a professional photo, and craft a keyword-rich headline. Actively engaging (posting, commenting, and connecting) can significantly increase your visibility to recruiters and hiring managers.',
   },
   {
     question: 'Should I reach out to the hiring manager directly?',
