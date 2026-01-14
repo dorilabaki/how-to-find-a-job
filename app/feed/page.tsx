@@ -2,44 +2,7 @@
 
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-
-const samplePosts = [
-  {
-    id: 1,
-    content: "🎯 The #1 mistake in salary negotiation?\n\nAccepting too quickly.\n\nWhen you receive an offer, say:\n\"Thank you! I'm excited about this opportunity. I'd like to take some time to review the full package.\"\n\nThis buys you time to:\n→ Research market rates\n→ Prepare your counter\n→ Make a strategic decision\n\nNever negotiate on the spot.",
-    likes: 2847,
-    comments: 156,
-    reposts: 423,
-  },
-  {
-    id: 2,
-    content: "Resume tip that changed everything:\n\n❌ \"Responsible for managing projects\"\n✅ \"Led 12 projects worth $2.3M, delivering 95% on-time\"\n\nThe difference?\n\n→ Specificity\n→ Numbers\n→ Impact\n\nHiring managers skim for 6 seconds.\nMake those seconds count.",
-    likes: 4521,
-    comments: 287,
-    reposts: 891,
-  },
-  {
-    id: 3,
-    content: "Interview hack I wish I knew earlier:\n\nWhen they ask \"Do you have any questions?\"\n\nDon't ask about salary (yet).\n\nAsk THIS instead:\n\n\"What would success look like in this role in the first 90 days?\"\n\nWhy it works:\n→ Shows you're already thinking about contributing\n→ Gives you insight into expectations\n→ Demonstrates strategic thinking\n\nSave salary questions for later rounds.",
-    likes: 3156,
-    comments: 198,
-    reposts: 567,
-  },
-  {
-    id: 4,
-    content: "85% of jobs are filled through networking.\n\nYet most people apply online and hope for the best.\n\nHere's a better approach:\n\n1️⃣ Identify 10 target companies\n2️⃣ Find employees on LinkedIn\n3️⃣ Send a genuine connection request\n4️⃣ Ask for a 15-min chat (not a job)\n5️⃣ Build relationship first\n\nReferrals get callbacks.\nCold applications get ignored.",
-    likes: 5234,
-    comments: 342,
-    reposts: 1205,
-  },
-  {
-    id: 5,
-    content: "Red flags in job postings:\n\n🚩 \"We're a family here\"\n🚩 \"Must wear many hats\"\n🚩 \"Work hard, play hard\"\n🚩 \"Competitive salary\" (no range)\n🚩 Posted for 90+ days\n🚩 Unrealistic requirements\n\nThese often signal:\n→ Poor boundaries\n→ Understaffing\n→ Below-market pay\n→ High turnover\n\nTrust the red flags.",
-    likes: 6789,
-    comments: 521,
-    reposts: 1456,
-  },
-];
+import { feedPosts, feedConfig } from '@/lib/feed';
 
 export default function FeedPage() {
   return (
@@ -58,10 +21,10 @@ export default function FeedPage() {
               LinkedIn Feed
             </h1>
             <p className="text-xl text-text-secondary mb-6">
-              A preview of the career advice we share daily with our 187,000+ followers. Follow us for fresh tips in your feed.
+              Top career advice from our {feedConfig.followers} followers. Follow us for fresh tips in your feed.
             </p>
             <Link
-              href="https://www.linkedin.com/company/how-to-find-a-job"
+              href={feedConfig.linkedInUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"
@@ -79,7 +42,7 @@ export default function FeedPage() {
       <section className="py-16 bg-bg-primary">
         <div className="container-narrow">
           <div className="space-y-6">
-            {samplePosts.map((post, index) => (
+            {feedPosts.map((post, index) => (
               <motion.article
                 key={post.id}
                 initial={{ opacity: 0, y: 20 }}
@@ -105,8 +68,10 @@ export default function FeedPage() {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="font-semibold text-text-primary">How To Find A Job</h3>
-                    <p className="text-sm text-text-muted">187,249 followers</p>
+                    <h3 className="font-semibold text-text-primary">{feedConfig.pageName}</h3>
+                    <p className="text-sm text-text-muted">
+                      {new Date(post.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+                    </p>
                   </div>
                 </div>
 
@@ -131,12 +96,25 @@ export default function FeedPage() {
                     </svg>
                     {post.comments.toLocaleString()}
                   </span>
-                  <span className="flex items-center gap-1">
-                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                      <path strokeLinecap="round" strokeLinejoin="round" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
+                  {post.reposts && (
+                    <span className="flex items-center gap-1">
+                      <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
+                      </svg>
+                      {post.reposts.toLocaleString()}
+                    </span>
+                  )}
+                  <a
+                    href={post.linkedInUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="ml-auto flex items-center gap-2 text-[#0A66C2] hover:text-[#004182] transition-colors font-medium"
+                  >
+                    <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                      <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
                     </svg>
-                    {post.reposts.toLocaleString()}
-                  </span>
+                    View on LinkedIn
+                  </a>
                 </div>
               </motion.article>
             ))}
@@ -153,7 +131,7 @@ export default function FeedPage() {
               Want more? Follow us for daily career tips in your LinkedIn feed.
             </p>
             <Link
-              href="https://www.linkedin.com/company/how-to-find-a-job"
+              href={feedConfig.linkedInUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"
