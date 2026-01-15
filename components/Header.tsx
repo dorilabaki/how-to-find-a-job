@@ -10,6 +10,7 @@ const navigation = [
   { name: 'Guides', href: '/guides' },
   { name: 'Glossary', href: '/glossary' },
   { name: 'FAQ', href: '/faq' },
+  { name: 'Feed', href: '/feed' },
   { name: 'About', href: '/about' },
 ];
 
