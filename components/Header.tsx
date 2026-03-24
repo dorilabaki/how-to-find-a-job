@@ -19,7 +19,7 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-neutral-200">
-      <nav className="container-wide flex items-center justify-between py-4">
+      <nav className="container-wide flex items-center justify-between py-4" aria-label="Main navigation">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-3 group">
           <Image

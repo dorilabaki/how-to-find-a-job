@@ -94,7 +94,7 @@ export default function AboutPage() {
             <p>
               That experience revealed something: most job search advice is either outdated
               (&quot;send a handwritten thank you note&quot;) or too generic (&quot;network more&quot;). What
-              actually works in 2024 is specific, tactical, and often counterintuitive.
+              actually works today is specific, tactical, and often counterintuitive.
             </p>
             <p>
               So we started sharing what we learned on LinkedIn. The tactics that recruiters don&apos;t

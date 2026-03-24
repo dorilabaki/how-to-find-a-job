@@ -88,5 +88,34 @@ Most people leave money on the table because they don't ask.`,
     reposts: 378,
     date: "2024-01-05",
   },
+  // --- Scraped 2026-03-24 ---
+  {
+    id: "4",
+    linkedInUrl: "https://www.linkedin.com/company/how-to-find-a-job/posts/",
+    content: `1 in 3 newly hired executives fail within 18 months.
+
+Not because of skills. Because of culture fit and unclear expectations.
+
+Hiring isn't just about finding the most qualified candidate.
+It's about finding the right fit — and setting them up to succeed.`,
+    likes: 44,
+    comments: 8,
+    date: "2026-03-24",
+  },
+  {
+    id: "5",
+    linkedInUrl: "https://www.linkedin.com/company/how-to-find-a-job/posts/",
+    content: `LinkedIn salary negotiation in a nutshell:
+
+Recruiter: "What are your salary expectations?"
+You: "What's the budget for this role?"
+Recruiter: "We need a number from you first."
+You: "Based on my research and the scope of this role, I'm targeting [X]."
+
+Know your worth. Say it out loud. Then stop talking.`,
+    likes: 0,
+    comments: 0,
+    date: "2026-03-24",
+  },
   // Add more posts here...
 ]

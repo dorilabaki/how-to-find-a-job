@@ -8,7 +8,7 @@ interface ArticleContentProps {
 }
 
 export function ArticleContent({ content }: ArticleContentProps) {
-  const htmlContent = marked(content);
+  const htmlContent = marked.parse(content) as string;
 
   return (
     <motion.div

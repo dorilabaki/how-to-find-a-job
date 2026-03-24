@@ -45,7 +45,7 @@ export default async function GlossaryTermPage({ params }: Props) {
     inDefinedTermSet: {
       '@type': 'DefinedTermSet',
       name: 'Career Glossary',
-      url: 'https://howtofindajob.com/glossary',
+      url: 'https://howtofindajob.org/glossary',
     },
   };
 

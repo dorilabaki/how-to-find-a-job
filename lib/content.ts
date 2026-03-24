@@ -1730,6 +1730,181 @@ If you do apply, ask questions that reveal potential issues:
 Trust your instincts. If something feels off during the application process, it's usually a preview of what working there would be like. A job search takes time. Don't waste it on companies that show warning signs from day one.
     `,
   },
+  {
+    slug: 'skills-based-hiring-2026',
+    title: 'Skills-Based Hiring: How the Job Market Changed in 2026',
+    description: "Employers are shifting away from degree requirements and toward skills-based hiring. Here's how to position yourself to win in this new landscape.",
+    category: 'Job Search',
+    readTime: '9 min read',
+    publishedAt: '2026-03-23',
+    content: `
+## The Hiring Transformation Is Here
+
+The way companies hire is fundamentally changing. In 2026, skills-based hiring has moved from a buzzword to standard practice. A new reality is emerging: your degree matters less than your demonstrable abilities, and that changes everything about how you search for jobs.
+
+According to data from Q1 2026, 65% of employers have already adopted skills-based hiring practices for entry-level positions. This represents a major shift from the traditional degree-focused hiring model that dominated for decades.
+
+## What Skills-Based Hiring Actually Means
+
+Skills-based hiring is exactly what it sounds like: employers evaluate candidates primarily on their ability to do the job, not on whether they have a specific degree or followed a conventional career path.
+
+Instead of requiring "Bachelor's degree required," a skills-based job posting might ask for: "Proficiency in Python, SQL, and data visualization. Experience building dashboards. Portfolio of work required."
+
+The difference is profound. It opens doors for people who:
+- Learned through bootcamps or online courses
+- Built skills through side projects and self-study
+- Changed careers and have transferable abilities
+- Have gaps in their resume but growing expertise
+
+## Why Companies Are Making This Shift
+
+### The Talent Shortage Is Real
+
+The traditional hiring approach left massive gaps. Companies were rejecting qualified candidates because they lacked the exact degree, even if they had all the necessary skills. Meanwhile, talent shortages in critical areas like technology, healthcare, and skilled trades reached critical levels.
+
+Hiring managers realized: waiting for a unicorn with a perfect degree and 5 years of specific experience was leaving positions open too long. The alternative: hire for skills and train on the specifics.
+
+### AI Is Forcing the Issue
+
+AI adoption is accelerating faster than any degree program can keep up. A software engineer with a computer science degree from 2018 may have zero AI experience. Meanwhile, someone who spent six months learning AI tools and building projects understands the current landscape better.
+
+Companies need people who can work with AI, today. Not in 2028 when someone finishes a degree program.
+
+### Economics
+
+Hiring is expensive. A wrong hire costs 50-300% of that person's annual salary in replacement costs, lost productivity, and training time. Companies realized that skills assessment is cheaper and more reliable than betting on a degree.
+
+## The Practical Impact: What's Actually Changed
+
+### Job Postings Look Different
+
+Old style:
+"Bachelor's degree in related field required. 3-5 years experience. Must have worked in similar role."
+
+New style:
+"You'll need: SQL proficiency, ability to manage complex datasets, communication skills to explain findings to non-technical stakeholders. Show us your work."
+
+### Portfolios Matter More
+
+Your degree isn't in your back pocket when you walk into an interview. Your work is.
+
+In skills-based hiring, a portfolio is now table stakes for many roles. This means:
+- Developers maintain a GitHub with real projects
+- Designers have case studies showing their process
+- Data analysts can point to actual analysis they've done
+- Writers show published work and writing samples
+
+If you don't have a portfolio, create one. Today. If your work is confidential, create something new or open-source something you've built.
+
+### The Assessment Becomes More Rigorous
+
+Without the degree filter, companies often add skills assessments to the hiring process. This sounds scary, but it's actually more fair.
+
+A take-home assessment where you solve real problems is a better predictor of job performance than a traditional interview. You're not being judged on whether you interviewed well. You're being judged on whether you can do the work.
+
+## How to Position Yourself for Skills-Based Hiring
+
+### 1. Inventory Your Real Skills
+
+Write down everything you can actually do. Not what's on your resume. What you can demonstrate right now.
+
+Be specific:
+Instead of: "Data analysis"
+Say: "I can clean messy datasets in Python, create visualizations in Tableau, and explain trends to executives."
+
+Instead of: "Leadership"
+Say: "I managed a team of 5, implemented new project management system that reduced delivery time by 20%, and mentored two people into promotions."
+
+### 2. Close Visible Gaps
+
+If you're missing a critical skill for roles you want, address it. And be visible about your learning.
+
+Don't just take a course. Document it:
+- Write a blog post about what you learned
+- Create a project that uses the skill
+- Share your progress on LinkedIn
+- Contribute to open source in that area
+
+This serves two purposes. You actually get better. And you signal to employers that you can learn new things.
+
+### 3. Build a Portfolio
+
+Your portfolio should showcase real work. Some guidelines:
+
+For developers: GitHub profile with actual projects. Contributions to open-source code. Ideally, some full-stack projects showing you can go from concept to working application.
+
+For non-technical roles: A simple website or Google Site showing your best work. Case studies. Metrics showing impact. Testimonials.
+
+For career changers: Show the skills that transfer. If you're moving from project management to product management, show how you drove decisions, managed stakeholders, and delivered results.
+
+### 4. Update Your Resume for Skills
+
+Your resume should highlight skills, not just job titles.
+
+Under each role:
+- Lead with impact metrics
+- Name the specific technologies or methods you used
+- Highlight skills that are in demand (AI, data analysis, specific software)
+
+Example:
+Instead of: "Managed marketing campaigns"
+Try: "Designed and executed 12 marketing campaigns using HubSpot, resulting in 35% increase in qualified leads. Improved email open rates from 18% to 27% through A/B testing and audience segmentation."
+
+The second version shows specific skills (HubSpot, A/B testing, analytics) and measurable impact.
+
+### 5. Network Where Skills Are Discussed
+
+Traditional networking is still valuable, but skills-based hiring amplifies the power of being where people talk about what they actually do.
+
+- Participate in relevant online communities (Reddit's r/learnprogramming, industry Slack groups, GitHub discussions)
+- Attend workshops and talks where people demonstrate real work
+- Contribute to discussions showing you understand the field
+- Connect with people on LinkedIn based on shared skills or interests
+
+## The Roles Most Affected
+
+Skills-based hiring is spreading fastest in:
+
+**Technology**: Software development, data science, cybersecurity, product management. These fields move so fast that degrees are nearly useless. Companies care about what you can build.
+
+**Healthcare**: Nursing shortages and the need for specialized certifications made degree-only hiring impractical. Practical skills and certifications matter more.
+
+**Skilled Trades**: Electricians, plumbers, HVAC, construction. These fields have long relied on apprenticeships over degrees, and are being formalized through micro-credentials.
+
+**Marketing and Sales**: Creative portfolio and demonstrated results matter more than degree type.
+
+**Finance and Accounting**: Certifications (CPA, CFA) matter more than the source of your degree.
+
+## What Hasn't Changed
+
+Skills-based hiring doesn't mean degrees are worthless. It means:
+
+- A degree is no longer the primary gating factor
+- What you learned matters more than where you learned it
+- Demonstrated ability beats assumed ability
+
+For roles where licensing or deep domain knowledge is required (law, medicine, some engineering), degrees are still typically required.
+
+But for the majority of jobs, the evaluation is shifting from "Did you get a piece of paper?" to "Can you do this?"
+
+## The Real Opportunity
+
+Skills-based hiring is good news for job seekers. It means:
+
+- Your background doesn't have to be perfect
+- Your willingness to learn and demonstrate skills matters
+- You can pivot careers faster if you build the right skills
+- Hard work and capability are rewarded
+
+The downside: you can't just rely on a degree anymore. You need to know what you're good at, be able to show it, and continuously develop skills that are actually in demand.
+
+Start building your skills portfolio. Document what you learn. Create projects. Write about your thinking. Show employers what you can actually do.
+
+That's the new job search. And it's more meritocratic than the old one.
+
+For more on building your skills and mindset for career transitions, check out resources on leadership development at [The Leaders Table](https://theleaderstable.xyz) and mindset coaching at [Growth Mindset Academy](https://growthmindset.academy).
+    `,
+  },
 ];
 
 export const guides: Guide[] = [
@@ -2551,7 +2726,15 @@ Start building your network before you need it.
     `,
     relatedTerms: ['referral', 'linkedin', 'informational-interview'],
   },
+  {
+    slug: 'skills-based-hiring-2026-glossary',
+    term: 'Skills-Based Hiring',
+    shortDefinition: 'A hiring approach where employers evaluate candidates on demonstrated abilities rather than educational credentials.',
+    fullDefinition: 'Skills-based hiring is a recruitment methodology where employers prioritize a candidate\'s demonstrated abilities, portfolio, and practical competencies over traditional credentials like degrees or specific job titles. Popularized in the 2020s, this approach uses skills assessments, portfolio reviews, and work samples to evaluate fit.',
+    relatedTerms: ['ats', 'portfolio', 'competency-based-interview'],
+  },
 ];
+
 
 export const faqItems: FAQItem[] = [
   {

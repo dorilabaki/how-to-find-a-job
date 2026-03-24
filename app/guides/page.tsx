@@ -2,9 +2,10 @@
 
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-import { guides } from '@/lib/content';
+import { getPublishedGuides } from '@/lib/content';
 
 export default function GuidesPage() {
+  const guides = getPublishedGuides();
   return (
     <>
       {/* Hero */}

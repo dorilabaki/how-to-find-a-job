@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { guides, articles } from '@/lib/content';
+import { guides, getPublishedArticles } from '@/lib/content';
 import { ArticleContent } from '@/components/ArticleContent';
 
 interface Props {
@@ -25,12 +25,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: guide.title,
     description: guide.description,
+    alternates: { canonical: `https://howtofindajob.org/guides/${guide.slug}` },
     openGraph: {
       title: guide.title,
       description: guide.description,
       type: 'article',
       publishedTime: guide.publishedAt,
       authors: ['How To Find A Job'],
+      images: [{ url: '/logo.jpeg', width: 400, height: 400, alt: guide.title }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: guide.title,
+      description: guide.description,
+      images: ['/logo.jpeg'],
     },
   };
 }
@@ -59,12 +67,12 @@ export default async function GuidePage({ params }: Props) {
       name: 'How To Find A Job',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://howtofindajob.com/logo.png',
+        url: 'https://howtofindajob.org/logo.jpeg',
       },
     },
   };
 
-  const relatedArticles = articles.slice(0, 3);
+  const relatedArticles = getPublishedArticles().slice(0, 3);
   const otherGuide = guides.find((g) => g.slug !== guide.slug);
 
   return (

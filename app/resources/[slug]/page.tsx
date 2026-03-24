@@ -25,12 +25,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: article.title,
     description: article.description,
+    alternates: { canonical: `https://howtofindajob.org/resources/${article.slug}` },
     openGraph: {
       title: article.title,
       description: article.description,
       type: 'article',
       publishedTime: article.publishedAt,
       authors: ['How To Find A Job'],
+      images: [{ url: '/logo.jpeg', width: 400, height: 400, alt: article.title }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: article.title,
+      description: article.description,
+      images: ['/logo.jpeg'],
     },
   };
 }
@@ -51,21 +59,21 @@ export default async function ArticlePage({ params }: Props) {
     author: {
       '@type': 'Organization',
       name: 'How To Find A Job',
-      url: 'https://howtofindajob.com',
+      url: 'https://howtofindajob.org',
     },
     publisher: {
       '@type': 'Organization',
       name: 'How To Find A Job',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://howtofindajob.com/logo.png',
+        url: 'https://howtofindajob.org/logo.jpeg',
       },
     },
     datePublished: article.publishedAt,
     dateModified: article.publishedAt,
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://howtofindajob.com/resources/${article.slug}`,
+      '@id': `https://howtofindajob.org/resources/${article.slug}`,
     },
   };
 

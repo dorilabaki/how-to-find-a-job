@@ -39,6 +39,11 @@ export const metadata: Metadata = {
     description: 'Expert career advice on job searching, resume writing, interview preparation, and salary negotiation.',
     images: ['/logo.jpeg'],
   },
+  icons: {
+    icon: '/logo.jpeg',
+    shortcut: '/logo.jpeg',
+    apple: '/logo.jpeg',
+  },
   robots: {
     index: true,
     follow: true,
@@ -105,11 +110,6 @@ function OrganizationSchema() {
       '@type': 'ContactPoint',
       contactType: 'customer service',
       url: 'https://howtofindajob.org/contact',
-    },
-    numberOfEmployees: {
-      '@type': 'QuantitativeValue',
-      value: '187249',
-      unitText: 'followers',
     },
     knowsAbout: [
       'Job Search Tips',

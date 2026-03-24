@@ -5,18 +5,23 @@ import Link from 'next/link';
 import { motion, AnimatePresence } from 'framer-motion';
 import { faqItems } from '@/lib/content';
 
-function FAQItem({ question, answer, isOpen, onClick }: {
+function FAQItem({ question, answer, isOpen, onClick, id }: {
   question: string;
   answer: string;
   isOpen: boolean;
   onClick: () => void;
+  id: string;
 }) {
+  const panelId = `faq-panel-${id}`;
+  const buttonId = `faq-btn-${id}`;
   return (
     <div className="border-b border-neutral-200 last:border-b-0">
       <button
+        id={buttonId}
         className="w-full py-6 flex items-start justify-between gap-4 text-left"
         onClick={onClick}
         aria-expanded={isOpen}
+        aria-controls={panelId}
       >
         <span className="font-display text-lg text-text-primary">
           {question}
@@ -30,6 +35,9 @@ function FAQItem({ question, answer, isOpen, onClick }: {
       <AnimatePresence>
         {isOpen && (
           <motion.div
+            id={panelId}
+            role="region"
+            aria-labelledby={buttonId}
             initial={{ height: 0, opacity: 0 }}
             animate={{ height: 'auto', opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
@@ -103,6 +111,7 @@ export default function FAQPage() {
               {faqItems.map((item, index) => (
                 <FAQItem
                   key={index}
+                  id={String(index)}
                   question={item.question}
                   answer={item.answer}
                   isOpen={openIndex === index}

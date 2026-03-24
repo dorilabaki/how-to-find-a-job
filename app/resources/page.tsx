@@ -1,5 +1,6 @@
 'use client';
 
+import { useState } from 'react';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { getPublishedArticles } from '@/lib/content';
@@ -7,7 +8,12 @@ import { getPublishedArticles } from '@/lib/content';
 const categories = ['All', 'Resume', 'Interview', 'Negotiation', 'LinkedIn', 'Job Search'];
 
 export default function ResourcesPage() {
-  const articles = getPublishedArticles();
+  const allArticles = getPublishedArticles();
+  const [activeCategory, setActiveCategory] = useState('All');
+  const articles = activeCategory === 'All'
+    ? allArticles
+    : allArticles.filter((a) => a.category === activeCategory);
+
   return (
     <>
       {/* Hero */}
@@ -37,8 +43,9 @@ export default function ResourcesPage() {
             {categories.map((category) => (
               <button
                 key={category}
+                onClick={() => setActiveCategory(category)}
                 className={`px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors ${
-                  category === 'All'
+                  activeCategory === category
                     ? 'bg-primary-500 text-white'
                     : 'bg-neutral-100 text-text-secondary hover:bg-neutral-200'
                 }`}

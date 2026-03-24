@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { motion } from 'framer-motion';
+import LeadMagnetBanner from '@/components/LeadMagnetBanner';
 
 const pillars = [
   {
@@ -209,6 +210,9 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Lead Magnet Banner */}
+      <LeadMagnetBanner />
+
       {/* Featured Guides */}
       <section className="py-20 bg-bg-primary">
         <div className="container-wide">
@@ -315,16 +319,9 @@ export default function HomePage() {
               Join +187k professionals finding their dream job.
               No spam, just practical tips that work.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
-              <input
-                type="email"
-                placeholder="Enter your email"
-                className="flex-1 px-4 py-3 rounded-lg border border-neutral-300 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent"
-              />
-              <button className="btn-accent whitespace-nowrap">
-                Subscribe
-              </button>
-            </div>
+            <Link href="/accelerator" className="btn-accent inline-flex">
+              Get Free Career Toolkit
+            </Link>
             <p className="text-sm text-text-muted mt-4">
               Unsubscribe anytime. No spam, we promise.
             </p>
