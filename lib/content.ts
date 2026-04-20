@@ -2205,6 +2205,119 @@ The candidates who build networks before they need them will get access to the o
 If you're working on the personal brand that supports this networking strategy, we've covered that in depth in our guide on [building a personal brand while job searching](/resources/personal-brand-job-searching). And for leadership-track roles, [The Leader's Table](https://theleaderstable.xyz) has practical frameworks for demonstrating executive presence during informational conversations.
     `,
   },
+  {
+    slug: 'linkedin-about-section-that-recruiters-read',
+    title: 'How to Write a LinkedIn About Section That Recruiters Actually Read',
+    description: 'Most LinkedIn About sections read like a press release nobody asked for. A tighter, more useful version gets recruiters past the first two lines — here is the structure that works.',
+    category: 'Personal Brand',
+    readTime: '9 min read',
+    publishedAt: '2026-04-20',
+    content: `
+## The Two-Line Test
+
+Open LinkedIn on your phone right now and look at anyone's profile. The About section shows you roughly the first two lines before "... see more." That is how much text a recruiter reads before deciding whether to keep scrolling or tap the follow-up button.
+
+Two lines. Maybe 220 characters. That is the actual length of the part of your About that most people will ever read. Everything below it needs to be good enough to justify the tap — but the two lines are the only thing you are guaranteed a reader for.
+
+Most LinkedIn About sections fail this test. They open with "Results-driven professional with a passion for..." or "Experienced leader specialising in..." Both phrasings are generic enough that they have been functionally invisible to recruiters for years. The best profiles write the opening as if nothing below it will ever be read.
+
+## What Recruiters Are Actually Looking For
+
+Before the structure, the context. Recruiters using LinkedIn Recruiter search by keyword and filter by role level, industry, location, and skills. They open a profile, scan the headline, glance at the About, look at job titles, and decide in well under a minute whether to reach out.
+
+The About section's job, for a recruiter, is three things. First, confirm you are the level of person they thought you were from the headline. Second, quickly tell them what you actually do — in language that would match what they might tell a hiring manager. Third, indicate whether you are interested in new opportunities and what kind.
+
+This is different from the About section's job for peers, for customers, or for your network. Those audiences want more context and more personality. Recruiters want a short, direct, scannable summary.
+
+The practical consequence is that you should write the About for recruiters and trust that the rest of your profile will do the work for other audiences.
+
+## The Structure That Works
+
+The format below is simple and it is boring. That is the point. It is optimised to be read, not to be admired.
+
+**Line 1-2: What you do, for whom, with what outcome.** One sentence. This is the two-line headline. A product marketer at a B2B SaaS company whose work drove a particular expansion outcome writes something like: "I lead product marketing for B2B SaaS companies, turning technical products into messaging that sales teams actually use and customers actually buy." A senior engineer writes something like: "I build backend systems for high-traffic consumer apps, with a focus on performance and on keeping on-call rotations quiet." The pattern is role + audience + the outcome that matters.
+
+**Paragraph 2: The substance.** Three to five sentences. What you have specifically done, at what kind of companies, with what results you can talk about. This is where you earn the rest of the reader's attention. Avoid adjectives. Use nouns and verbs. "Shipped a pricing page redesign that increased trial-to-paid conversion" beats "passionate about conversion optimisation."
+
+**Paragraph 3: The reference points.** Two or three sentences. The specific skills, tools, or frameworks you work with. Keywords matter here not because you are gaming a search algorithm but because recruiters do search by keyword, and if your "Figma" or "SQL" or "change management" does not appear anywhere in your profile, you will not surface for those searches.
+
+**Paragraph 4: What's next.** One or two sentences. What you are looking for, or what you are open to. If you are actively looking, say so. If you are open to specific kinds of conversations — "open to senior IC roles in fintech or healthtech" — say that. Vague profiles produce vague inbound.
+
+**Optional closing: How to reach you.** A single line. Email is fine. LinkedIn DMs work. The point is removing ambiguity about the best way to start a conversation.
+
+## The Parts To Leave Out
+
+Most About sections contain material that would make them better if deleted. A short, opinionated list:
+
+Long career histories. That is what the Experience section is for. The About should not be a summary of jobs; it should be a summary of you.
+
+Personality disclaimers. "When I'm not at work, I enjoy..." adds very little for a recruiter and usually feels forced. If there is something genuinely distinctive about you that a recruiter would find relevant — you speak Japanese fluently, you have a decade of volunteer nonprofit board experience — put it in. Otherwise skip.
+
+Self-praise adjectives. "Passionate," "results-driven," "dynamic," "strategic." These words cost you credibility because every weak profile has them. The reader cannot distinguish you from the noise.
+
+Mission statements. A mission statement in an About section tends to read as corporate speak. If your mission is important enough to state, it is important enough to state in ordinary words that describe what you actually do about it.
+
+Emoji runs. One or two, used with intent, are fine. Ten in a row looks less than serious.
+
+## Writing for the Inbox, Not the Billboard
+
+The best way to write the About section is to imagine the recruiter who will open it is already half-distracted. They have six other tabs open. They are on their fourth coffee. You have one shot to make them think "yes, this person might be worth thirty minutes of a conversation."
+
+Write for that reader. Short sentences. Concrete nouns. Specific outcomes. Plain language. The goal is not to impress. The goal is to be obviously relevant.
+
+A useful test: read your first two lines aloud. If you sound like a brochure, rewrite. If you sound like a person describing their work to another person, you are close.
+
+## Handling Gaps, Pivots, and Transitions
+
+A common fear is that any non-standard career path will look bad in the About. The opposite is closer to the truth. A well-framed transition or gap is more memorable than a linear career summary.
+
+The principle is to name it directly and frame it as choice, not as circumstance. "After eight years in management consulting, I moved into product management at a Series B healthtech company" is better than no mention of the pivot. "Took a year off to care for a family member, now returning to senior engineering roles" is better than pretending the gap did not happen.
+
+Recruiters are generally more sympathetic to non-standard paths than candidates assume, provided the candidate owns the story. The About section is where you get to own it.
+
+## Keywords Without Keyword Stuffing
+
+Recruiter search uses boolean and keyword matching. Your profile needs to surface for the searches that matter for roles you want.
+
+The guidance is not to stuff your About with every possible keyword. It is to ensure that the actual tools and skills you work with appear in natural sentences somewhere in your profile. Write the About in prose, then scan it and check: does the word "SQL" appear if you work with SQL? Does "product management" or "engineering management" appear if those are your titles? If not, quietly work them in.
+
+Your Experience section and Skills section carry a lot of the keyword load. The About section just needs to confirm the picture.
+
+## A Before and After
+
+A typical generic About reads something like: "Experienced marketing professional with over ten years of experience driving growth for dynamic organisations across multiple industries. Passionate about building authentic connections with customers and mentoring high-performing teams."
+
+That sentence could describe a hundred thousand people. A recruiter's eyes glaze over. There is nothing to latch onto.
+
+A stronger version reads: "I lead demand generation for B2B SaaS companies, with a focus on building pipelines that sales teams trust. Most recently at a Series C martech company, I rebuilt the inbound function from scratch and took qualified demo volume from roughly fifty to three hundred per month. Before that I ran growth at an early-stage company and spent five years in consulting. I work most often with HubSpot, Salesforce, and a content-led motion. Open to Director or VP-level roles at growth-stage B2B companies."
+
+The second version tells a recruiter exactly who this person is and what kind of role would fit them. The About has done its job.
+
+## The Refresh Cadence
+
+LinkedIn's About is not a set-and-forget asset. Review it every six months and after any significant role change. What was specific and strong a year ago may have drifted out of date.
+
+A five-minute twice-yearly refresh is the minimum. A thirty-minute rewrite when you start actively job searching is worth the time. The About is the shortest part of your profile that a reader is likely to read, which means every sentence earns or loses you opportunities.
+
+## A Short Checklist
+
+Before you publish, run the About against these:
+
+The first two lines say what you do, for whom, and the outcome that matters, in concrete language.
+
+A recruiter for the role you want would keep reading past line two.
+
+Every paragraph has at least one specific, testable claim rather than an adjective.
+
+The keywords for the tools and skills you actually work with appear somewhere in the profile.
+
+You have said, directly, what you are looking for next.
+
+If all five boxes tick, your About is doing the work it is supposed to do.
+
+For the rest of the profile, see our guide on [building a personal brand while job searching](/resources/personal-brand-job-searching). And if you're targeting leadership roles where the About needs to convey executive presence, [The Leader's Table](https://theleaderstable.xyz) has practical frameworks for how senior leaders describe themselves in writing.
+    `,
+  },
 ];
 
 export const guides: Guide[] = [
@@ -2766,6 +2879,297 @@ This comes from:
 You're not begging for a job. You're exploring whether this is a mutual fit. That mindset changes everything.
 
 Now go prepare, practice, and land that offer.
+    `,
+  },
+  {
+    slug: 'complete-salary-negotiation-guide',
+    title: 'The Complete Guide to Salary Negotiation',
+    description: 'Every job search ends with a negotiation. This guide walks through the research, the framing, and the actual words that reliably produce higher offers — for both new roles and internal raises.',
+    readTime: '32 min read',
+    publishedAt: '2026-04-20',
+    content: `
+## Why This Matters More Than You Think
+
+Most people spend more time researching their next laptop than negotiating their next salary. This is strange, because the compounding effects of a single negotiation are larger than almost any other career move.
+
+A difference of ten thousand dollars in starting salary, projected over a thirty-year career with typical raises applied to the higher base, compounds into a lifetime difference well above a million dollars. This is not a hypothetical edge case. It is what the math does when you let one number drive the rest.
+
+And yet the typical job seeker approaches negotiation with a mix of dread, confusion, and the strong suspicion that asking for more will cost them the offer. This guide is about replacing that approach with something more useful. It covers research, framing, specific language, edge cases, and the common mistakes that leave money on the table.
+
+The techniques here apply both to external offers (new job) and internal conversations (raise or promotion). The mechanics differ slightly. The principles are largely the same.
+
+---
+
+## Part 1: What Negotiation Actually Is
+
+A common misconception is that negotiation is adversarial. Two parties want different things. One wins. The other loses. This framing produces anxious, combative negotiations that make everyone worse off.
+
+A more useful framing, drawn from the Harvard Program on Negotiation's work (particularly Fisher and Ury's *Getting to Yes*), is that negotiation is a problem-solving conversation. Both parties have interests. A good negotiation surfaces those interests and finds the deal that satisfies them. The hiring manager wants a great employee at a reasonable cost. You want a fair salary for the value you'll deliver. Those are not opposed; they just have to be aligned on specifics.
+
+This framing matters because it changes what you say. Adversarial negotiators make demands. Collaborative negotiators share interests and propose options. The second approach consistently produces better outcomes, both financially and relationally.
+
+A second useful concept from the same tradition is the BATNA — Best Alternative To a Negotiated Agreement. Your BATNA is what you'll do if this deal doesn't happen. A strong BATNA (another offer, your current job, savings to look longer) gives you leverage. A weak BATNA (no other options, immediate need for income) reduces it.
+
+Much of preparation is about understanding your BATNA honestly and, where possible, strengthening it before you need it.
+
+---
+
+## Part 2: The Research Phase
+
+You cannot negotiate effectively without knowing the market. "I deserve more" is not a negotiating position. "The market rate for this role at comparable companies is X, and your offer of Y is below that range" is a negotiating position.
+
+### Sources of Market Data
+
+Multiple sources of salary data are available, each with strengths and weaknesses:
+
+**Levels.fyi.** The most reliable source for tech roles, with crowdsourced self-reports broken down by company, level, and total compensation (base, equity, bonus). Strong signal for technology companies, weaker for non-tech roles.
+
+**Glassdoor and Salary.com.** Broader coverage across industries, but data quality varies. Glassdoor's self-report data has selection effects (people with extreme experiences tend to post). Use as a rough benchmark, not a precise anchor.
+
+**Payscale.** Aggregates data with some standardisation. Useful for comparing within specific roles and geographies.
+
+**LinkedIn Salary.** Integrated into LinkedIn with data from user profiles. Reasonable breadth, moderate accuracy.
+
+**Industry compensation reports.** Specific industries (finance, consulting, law, medicine) often have well-published salary surveys by experience level. These are gold-standard for the covered fields.
+
+**Direct conversations.** Often the highest-quality data, if you can get it. People who have recently changed jobs at comparable companies are willing to share ranges more often than people assume. Asking clearly and privately ("I'm in the final stages at a similar company — would you be willing to share the range you negotiated?") produces answers more often than not.
+
+### Understanding the Full Compensation Picture
+
+Salary is one component. A complete offer may include:
+
+- **Base salary.** The cash component.
+- **Signing bonus.** One-time payment, often used to bridge a gap to market rate or to compensate for leaving bonuses.
+- **Annual bonus.** Target percentage of base, often with a performance modifier.
+- **Equity.** For private companies, stock options or RSUs; for public companies, RSUs with vesting schedules. Understand the vesting schedule (typically 4 years with a 1-year cliff) and the strike price for options.
+- **Retirement matching.** Employer contribution to 401(k) or equivalent.
+- **Health benefits.** Value varies dramatically by plan quality and family status.
+- **PTO and leave.** Vacation, parental leave, sabbatical options.
+- **Remote work flexibility.** Has real economic value.
+- **Professional development budget.** Training, conferences, education.
+
+A lower base with strong equity at a high-growth company can significantly outperform a higher base with no equity. A higher base at a struggling company is often the better bet. The comparison is more complex than a single number.
+
+### Building Your Range
+
+Once you have market data, construct three numbers:
+
+**Your target.** The number you'd be genuinely happy with. Usually in the upper half of the market range for someone with your experience.
+
+**Your aspirational number.** The high end of what's plausibly possible given your leverage. Often 10-20% above your target.
+
+**Your walk-away.** The minimum you'd accept. Below this, you'd rather keep looking or stay in your current role.
+
+Write these down. In the negotiation, you will anchor high (on the aspirational number or slightly above), have your target in mind, and know clearly when to walk.
+
+---
+
+## Part 3: Before the Offer
+
+Much of the negotiation happens before the offer is made. The questions you answer earlier in the process determine your starting position.
+
+### The Current Salary Question
+
+"What are you currently making?" has been asked of every job seeker forever. In many US states it is now illegal for employers to ask this, but informal versions persist ("what are your salary expectations?").
+
+The preferred response, if asked: deflect to market rate and your research.
+
+"I'd rather focus on what the role requires and what the market pays for it. Based on my research, roles at this level typically pay in the range of X to Y. I'm looking for something in that range, depending on the overall package."
+
+Or, more briefly: "I'm looking for a competitive package that reflects the level of the role and current market rates. Happy to share specifics once we're discussing a real offer."
+
+### The Expected Salary Question
+
+If pushed for a specific number, give a range with the top of your target as the midpoint.
+
+If your target is $180k, you might say "I'm looking at roles in the $170 to $210 range, depending on the overall comp structure." This positions your target firmly as the mid-range, not the ceiling.
+
+Avoid giving a single number. Never commit to a number you haven't yet had time to consider against the full offer. "I need to see the full package to give you a meaningful answer" is a reasonable and professional response.
+
+### The Competing Offers Question
+
+If you have other offers, mentioning them selectively is fine. Specificity matters. "I'm in the final stages with two other companies, one of which has already made an offer" is useful information. "Lots of people are interested in me" is not.
+
+Never fabricate competing offers. Hiring teams talk. Getting caught bluffing about an offer you don't have eliminates trust and typically ends the process.
+
+---
+
+## Part 4: The Initial Offer Response
+
+The moment the offer arrives is the most important moment in the process. Most people's instinct is to say thank you and accept. This is almost always a mistake.
+
+### The Pause
+
+Whatever the offer is, take time before responding.
+
+"Thank you so much. I'm excited about the opportunity. I want to take a day or two to review the details carefully and come back to you with any questions. When do you need my decision?"
+
+This is standard, expected, and professional. No reasonable employer will pull an offer because you asked for 48 hours to consider it. Any that would is an employer you do not want to work for.
+
+The pause gives you time to think, consult trusted advisors, and plan your counter. It also signals that you are treating this as a serious decision, which is itself a negotiating move.
+
+### The Initial Assessment
+
+Once you have the offer in writing, assess it against your research.
+
+- Is the base salary in or above the market range?
+- Is equity meaningful and on a standard vesting schedule?
+- Is the bonus structure reasonable?
+- Are benefits comparable to the industry standard?
+- Is there anything unusual or problematic in the offer?
+
+If the offer is strong across the board and above your target, you may choose to accept with minor tweaks. If it is at or below your target, a counter is appropriate. If it is significantly below or has problematic terms, a substantial conversation is needed.
+
+---
+
+## Part 5: The Counter
+
+The counter-offer is where most job seekers get nervous. The research is clear: candidates who negotiate receive higher offers on average, and the negotiation rarely costs the job.
+
+Deepak Malhotra's work at Harvard Business School, summarised in articles in HBR and in his book *Negotiating the Impossible*, is a useful reference. His talks on job negotiation have become standard viewing. The core principles he articulates apply broadly.
+
+### The Structure of a Good Counter
+
+A good counter has four components:
+
+**Continued enthusiasm.** Reaffirm your interest in the role and the company.
+
+**Specific asks.** What you'd like changed, in concrete numbers.
+
+**Brief justification.** Why the asks are reasonable, grounded in market data and your value.
+
+**Flexibility.** Signal that you're open to solutions that work for both sides.
+
+### Sample Language
+
+Here is a template. Adapt it to your specifics:
+
+"Thank you so much for the offer. I'm really excited about the opportunity to join [Company] and work on [specific thing]. After reviewing the details and doing some research on market rates for roles at this level, I wanted to share a few thoughts.
+
+The base salary came in at $180k. Based on my conversations with peers in similar roles and data from [Levels.fyi / industry source], the range for this level appears to be closer to $200-220k. Given my specific experience with [specific skill / specific project type], I think a base in the $210k range would be more in line with what I bring.
+
+I'd also like to understand whether there's flexibility on the signing bonus, as I'd be walking away from an unvested bonus of $20k at my current company.
+
+I'm confident we can find a package that works well for both of us. I'd love to move forward quickly once we're aligned."
+
+This is specific, grounded, enthusiastic, and open-ended. It gives the employer multiple levers to pull (base, signing bonus, equity) rather than a single line-in-the-sand demand.
+
+### What to Avoid
+
+A few counter-offer patterns consistently weaken your position:
+
+**The apologetic counter.** "I'm sorry to ask, but would it be possible to maybe..." Undermines the ask before it's made. Be direct.
+
+**The threat-based counter.** "I have another offer and I need to know by Friday." Sometimes necessary, often counterproductive. The information is useful if true and relevant; the threat framing rarely helps.
+
+**The one-shot counter.** Bundling everything into a single demand. Better to share multiple interests and let the employer find the combination that works.
+
+**The "my minimum is X" counter.** Explicitly naming your walk-away number eliminates your BATNA as leverage. You can know your minimum. You shouldn't share it.
+
+---
+
+## Part 6: Specific Negotiation Scenarios
+
+### The "We Don't Negotiate" Response
+
+Some companies, particularly at junior levels or in high-volume hiring, claim not to negotiate. In practice, this is usually partially true — base salary may indeed be fixed by bands, but other components may be flexible.
+
+The response: "I understand the base is set at this level. Is there flexibility on [signing bonus / additional equity / start date / PTO]?"
+
+Often yes. The company's claim to "not negotiate" frequently means "we don't negotiate the specific thing you first asked about."
+
+### The "This Is Our Best Offer" Response
+
+When a company says the offer is final, they are usually — not always — telling the truth about that specific component. Other components may still be flexible.
+
+The response: "I appreciate that the base is final. Given that, could we look at the equity / bonus / signing bonus to close the gap?"
+
+If the full offer is genuinely fixed, you then have a decision to make: accept, walk, or pause. You do not have infinite negotiation room. But verifying which elements are actually fixed before accepting is the right move.
+
+### Equity at Startups
+
+Startup equity is the most commonly misunderstood component of compensation. Ask these questions before accepting:
+
+- How many total shares outstanding? (Your percentage is your shares divided by this number, not by shares authorised.)
+- What was the last preferred round's price per share?
+- What's the preference stack? (Determines your payout in a moderate exit.)
+- What's the vesting schedule?
+- What happens on acquisition or IPO?
+- Can you exercise early, and what are the tax implications?
+
+For meaningful equity, consult a tax advisor before accepting. The tax treatment of options vs RSUs vs early exercise has large consequences.
+
+### Internal Raises and Promotions
+
+Internal negotiations differ from external in important ways. You already know the company's constraints. They know your performance history. The BATNA is often weaker (leaving requires a new job search).
+
+Strengths of internal negotiations: you have a long record of demonstrated value, you understand the organisation's priorities, and you can make the case grounded in specifics.
+
+The structure is similar: research the market and internal bands, propose specific changes, justify with evidence, stay collaborative. The timing matters more — align the conversation with performance review cycles or after clear wins, not during periods of organisational stress.
+
+For promotions specifically, the conversation is often better framed around scope and responsibility than purely compensation. "I've been operating at the next level on [specific projects]. I'd like to formalise that with a promotion." The compensation adjustment tends to follow.
+
+### The Exploding Offer
+
+Some companies present offers with short decision windows (24-48 hours). This is usually an attempt to prevent you from comparing options.
+
+The response: "I'm genuinely interested in this role. To make a decision of this magnitude, I need enough time to review the details carefully. Could we extend the deadline to [a week out / a specific date]?"
+
+Most companies will extend. Those that refuse to give you reasonable decision time are often revealing something about their culture you may want to know.
+
+---
+
+## Part 7: After the Negotiation
+
+Once you've accepted an offer, the negotiation is over and the relationship begins. A few practices make the transition smoother.
+
+**Get everything in writing.** The final signed offer letter should reflect all negotiated terms: base, bonus structure, equity, start date, any special arrangements. If any verbal commitment was made during negotiation, ensure it appears in writing.
+
+**Be gracious.** Whatever happened in the negotiation, the outcome is that you're joining this team. Express genuine appreciation. Signal that you're ready to contribute. The goodwill compounds over the first few months.
+
+**Don't tell everyone your number.** Compensation transparency is increasingly normal and often good, but sharing your specific negotiated number with new colleagues before you've established yourself can create friction. Use discretion in the early months.
+
+**Plan the next negotiation.** Your first salary at this company is the anchor for raises going forward. The work you do in the first year — particularly the achievements you document — becomes the case for the next increase. Start tracking wins and impact from day one.
+
+---
+
+## Part 8: The Mindset Piece
+
+A final note, because it matters as much as the tactics.
+
+The single biggest obstacle to good negotiation is not lack of technique. It is the feeling that you are being greedy, pushy, or unreasonable for asking. This feeling is nearly universal and nearly always wrong.
+
+Companies expect negotiation. They build in room for it. They respect candidates who handle it professionally. The candidates who don't negotiate are leaving money on a table that was specifically set up to be negotiated over.
+
+The reframe: asking is a professional skill, not a character flaw. The conversation is about finding the deal that works for both sides. If your ask is grounded in research and delivered respectfully, it does not endanger the offer. In most cases, it strengthens the employer's view of you.
+
+This reframe is easier to read than to internalise. It takes practice. The first negotiation feels terrifying. The third feels hard. The tenth feels like a normal conversation about a normal professional topic. Every negotiation you do makes the next one easier.
+
+For a companion piece on how to present yourself during the interviews that lead to these negotiations, see our [Complete Job Search Playbook](/guides/job-search-playbook). And for leaders navigating the other side of these conversations — compensation decisions as managers — [The Leader's Table](https://theleaderstable.xyz) covers the principles that produce equitable and defensible offers.
+
+---
+
+## A Final Short Checklist
+
+Before your next negotiation, make sure you have:
+
+Market data from at least three sources for your role, level, and geography.
+
+A clear target, aspirational number, and walk-away.
+
+A strong sense of your BATNA.
+
+A written draft of your counter with specific asks and justifications.
+
+A plan for the conversation: when, how, with whom.
+
+An understanding of the full compensation picture, not just base.
+
+A short list of non-salary levers you could pull if needed.
+
+Emotional preparation for the conversation, ideally with a trusted person who can help you practise.
+
+If you have all eight, you are dramatically ahead of most candidates walking into the same conversation. That preparation, more than any single tactic, is what reliably produces the higher offer.
     `,
   },
 ];
