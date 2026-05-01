@@ -2709,6 +2709,105 @@ The 30 minutes per application sounds like a lot until you compare it to the alt
 For a complete framework on applying these tailoring principles across every stage of the search, see our [job search playbook](/guides/job-search-playbook). For the broader context on how AI tooling fits into the modern resume process, [How Do I Use AI](https://howdoiuse.ai) covers prompt patterns for using AI to assist with the audit itself without producing the kind of generic, AI-flavoured language that hiring managers now actively flag.
     `,
   },
+  {
+    slug: 'junior-postings-fell-7-percent-2025-2026-strategy',
+    title: 'Junior Job Postings Fell 7 Percent in 2025: What That Actually Means for Your 2026 Search',
+    description: 'Indeed Hiring Lab data showed junior-level job postings fell 7 percent year-over-year in 2025 while senior postings rose 4 percent. New grad unemployment hit 5.7 percent in Q4 2025 and underemployment reached 42.5 percent. This article explains what those numbers mean for how you should search in 2026 and the four shifts in approach that the data supports.',
+    category: 'Job Search',
+    readTime: '12 min read',
+    publishedAt: '2026-05-01',
+    content: `
+## The Numbers That Reframe the 2026 Search
+
+Three pieces of data published between November 2025 and April 2026 tell a coherent story about the entry-level and early-career job market. Anyone running a job search this year should know all three.
+
+The first comes from Indeed Hiring Lab. Between August 2024 and August 2025, job postings advertising junior titles fell 7 percent, while postings for senior titles rose 4 percent. That gap held across most knowledge-work sectors. Internship postings sat at their lowest level since 2020 by the end of 2025 before recovering modestly into early 2026. Indeed's 2026 US Jobs and Hiring Trends Report, published November 2025, framed the year's pattern as a "labor market in pause" rather than a downturn, but the pause has not been distributed evenly across experience levels.
+
+The second comes from the Federal Reserve Bank of New York's college labor market tracker. In Q4 2025, the unemployment rate for recent college graduates hit 5.7 percent, a three-year high. The underemployment rate, defined as recent grads working in jobs that do not require a degree, reached 42.5 percent, the highest reading since 2020. Separately, the share of unemployed Americans who were new workforce entrants peaked at 13.3 percent in July 2025, a 37-year high.
+
+The third comes from ZipRecruiter's 2026 grad report and the National Association of Colleges and Employers (NACE) Job Outlook 2026. Despite the headline numbers, 77 percent of 2025 college graduates surveyed by ZipRecruiter said they found a job within three months of earning their degree, up from 63 percent of 2024 grads. NACE's employer survey projected a 5.6 percent increase in Class of 2026 hiring, the highest projected rise since 2022.
+
+The combination is unusual. The market is harder than it was for entry-level workers, and the data on those hardships is real. But the people running searches are also adapting faster, and the time-to-hire for new grads who do find jobs has compressed. Both things can be true at once, and a 2026 job search strategy needs to take both into account.
+
+## What the 7 Percent Decline Actually Means
+
+A 7 percent year-over-year drop in junior postings is meaningful but not catastrophic. Roughly translated, it means that for every 100 junior-level openings posted in summer 2024, there were 93 posted in summer 2025. The drop was steeper in certain sectors. Indeed Hiring Lab's July 2025 analysis on tech specifically showed entry-level software postings down 33 percent from pre-pandemic levels, a much larger drop than the cross-industry 7 percent.
+
+What this means for an individual searcher depends on which sector they are searching in. In health care, education, skilled trades, and customer-facing operations, junior demand stayed roughly flat or grew. In tech, marketing, media, finance back-office work, and most corporate functions, the drop was sharper than 7 percent. A candidate's first move in 2026 should be to find out what their target sector's actual numbers were rather than assume the headline figure applies to them.
+
+The senior posting growth is the other side of the same equation. When companies hire more cautiously, they tilt toward proven contributors. The 4 percent rise in senior postings reflects companies wanting more output per hire and being willing to pay for experience to get it. For early-career searchers, the practical implication is that the bar for what reads as "early career" has shifted upward. Postings that would have been junior in 2022 now expect a year or two of relevant experience. Postings that read as junior in 2026 often expect what 2022 would have called mid-level.
+
+This is not new. Indeed Hiring Lab's analysis of experience-requirement creep in 2025 showed the median posting in white-collar work added roughly six months of expected experience versus 2023. The job titles did not change, but the requirements behind them did.
+
+## Why the Time-to-Hire Compressed Anyway
+
+The ZipRecruiter finding that 77 percent of 2025 grads landed jobs within three months, versus 63 percent of 2024 grads, is the part of the data that contradicts the rest. If the market is harder, why did searches get shorter?
+
+Three things appear to be happening simultaneously, based on the qualitative data in the same reports.
+
+Searchers adjusted expectations. The average starting salary for the 2025 cohort came in 4 percent below comparable 2024 offers in real terms. Candidates accepted offers in adjacent fields rather than holding out for first-choice roles. Some of the 77 percent figure is achievement, and some of it is acceptance.
+
+Application volume rose, but so did selectivity within volume. The same ZipRecruiter data shows the average new grad submitted more applications than the prior year. Inside that volume, the ones who succeeded were applying to fewer roles per company and tailoring more carefully. Generic spray submissions did less, and targeted submissions did more.
+
+Network-routed applications closed more often. A LinkedIn analysis from early 2026, citing internal data on applicant outcomes, found that referrals were converting to interviews at roughly 4 times the rate of cold applications, up from 2.5 times in 2023. The market shift made the network premium larger, and candidates who used networks found jobs faster.
+
+These three patterns are the actionable part of the data. The market got harder. The searchers who adapted got jobs anyway. The shape of the adaptation is what the rest of this article walks through.
+
+## The Four Shifts in Approach the Data Supports
+
+### Shift One: From Volume to Tailored Volume
+
+The old advice was either "apply to everything" or "apply only where you fit perfectly." Neither matches the 2026 data. What worked for the 77 percent in the ZipRecruiter cohort was applying broadly within a tightly defined target list and tailoring at the level of the application.
+
+Practically, that looks like building a list of 40 to 60 target companies that fit your sector, rough size preference, and location flexibility. From that list, applying to every relevant role with a 30-minute targeted edit per application rather than a generic submission. Our [30-minute job description audit guide](/resources/job-description-audit-tailoring-resume-2026) walks through the specific edits that produce a tailored application without requiring a rewrite.
+
+The volume number that worked for the 2025 cohort was usually 30 to 80 applications across the search, not 200 to 500. Quality of fit and quality of tailoring beat raw count.
+
+### Shift Two: From Cold Applications to Network-Routed Applications
+
+The 4x referral-to-interview lift in the 2026 LinkedIn data is the largest single multiplier in the recent research. It outpaces every other variable, including resume quality, cover letter presence, and interview preparation. A referred candidate with a passable resume converts more often than a cold candidate with an excellent one.
+
+What this means for a 2026 search is that networking is no longer optional or supplementary. It is the highest-yield channel available. Practically, that means before applying to any role on your target list, spending 15 minutes to identify whether you know anyone at that company or know anyone who knows anyone. If yes, route the application through that connection. If no, decide whether the role is high-priority enough to be worth a few hours of cold outreach to build the connection before applying.
+
+For early-career searchers, the network-building question is harder because the existing network is small. Our [hidden job market networking guide](/resources/hidden-job-market-networking-2026) covers what works specifically for candidates without an existing network. Alumni networks, niche professional communities (Slack groups, Discord servers, sector-specific forums), and informational interviews remain the most reliable channels, in roughly that order.
+
+### Shift Three: From "Entry-Level" to "Adjacent Experience"
+
+The experience creep in 2026 postings means that the cleanest path into a target role is often not a direct entry-level role. It is an adjacent role at the same company or an adjacent company, with a clear handoff into the target track within 12 to 18 months.
+
+The underemployment statistic (42.5 percent of recent grads working below their degree level) reads as a problem in the headline. In the structured search context, it is also a feature. A first job that is not the dream role is the on-ramp to roles that require experience a fresh graduate cannot provide. The data on internal mobility supports this. Workers who started in adjacent roles within their target sector and moved into target roles within 18 months reached the same career trajectory by year three as those who landed the target role directly. The difference, by year five, was small.
+
+The practical move is to design the early-career search in two layers. The first layer is target-role applications. The second layer is on-ramp applications: roles in the same sector, at the same kind of company, that can plausibly route into the target role within a defined time window. Both layers run in parallel. An offer in either is meaningful progress.
+
+### Shift Four: From One-Pass Application to Two-Pass Search
+
+The 2026 data on time-to-hire compression for the cohort that did succeed shows a pattern of two-pass searching. Candidates submitted an initial wave of applications based on their first read of the market, learned what was working and what was not from the first wave's responses, and adjusted before the second wave.
+
+This is structured iteration, not random retry. The signals to track in the first wave are response rate per resume version, response rate per channel (cold versus referred versus alumni), and which kinds of role descriptions you are converting on. After 15 to 25 applications, the patterns are usually visible enough to adjust. The second wave applies the lessons.
+
+The candidates who did not adapt mid-search tended to spend longer in the search overall. The candidates who did adapt converged faster. The data is not subtle on this point. Our [complete job search playbook](/guides/job-search-playbook) covers the iteration framework in detail.
+
+## What the Data Does Not Support
+
+A few pieces of advice that have been circulating since late 2025 do not hold up against the 2026 numbers, and a clean search strategy should leave them out.
+
+The advice to "outwait the market" by deferring graduation or extending an existing role is not supported. The 2026 NACE projection of 5.6 percent hiring growth is a modest positive, but the senior-tilt in postings is structural, not cyclical. Waiting for the market to revert to a 2021 pattern is waiting for something that the data does not predict.
+
+The advice to "apply to everything" is not supported. The volume thresholds in the 2026 successful-cohort data top out around 80 to 100 applications. Above that, response rates per application fell off sharply, suggesting that beyond a certain threshold the marginal application is reaching less relevant openings.
+
+The advice to lean entirely on AI-generated resumes and cover letters is not supported. ResumeGenius's 2026 Hiring Insights survey reported 51 percent of hiring managers actively flag AI-generated language. Some AI assistance is fine, but fully AI-written applications convert at lower rates than human-written ones with light AI assistance. Our [AI resumes backfiring guide](/resources/ai-resumes-backfiring-2026) covers the specific phrasings hiring managers are now flagging.
+
+## Putting It Together
+
+The 2026 entry-level and early-career market is harder than the 2022 one. That is real, and the numbers back it up. The market is also navigable with a different shape of search than the one that worked four years ago. The 77 percent of 2025 grads who found jobs in three months did not navigate it by working harder. They navigated it by working differently.
+
+The four shifts above (tailored volume, network routing, adjacent on-ramps, two-pass iteration) are the difference between a search that compounds and a search that grinds. None of them are new individually. What changed is that the market now penalises the older, less deliberate approach more sharply than it used to, and rewards the deliberate approach more than it used to.
+
+For a structured walkthrough of what the first month of a 2026 search should look like, our [job search playbook](/guides/job-search-playbook) lays out the week-by-week plan. For the broader career frame around how to position yourself for early-career growth once you do land that first role, our sister site [The Leader's Table](https://theleaderstable.xyz) covers how to build the kind of operating reputation that makes the second job easier than the first.
+
+The data is harder than it was. The path through it is clearer than it was, too.
+    `,
+  },
 ];
 
 export const guides: Guide[] = [
