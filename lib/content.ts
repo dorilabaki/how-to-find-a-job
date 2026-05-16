@@ -2920,6 +2920,158 @@ For the deeper question of how to build a resume voice that the AI screening lay
 *Join 211,000+ professionals at How To Find A Job for evidence-based career strategy.*
 `,
   },
+,
+  {
+    slug: 'resume-optimization-ai-screening-2026',
+    title: 'How to Optimize Your Resume for AI Screening in 2026',
+    description: '91% of employers now use AI to screen resumes. This guide shows you how to get past the algorithms without sacrificing the human reader. Covers ATS optimization, metrics that matter, and the AI skills that open doors.',
+    category: 'Resume',
+    readTime: '8 min read',
+    publishedAt: '2026-05-16',
+    content: `
+## The Reality: AI Controls the First Gate
+
+The job market has fundamentally changed. According to data from Resume Genius and Tracker surveys, 91% of employers now use AI-powered applicant tracking systems (ATS) to screen resumes before a human ever sees them. This number has climbed steadily from 73% in 2024.
+
+That does not mean your resume needs to sound like a robot wrote it. It means your resume needs to be readable by both machines and people. The candidates winning in 2026 are the ones who understand the dual audience: the algorithm that decides whether your resume gets forwarded, and the hiring manager who decides whether you get the interview.
+
+## Why AI Screening Exists (And Why It Matters)
+
+The volume problem is real. Large companies receive thousands of applications per opening. Manually screening all of them is not possible. AI screening is not a preference—it is a necessity at scale.
+
+The way it works: you submit your resume. The ATS parses it (extracts text and structure). Then the AI scores it against the job posting. Resumes that score above a threshold get passed to a human recruiter. Resumes below the threshold are rejected, often automatically.
+
+The threshold varies by company. Some set it conservatively (maybe 40% match). Some set it aggressively (80%+ match required). But the principle is the same: there is a gate, and if you do not clear it, a human never sees your application.
+
+## ATS Parsing: The Machine-Readability Problem
+
+The first step happens before AI scoring even begins. The system has to parse your resume—extract the text and structure it so it can be evaluated.
+
+This is where most resumes fail, and the failure is preventable.
+
+**What breaks parsing:**
+- Complicated formatting (multiple columns, text boxes, graphics)
+- Images embedded in the document (the parser cannot read them)
+- Non-standard fonts or symbols
+- Unusual spacing or layout tricks designed to save space
+- PDF files that do not convert cleanly to text
+- Using blank lines or symbols to create visual structure
+
+A 2025 study from the Resume Genius hiring insights report found that 23% of resumes submitted by educated, accomplished professionals could not be parsed correctly by major ATS vendors. Not because the content was wrong, but because the format was unusable.
+
+**What works for parsing:**
+- Single column layout
+- Standard headings (Experience, Education, Skills)
+- Clean, simple formatting
+- Docx or PDF (not image-based)
+- Keywords from the job posting actually present in the text
+- Chronological or skills-based organization (no "creative" structures)
+
+If your resume cannot be parsed, it does not get scored. If it does not get scored, it does not matter what is in it.
+
+## AI Scoring: The Keyword Matching Game (And How to Win It)
+
+Once parsed, your resume is scored. The AI looks for:
+
+1. **Keyword match**: How many of the terms from the job posting appear in your resume?
+2. **Experience relevance**: Does your work history match what they are looking for?
+3. **Metrics and outcomes**: Do you quantify your accomplishments?
+4. **Skills alignment**: Do you list the specific tools, languages, or certifications they need?
+
+The keyword part is the one most people get wrong. They assume "project management" in their background is the same as "project management" in the job posting. It is not—from an algorithmic perspective. The AI is often looking for the exact phrase, not synonyms.
+
+**How to match keywords:**
+1. Get the job posting.
+2. Extract every skill, tool, qualification, and responsibility mentioned.
+3. Check your resume. Do you use those exact terms?
+4. If you have that experience but used different language, update your resume to use the job posting's language.
+
+Example: The posting says "SQL database optimization." Your resume says "improved database performance." The AI might not match these, even though they describe the same work. Update your resume to say "SQL database optimization" or add it as a bullet point.
+
+The 40% response rate bump for resumes with metrics is not magic—it is because metrics are often used as a proxy for seniority and impact. Instead of "Managed projects," say "Led 12 projects totaling $2.3M in revenue" or "Reduced processing time by 35%, saving 8 hours per week."
+
+## AI Skills Are Now Table Stakes in Tech
+
+Nearly 41% of tech job postings now list AI as a required or preferred skill, according to 2026 job market analysis. This has shifted what "qualified" means in technical roles.
+
+If you work in technology, you need to address AI on your resume, even if your role does not focus exclusively on it. This could be:
+- ChatGPT, Claude, or other AI tools you use for coding assistance
+- Prompt engineering or fine-tuning experience
+- Data science or machine learning projects
+- AI-augmented workflows (using AI for research, documentation, testing)
+
+Be specific about how you use AI, not just that you use it. "Used Claude for code review and documentation" is more credible than "AI proficiency."
+
+## The 72% Skills-Based Hiring Shift
+
+According to 2026 job market data, 72% of employers now prioritize skills over credentials. This is a massive shift from the degree-centric hiring of the past.
+
+On your resume, this means:
+1. **Lead with skills that match the posting**, not your degree
+2. **Show what you can do**, not what you studied
+3. **Use portfolio links** if applicable (GitHub, Dribbble, Medium, etc.)
+4. **Quantify skill depth** ("3 years production experience with AWS" beats "AWS proficiency")
+5. **Include certifications** if they are relevant to the role
+
+The education section used to anchor a resume. In 2026, it is often below the fold. Your experience section and skills section have become more important.
+
+## Building a Resume That Passes AI But Reads Like You
+
+The tension is real: you want the resume to pass the algorithm, but you also want a human to read something that sounds authentic, not robotic.
+
+The solution is structure, not voice. Your voice—your actual writing—can stay. What changes is the organization and keyword usage.
+
+**Structure that works for both:**
+
+**Header.** Name, phone, email, LinkedIn URL. That is it. Do not add a "professional summary"—it is usually filler.
+
+**Skills Section.** Before experience. List skills in the order they appear in the job posting. Example: "Python, AWS, SQL, Docker, React, Git" if the posting weighted them that way.
+
+**Experience (Reversed Chronological).** For each role, include:
+- Job title, company, dates
+- One sentence describing the role
+- 4-6 bullet points with metrics
+
+Each bullet should start with an action verb and include a number or outcome. The AI is looking for signal. Numbers provide signal.
+
+**Education.** Degree, school, graduation date. No GPA unless it is above 3.7. Do not list individual courses.
+
+**Certifications/Projects** (if relevant). Keep this section tight. Include only what the job posting suggests is valuable.
+
+Do not try to be clever. Do not try to save space with creative formatting. The resume that performs best in 2026 is not the most visually stunning—it is the one that a recruiter can scan in 6 seconds and an AI can parse in 2 seconds.
+
+## The One Mistake That Kills Most Resumes
+
+You submit the same resume to every job. You change the company name or the job title maybe, but the rest stays the same.
+
+Stop doing this.
+
+The single highest-leverage move is a tailored resume for each application. Not a complete rewrite—just adjusting:
+1. Bullet point order (put the most relevant achievement first)
+2. Keyword usage (use the posting's language)
+3. Skills order (list what they care about first)
+
+This takes 10 minutes per application. It is the difference between a 2% response rate and a 5-8% response rate.
+
+If you are applying to 10 similar roles, the resume can be similar across them. But if you are applying to a product manager role one day and an operations role the next, the resume should look different because you are highlighting different strengths.
+
+## Practical Moves This Week
+
+1. **Audit your current resume against five recent job postings.** How many keywords from each posting appear in your resume?
+2. **Convert your resume to a single-column, simple-format docx** if it is not already.
+3. **Add metrics to every bullet point** that does not have one. Use numbers that are honest and specific.
+4. **Create a "master resume"** with all your accomplishments, then tailor it for each application.
+5. **If you work in tech, add a line about how you use AI** in your work, even if it is just "use Claude for code review and documentation."
+
+The job search funnel is real and it is not friendly. But it is deterministic. Optimize for the algorithm, and you get to the human. Optimize for the human alone, and you never make it past the gate.
+
+For strategic context on whether the 91% AI screening rate is good or bad for your career prospects, see our [skills-based hiring guide](/resources/skills-based-hiring-2026). For the mindset piece of staying resilient across multiple applications, check out [Growth Mindset Academy](https://growthmindset.academy).
+
+---
+
+*Sources: Resume Genius, "2026 Hiring Insights Report: ATS, AI, & Employer Expectations" (2026); Tracker ATS Market Analysis (2026); LinkedIn Workplace Learning Report (2026); Robert Half 2026 Salary Guide and Hiring Trends (2026); ZipRecruiter AI in Hiring Report (2026); Bureau of Labor Statistics, Job Market Analysis (May 2026).*
+    `,
+  },
 ];
 
 export const guides: Guide[] = [
