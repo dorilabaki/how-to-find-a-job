@@ -2920,7 +2920,6 @@ For the deeper question of how to build a resume voice that the AI screening lay
 *Join 211,000+ professionals at How To Find A Job for evidence-based career strategy.*
 `,
   },
-,
   {
     slug: 'resume-optimization-ai-screening-2026',
     title: 'How to Optimize Your Resume for AI Screening in 2026',
@@ -3070,7 +3069,201 @@ For strategic context on whether the 91% AI screening rate is good or bad for yo
 ---
 
 *Sources: Resume Genius, "2026 Hiring Insights Report: ATS, AI, & Employer Expectations" (2026); Tracker ATS Market Analysis (2026); LinkedIn Workplace Learning Report (2026); Robert Half 2026 Salary Guide and Hiring Trends (2026); ZipRecruiter AI in Hiring Report (2026); Bureau of Labor Statistics, Job Market Analysis (May 2026).*
-    `,
+
+---
+
+*Join 211,000+ professionals at How To Find A Job for evidence-based career strategy.*
+`,
+  },
+  {
+    slug: 'skills-based-job-search-2026',
+    title: 'Skills-Based Job Search in 2026: Beyond Traditional Credentials',
+    description: 'The job market has shifted. 72% of employers now prioritize what you can do over where you went to school. Here\'s how to position yourself in a skills-first world.',
+    category: 'Career Strategy',
+    readTime: '9 min read',
+    publishedAt: '2026-05-20',
+    content: `
+## The Credential Crisis Is Over—But Many Job Seekers Don't Know It
+
+For decades, a college degree was your golden ticket. A diploma hanging on the wall meant doors would open. Employers checked the box: degree? Yes. Hire.
+
+That world is gone.
+
+Today, 72% of employers in 2026 prioritize what candidates can actually do over their credentials. The company doesn't care where you got your degree. They care whether you can solve their problems.
+
+This shift is uncomfortable for credential-obsessed job seekers. But it's an enormous opportunity for everyone else.
+
+## Understanding the Skills-Based Hiring Movement
+
+### Why It Started
+
+Three forces converged to change hiring:
+
+1. **The skills shortage**: Companies discovered they were losing candidates to rejected applications because of credential requirements that weren't actually necessary to succeed in the role.
+
+2. **The talent pool shrinks**: Traditional hiring practices excluded capable candidates who learned through bootcamps, on-the-job experience, or independent study rather than a four-year degree.
+
+3. **Measurable outcomes**: Modern hiring tools now make it possible to assess actual skills rather than relying on proxy signals like degrees.
+
+Companies realized: hiring only from Stanford graduates was eliminating 95% of the talented people who could do the job.
+
+### The Opportunity for You
+
+If you've been penalized for non-traditional credentials, or if you developed your skills outside the classroom, this is your moment.
+
+You no longer need to apologize for your educational background. You need to demonstrate your capabilities.
+
+## How to Position Yourself in a Skills-First Market
+
+### 1. Audit Your Actual Skills (Not Your Degrees)
+
+Take inventory of what you can actually do:
+
+- **Technical skills**: Programming languages, platforms, tools, certifications
+- **Domain expertise**: Deep knowledge in a specific industry or function
+- **Soft skills**: Communication, leadership, project management, adaptability
+- **Proven outcomes**: Projects you've shipped, metrics you've improved, problems you've solved
+
+Write these down. Be specific. "Communication" is vague. "Led cross-functional marketing projects with 5+ stakeholders across 3 continents and delivered on time and under budget" is what employers want.
+
+### 2. Build a Portfolio or Work Samples
+
+A portfolio is now more valuable than a resume.
+
+**For creative roles**: Your portfolio replaces your resume. Dribbble for design, GitHub for engineering, Medium for writing.
+
+**For non-creative roles**: You can still demonstrate skills:
+- A Google Sheet showing your analysis of a business problem (anonymized, of course)
+- A case study of a project you led and its impact
+- A sample presentation you've given
+- Documentation of a process you improved
+
+**For recent career changers**: This is your secret weapon. A portfolio shows you've actually applied your new skills, even if you don't have years of work experience yet.
+
+### 3. Rewrite Your Resume for Skills, Not Jobs
+
+Your resume should highlight what you *can do*, not just what job titles you held.
+
+Instead of: "Marketing Manager at TechCorp"
+
+Write: "Led product launch strategy that increased user acquisition by 34% in Q2 2025. Managed $500K annual budget across paid, organic, and partnership channels."
+
+Instead of: "Responsible for customer relationships"
+
+Write: "Developed and maintained relationships with 25 key enterprise clients, increasing average contract value by 18% through consultative approach."
+
+**Every bullet point should answer**: What's the skill? What's the proof?
+
+### 4. Develop Certifications That Matter
+
+Not all certifications are created equal. Employers in a skills-based world value certifications that prove you can actually do something:
+
+**High-value certifications** (in demand, verifiable):
+- Google Cloud Certification
+- AWS Solutions Architect
+- Salesforce Administrator
+- Project Management Professional (PMP)
+- HubSpot certification
+- Data Analytics certifications
+
+**Medium-value certifications**:
+- Industry-specific certifications that employers ask for
+- Advanced Excel, SQL, Python certifications
+- Specialized training in tools your target companies use
+
+**Lower-value certifications**:
+- Generic "leadership" or "communication" certs
+- Certifications no one's heard of
+- Certificates that cost $15 and don't require assessment
+
+Focus on certifications that employers specifically ask for or that directly support your target role.
+
+### 5. Document Your Adaptability
+
+In a skills-first world, the ability to learn new skills matters as much as the ones you have today.
+
+Share evidence that you adapt:
+- "Shipped 3 projects in a tech stack I had no prior experience with"
+- "Learned and implemented new analytics platform in 2 weeks"
+- "Transitioned from agency to in-house client management and increased retention by 22%"
+
+Employers in 2026 know the skills they need today might be outdated in 18 months. They're hiring for learners, not just current expertise.
+
+## How to Navigate Job Applications in a Skills-Based World
+
+### Use Job Postings as Your Research Tool
+
+Modern job postings list the skills they actually care about. Use this:
+
+1. **Extract the key skills** mentioned in the posting
+2. **Match them to your experience** in your resume and portfolio
+3. **Emphasize the overlap** in your cover letter or application
+
+If the posting mentions "Python," "data analysis," and "stakeholder communication," make sure those three things are visible and prominent in your materials.
+
+### Highlight Transferable Skills
+
+The biggest advantage of skills-based hiring is that your career path doesn't have to be linear anymore.
+
+If you're transitioning from teaching to product management, don't hide it. Highlight the skills that transfer:
+- "5 years of managing 30+ student relationships and 10+ parent stakeholder communications"
+- "Designed and tested 3 new curriculum approaches based on quarterly feedback loops"
+- "Managed a $15K annual budget for classroom materials and technology"
+
+These are product management skills. They just happened in a classroom instead of a startup.
+
+### Create a Skills-Focused Cover Letter
+
+Skip the resume restatement. Instead, tell the story of your skills:
+
+"Your posting emphasizes Python, data visualization, and stakeholder communication. I've used all three in my role at [Company], shipping a customer analytics dashboard in Python that reduced reporting time by 40% and is now used by 20+ teams. Here's the GitHub repo [link]."
+
+Short, specific, evidence-based. That's a skills-focused cover letter.
+
+## Overcoming Common Objections
+
+### "But I Don't Have a College Degree"
+
+You're in a better position than you think. Your lack of a degree is only a problem for companies still hiring on credentials. Those companies are increasingly the minority.
+
+For everyone else, it simply doesn't matter. Prove your skills and you'll get hired.
+
+### "But the Job Posting Lists a Degree as Required"
+
+Job postings still list credentials. But "required" increasingly means "preferred." Apply anyway if you have the skills.
+
+Companies list degrees because they're used to filtering that way. But hiring managers care about capability.
+
+If you have 3+ years of relevant experience doing the work, apply. In a skills-first market, that experience counts.
+
+### "But I Come from a Non-Traditional Background"
+
+That's now an advantage, not a liability. You learned by doing, not studying. You've built things, shipped projects, and solved real problems.
+
+Lead with that. "I transitioned into tech through a bootcamp and 2 years of freelance projects, shipping work for 15+ clients across e-commerce, SaaS, and agency verticals."
+
+That's more impressive than "I have a degree in computer science."
+
+## Your Action Plan for This Week
+
+1. **Create a skills inventory**: List 15-20 specific, provable skills you have
+2. **Build or update your portfolio**: Add 2-3 samples of your work
+3. **Rewrite 3 bullet points on your resume**: Convert job duties to demonstrable skills
+4. **Identify 3-5 key skills** for your target role by analyzing recent job postings
+5. **Research one certification** that's valued in your target industry
+
+The job market has shifted. The companies winning at hiring know that credentials are yesterday's filter. Skills are tomorrow's currency.
+
+Start positioning yourself in this new reality now.
+
+---
+
+*Sources: Robert Half 2026 Workplace Trends Report; LinkedIn 2026 Talent Report; Indeed Hiring Trends Analysis (May 2026); World Economic Forum, "Future of Jobs Report 2026"; Gallup Workplace Learning & Development Survey (2026).*
+
+---
+
+*Join 187,000+ job seekers at How To Find A Job who are navigating the skills-first market.*
+`,
   },
 ];
 
