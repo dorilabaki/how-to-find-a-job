@@ -3396,6 +3396,142 @@ Being early isn't everything. But in a crowded job market, it counts.
 *Join 187,000+ job seekers at How To Find A Job for practical, research-backed strategies.*
 `,
   },
+  {
+    slug: 'living-resume-2026',
+    title: 'The Living Resume: Why Your Static Resume Is Hurting Your Job Search',
+    description: 'A living resume updates continuously with new skills, achievements, and outcomes. Learn how top candidates are ditching outdated resumes for a format that actually reflects their value.',
+    category: 'Resume Strategy',
+    readTime: '8 min read',
+    publishedAt: '2026-05-29',
+    content: `
+## The Problem With Your Current Resume
+
+You update it when you apply. Maybe you add a job once a year. In between, it sits unchanged while your actual capabilities grow constantly.
+
+Meanwhile, recruiters and hiring managers are evaluating candidates on something your resume doesn't reflect: what you've actually learned and accomplished since you last bothered to revise it.
+
+This is why the best job seekers in 2026 use a "living resume"—a document that gets updated regularly with fresh wins, new skills, and measurable outcomes. Not for applications. For themselves.
+
+## What Is a Living Resume?
+
+A living resume isn't static. It's updated continuously (weekly, minimum) with:
+- New skills you've picked up
+- Quantified outcomes from recent work
+- Problems you've solved
+- Technologies you've mastered
+- Feedback or recognition you've received
+
+Think of it as a running log of your professional growth. When a recruiter reaches out, you don't scramble to remember what you've done in the past six months. It's already documented.
+
+Robert Half's 2026 Salary and Hiring Trends report found that 64% of hiring managers now request "outcome-based" descriptions rather than task lists. A living resume naturally produces these outcomes because you're capturing wins as they happen, not months later.
+
+## Why Living Resumes Work Better
+
+### 1. You Actually Remember Your Wins
+
+Most job seekers forget what they accomplished by the time they update their resume. You did a major project in February, and by August you can barely articulate the impact.
+
+A living resume captures it immediately: "Redesigned customer onboarding flow → 34% reduction in support tickets → saved the company ~$50K in support costs."
+
+That number matters. A static resume would say: "Improved customer onboarding process."
+
+### 2. Recruiter Visibility
+
+Recruiters now scan LinkedIn and other public profiles, not just resumes. If your LinkedIn is current and your resume matches it, you're visible and credible. If they're misaligned or outdated, you're either invisible or look careless.
+
+### 3. You're Ready for Opportunities
+
+When a recruiter reaches out with a role that's "perfect for you," you don't have to frantically revise your resume. You pull from your living document, update the formatting, and submit within hours. Quick turnaround signals genuine interest.
+
+### 4. You Actually Know Your Value
+
+You become hyper-aware of what you're learning and contributing. This confidence shows in interviews. You can speak specifically about recent wins instead of dredging up old accomplishments.
+
+## How to Build Your Living Resume
+
+### Step 1: Create a Single Source (This Week)
+
+Use a Google Doc, Notion page, or Markdown file. Not your LinkedIn profile. Not your actual resume. A working document that lives somewhere you check it weekly.
+
+Title it: "Living Resume - [Your Name]"
+
+### Step 2: Add These Sections
+
+**Current Role:** [Title]
+
+**Key Focus Areas:** [3-4 main areas you own]
+
+**Recent Accomplishments:**
+- Date | Accomplishment | Impact (metric)
+- Example: May 2026 | Automated quarterly reporting | Saved 12 hours/month
+- Example: April 2026 | Trained 5 new team members on deployment | Reduced onboarding time by 40%
+
+**Skills I've Used or Added:**
+- New language or framework
+- Communication/collaboration improvement
+- Domain expertise development
+
+**Recognition/Feedback:**
+- Positive feedback from manager or peer
+- Award, public recognition, or promotion
+- Compliments on specific strengths
+
+**Challenges Solved:**
+- Problem | Your solution | Result
+
+### Step 3: Set a Weekly Update Ritual (Ongoing)
+
+Every Friday or Monday, spend 5 minutes adding to your living resume:
+- What shipped?
+- What went well?
+- What did you learn?
+- What feedback did you get?
+
+Add 1-3 items per week. It takes minutes and compounds over months.
+
+### Step 4: Translate to Application Resumes (When Needed)
+
+When you apply for a role, pull from your living resume. Use the accomplishments and skills most relevant to that position. Customize quickly because the heavy lifting (documenting your value) is already done.
+
+## What's Changing in 2026
+
+**National Association of Colleges and Employers (NACE) 2026 Job Outlook:** Employers are prioritizing skills and outcomes over degrees. Your living resume proving you actually have these skills beats a static list.
+
+**Robert Half Insights:** 48% of hiring managers now require evidence of specific skills via portfolio, project work, or outcome examples. A living resume backed by specifics beats vague descriptions.
+
+**Robert Half 2026 Hiring Trends:** The resume you wrote in 2024 is outdated. The job market moves faster than annual resume updates. Living resumes keep pace.
+
+## Common Mistakes to Avoid
+
+### Don't Keep It Perfect
+Your living resume is a working document. It's not polished. It's not for sharing. Typos are fine. It's for your eyes to remind you what you've done.
+
+### Don't Wait Until You Need It
+Don't build it the month you start job hunting. Start it now, when you're not under pressure. Update it when you're in the job. By the time you need it, it's comprehensive.
+
+### Don't Confuse It With Your Actual Resume
+Your living resume is messy and detailed. Your actual resume (for employers) is polished and strategic. Use the living doc to build the polished one, not vice versa.
+
+### Don't Quantify Everything
+Not every accomplishment has a metric. "Mentored junior developer through their first major project" is valid even without a number. But whenever you have one, include it.
+
+## Your Action This Week
+
+1. Create a Google Doc or Notion page called "Living Resume"
+2. Add the five sections above
+3. Look back at the last 30 days of your work
+4. Add 5-10 recent accomplishments with outcomes
+5. Set a 30-minute calendar reminder for Friday 4 PM to update it weekly
+
+By next month, you'll have 8-12 documented wins. By next quarter, you'll have a goldmine of outcomes. By the time you start your next job search, you won't scramble. You'll have proof.
+
+---
+
+*Sources: National Association of Colleges and Employers (NACE) 2026 Job Outlook Survey; Robert Half 2026 Salary and Hiring Trends Report; Resume Genius 2026 Job Search Statistics; LinkedIn Recruiter Insights (Q1-Q2 2026).*
+
+*Build your story. Update it weekly. Own your narrative.*
+`,
+  },
 ];
 
 export const guides: Guide[] = [
@@ -4412,7 +4548,7 @@ The move is harder than the alternative. It is also more often worth it than peo
   },
 ];
 
-export const glossaryTerms: GlossaryTerm[] = [
+export const guides: Guide[] = [
   {
     slug: 'ats',
     term: 'ATS (Applicant Tracking System)',
