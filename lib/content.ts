@@ -486,6 +486,10 @@ First impressions don't just affect the interview. They affect everything that c
 
 Those first five minutes are an investment that pays dividends throughout the entire process.
 
+## Building Lasting Leadership Presence
+
+The confidence and presence you develop in interviews translates directly to career success. If you land the role, you'll want to build on these skills. Explore [how to build executive presence as you advance](https://theleaderstable.xyz/resources/executive-presence-new-manager) in your leadership journey.
+
 ---
 
 *Make every impression count. HowToFindAJob.org is your guide to interview success.*
