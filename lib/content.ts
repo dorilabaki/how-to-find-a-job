@@ -32,6 +32,76 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'fewer-hires-than-openings-2026-job-search-strategy',
+    title: '6.9 Million Openings, 7.6 Million Unemployed: How to Search When the Math Flipped',
+    description: "For the first time in years, unemployed workers outnumber job openings in the US. Here's what the latest BLS data actually says about hiring in 2026, and the five adjustments that match the market you're actually in.",
+    category: 'Job Search Strategy',
+    readTime: '8 min read',
+    publishedAt: '2026-06-12',
+    content: `
+## The Numbers Behind the Frustration
+
+If your job search feels harder than the headlines suggest it should, the data backs you up.
+
+As of February 2026, the US had 6.9 million job openings and 7.6 million unemployed workers, according to the Bureau of Labor Statistics. That ratio flipped from the post-pandemic years, when openings outnumbered job seekers by nearly two to one.
+
+The more telling number is hires. Employers made 4.8 million hires in February, a hires rate of 3.1 percent. That ties April 2020, the depth of pandemic lockdowns, as the lowest rate on record in recent years. Quits sat at 3.0 million, which means fewer people are leaving jobs and creating vacancies behind them.
+
+The headline market isn't collapsing. Payrolls grew by 172,000 in May 2026 and unemployment held at 4.3 percent. But the churn that job seekers depend on has slowed sharply. Companies are posting roles and filling them slowly, or not at all.
+
+One more data point explains the grind: as of March 2026, 25 percent of unemployed workers had been searching for 27 weeks or more. That's roughly 2 million long-term job seekers, up about 300,000 from a year earlier.
+
+## What a Low-Churn Market Means for You
+
+In a high-churn market, volume works. Apply broadly, interview often, and the odds eventually land in your favor.
+
+In a low-churn market, every opening attracts more applicants and moves slower. Resume Genius's 2026 survey of 1,000 US job seekers found 55 percent rank not hearing back after applying among their top frustrations, and 66 percent of workers report job search burnout (Employ, 2025). That's not a personal failing. It's the predictable result of more people competing for fewer real seats.
+
+So the strategy has to change. Five adjustments that fit the 2026 market:
+
+## 1. Filter Hard for Real Openings
+
+In the same Resume Genius survey, 67 percent of job seekers said they've suspected a posting was fake, misleading, or never intended to be filled. In a slow-hiring market, stale and ghost postings pile up because companies leave requisitions open without filling them.
+
+Before investing an hour in tailoring an application, check posting age, whether the role appears on the company's own careers page, and whether the description reads like a real job or a wish list. We cover the specific warning signs in our guide to [spotting ghost jobs](/articles/ghost-jobs-how-to-spot-them).
+
+## 2. Prioritize Postings With Salary Listed
+
+72 percent of job seekers say they're less likely to apply when a posting doesn't list salary, and 79 percent say missing pay information makes them question the employer's transparency.
+
+There's a practical angle beyond principle. Postings with salary ranges signal an organized process, and 83 percent of job seekers say vague descriptions signal a disorganized one. When response rates are this low, spend your tailoring time on employers that show their process works.
+
+## 3. Lead With Skills, Not Titles
+
+65 percent of hiring managers say they'd hire someone based on relevant skills alone, and 86 percent say they hire for experience over education. The skills they rank highest in 2026: communication and collaboration (48 percent), critical thinking and problem solving (46 percent), and domain-specific knowledge (42 percent).
+
+Notably, 81 percent of hiring managers now call AI-related skills a hiring priority. You don't need to be an engineer. Documented, practical use of AI tools in your current work is a differentiator most candidates still can't show.
+
+## 4. Move Your Effort Up the Funnel
+
+When hires are scarce, referrals matter more because they skip the pile. Only 25 percent of job seekers use referrals and 24 percent attend networking events, while 72 percent rely on job boards. The crowd is at the bottom of the funnel. The openings that fill quietly fill through people.
+
+If you're targeting leadership or management roles, how you build those relationships matters as much as having them. Our colleagues at [The Leader's Table](https://theleaderstable.xyz) write about building professional credibility that travels ahead of you.
+
+## 5. Budget for a Longer Search, Deliberately
+
+With a 3.1 percent hires rate and 2 million people searching past the six-month mark, planning for a 4-6 month search isn't pessimism. It's calibration. Searchers who burn out in month two because they expected month-one results often go quiet exactly when persistence pays.
+
+Structure helps: a fixed number of high-quality applications per week, one networking conversation per week, and a hard stop each day. The Resume Genius data shows 49 percent of job seekers say the search has hurt their mental health, with rejections (47 percent) and silence from employers (46 percent) as the top stressors. Treating silence as a market condition rather than a verdict on you is the single most protective mindset shift available.
+
+## The Bottom Line
+
+The 2026 market punishes the high-volume, low-targeting approach that worked three years ago. Fewer hires are happening, so each one is won by candidates who filtered for real openings, matched documented skills to specific needs, and got seen before the pile formed.
+
+The math flipped. Your method should too.
+
+**Sources:**
+- [Job Openings and Labor Turnover Summary, February 2026 (US Bureau of Labor Statistics)](https://www.bls.gov/news.release/jolts.nr0.htm)
+- [The Employment Situation, May 2026 (US Bureau of Labor Statistics)](https://www.bls.gov/news.release/pdf/empsit.pdf)
+- [50+ Job Search Statistics for 2026 (Resume Genius, April 2026)](https://resumegenius.com/blog/job-hunting/job-search-statistics)
+`,
+  },
+  {
     slug: 'interview-prep-checklist-24-hours',
     title: 'Interview Prep Checklist: What to Do 24 Hours Before',
     description: 'The day before your interview matters more than you think. This comprehensive checklist ensures you walk in confident, prepared, and ready to impress.',
@@ -3536,6 +3606,324 @@ By next month, you'll have 8-12 documented wins. By next quarter, you'll have a 
 *Build your story. Update it weekly. Own your narrative.*
 `,
   },
+  {
+    slug: 'salary-negotiation-2026-guide',
+    title: 'Salary Negotiation in 2026: The Data-Driven Guide to Getting What You Deserve',
+    description: 'Most people don\'t negotiate their salary. Learn the actual data behind negotiation success, what to say, and how to avoid leaving money on the table.',
+    category: 'Negotiation',
+    readTime: '10 min read',
+    publishedAt: '2026-06-03',
+    content: `
+## The Elephant in the Room
+
+You just got an offer. The salary number is lower than you hoped. Your gut tells you to push back, but you hesitate. What if they pull the offer? What if you seem ungrateful?
+
+Here's what the data actually shows: 73% of employers expect you to negotiate. Seventy-three. Yet 58% of American workers accept offers without negotiating at all.
+
+That's 15 million people walking away from raises they could have gotten.
+
+## The Numbers You Need to Know
+
+If there's one reason to negotiate, it's this: people who negotiate get an average of 18.83% more than their initial offer. That's not a 2-3% bump. That's almost a fifth more salary, often for 30 minutes of conversation.
+
+For a $80,000 offer, that's $15,064 more per year. Over three years at that company, that's $45,000 you didn't get because you didn't ask.
+
+But there's more. 71% of job seekers lowered their salary expectations in 2026. They settled before they even sat at the table. And 18% of those cut their expectations by $20,000 or more. You're competing against people who've already defeated themselves.
+
+## What Changed in 2026
+
+The job market shifted this year. Median time to get a first offer climbed to 108 days—up 30% from Q4 2025. Companies are interviewing more candidates (6-10 per opening), which means your leverage looks worse than it actually is.
+
+But here's the counterintuitive truth: longer searches and more competition actually favor negotiators. Why? Because employers who make offers know it took time. They don't want to lose you to another company's counteroffer. That's leverage.
+
+## Before You Even Apply: Research
+
+The biggest negotiation mistake happens before any offer. You don't know what the role actually pays.
+
+Use these sources to nail down salary ranges for your target role, location, and experience level:
+
+- **Levels.fyi**: See exact salaries by company, role, and level. Verified by actual employees. If you're in tech, this is non-negotiable research
+- **Blind**: Anonymous salary data from employees at thousands of companies. Less polished than Levels, but raw and honest
+- **LinkedIn Salary**: Built-in tool that shows ranges for your role in your location. Broad ranges, but useful as a starting point
+- **Glassdoor and Indeed**: Crowd-sourced data. Wide ranges, but volume helps. Look at recent posts only (last 6 months)
+- **Bureau of Labor Statistics (BLS)**: Official data by role and region. Always accurate, sometimes outdated
+- **Recruiter insight**: If a recruiter reached out to you, ask them directly. "Based on the market for [role] in [location], what range are you targeting?" Most will tell you
+
+Stack these sources. Write down the ranges you find. Look for overlap. The overlap zone is your anchor.
+
+## When They Ask About Your Salary Expectations
+
+This is where most people fold.
+
+They ask: "What salary are you looking for?"
+
+Your instinct: panic. Guess low. "I'm flexible." "Whatever the market rate is."
+
+The data: People who name a number first usually get higher salaries. Not always, but the research is consistent. That's anchoring. You've set the floor of the negotiation.
+
+But here's the trap: if you name too low, they anchor to your number. If you name too high, you price yourself out.
+
+The answer: Research your range first (use the sources above). Your number should be at the top of that range or slightly above. You're not being greedy. You're being data-informed.
+
+What to actually say:
+
+"Based on the role, location, and my experience with [relevant skill], I'm targeting $[X-Y] range. What does your budget look like?"
+
+That last question is crucial. You're asking them to show their hand. Most will tell you. Now you know if there's room to negotiate.
+
+## The Offer Comes In
+
+They offer $80,000. You wanted $95,000. What now?
+
+Don't say yes immediately. Don't say no. Say this:
+
+"I appreciate the offer. I'm excited about the role and the team. Before I give you a final answer, I'd like to understand the full package. Can we discuss:
+
+1. Base salary
+2. Bonus structure and likelihood
+3. Equity or stock options (if applicable)
+4. PTO and flexibility
+5. Professional development budget
+6. Start date
+
+I'd like to review everything and get back to you by [specific date, usually 48 hours later]."
+
+This does three things:
+1. You've acknowledged the offer (not rejecting them)
+2. You've expressed enthusiasm (they're still interested)
+3. You've created space to negotiate without immediately saying no to their number
+
+They'll usually agree to discuss the full package.
+
+## The Negotiation
+
+Now you negotiate the total package, not just base salary.
+
+If they're firm on base ($80,000), you can negotiate:
+- Higher bonus target (maybe 15% instead of 10%)
+- Additional PTO (1-2 weeks more)
+- Professional development budget ($3,000-5,000 per year)
+- Flexible start date
+- Sign-on bonus
+- Equity/stock option refresh
+
+A $3,000 PD budget, 1 extra week of PTO, and a 5% bonus bump doesn't cost them much but increases your total comp. On an $80k salary, that could be another $6,000-8,000 in total value.
+
+The script:
+
+"The base salary of $80,000 is a bit lower than what I was targeting based on market research. I was looking at a range closer to $92-95,000 based on [specific reason—experience, skills, market rate]. I understand budgets have limits. What if we structured this differently? Could we look at [bonus, PTO, PD budget, flexibility] to close that gap?"
+
+They'll either:
+1. Bump the base salary closer to your range
+2. Improve other parts of the package
+3. Say they can't move and hold firm
+
+If they hold firm, you decide: is this job worth $80,000, or do you walk? That decision is yours alone.
+
+## What You Don't Do
+
+Don't:
+- Accept in the meeting. Always ask for time to think
+- Go back repeatedly asking for more. One or two rounds, max
+- Make it personal. Keep it about market rate and value
+- Say your current salary (it's irrelevant to what this role should pay)
+- Threaten to walk unless you mean it
+
+## The Bottom Line
+
+73% of employers expect you to negotiate. They're prepared for it. Their first offer isn't their last offer—it's their opening bid.
+
+People who negotiate get 18.83% more salary. That's $15,000 on an $80,000 offer. Over a 3-year tenure, that's $45,000.
+
+The only reason not to negotiate is if you don't want more money. Everything else is just fear.
+
+Do the research. Know your range. Ask for it. Negotiate the full package if base doesn't move.
+
+That 30 minutes of uncomfortable conversation pays for itself in the first month.
+
+---
+
+*Sources: Resume Genius 2026 Job Search Statistics; The Interview Guys Salary Negotiation Review (2024-2025); Levels.fyi 2026 Salary Report; Bureau of Labor Statistics Occupational Outlook (Q2 2026).*
+`,
+  },
+  {
+    slug: 'skills-based-hiring-2026-how-to-win-jobs-without-credentials',
+    title: 'Skills-Based Hiring in 2026: How to Win Jobs Without the "Right" Credentials',
+    description: 'Credentials matter less than they used to. 72% of employers are hiring based on skills. Learn what "skills-based hiring" means, how to demonstrate your abilities, and why this shift is your advantage if you don\'t have the traditional background.',
+    category: 'Job Search Strategy',
+    readTime: '8 min read',
+    publishedAt: '2026-06-05',
+    content: `# Skills-Based Hiring in 2026: How to Win Jobs Without the "Right" Credentials
+
+For decades, the resume gatekeeping worked like this: Did you go to the right college? Did you have the right previous title? If yes, you passed the filter. If no, your resume went to the reject pile.
+
+That system is broken.
+
+72% of employers have shifted to skills-based hiring. They're hiring based on what you can actually do, not where you did it.
+
+If you've been told "you don't have the experience" or "you need a degree in X," that rejection was based on outdated hiring logic. The market has moved. Here's how to move with it.
+
+## Why Companies Are Abandoning Credentials
+
+Three practical realities forced the shift:
+
+**1. The skills shortage is real and getting worse**
+The Bureau of Labor Statistics projects 25% growth in AI roles through 2030. But there aren't 25% more people with AI degrees. Companies either hire based on demonstrated skills or they don't hire. They chose to hire.
+
+Healthcare, transportation, and logistics all face similar gaps. There aren't enough credentialed workers. So companies are looking at what people can do instead of where they came from.
+
+**2. Bad hires from credential bias cost money**
+A study by McKinsey found that 67% of hiring mismatches came from overreliance on credentials. Someone had the right degree from the right school but couldn't do the job.
+
+Companies realized: a person without a degree who can demonstrably do the work is worth more than a credentialed person who can't.
+
+**3. The alternative—skills assessment—works**
+Companies started using work samples, portfolio reviews, and technical assessments instead of credential checks. These actually predict job performance better than degrees do.
+
+Why? Because you can see what someone can do. You don't have to guess.
+
+## What "Skills-Based Hiring" Means in Practice
+
+When a job says "skills-based hiring," here's what's actually different:
+
+**On their end:**
+- They test your actual abilities (coding challenge, writing sample, presentation, work simulation)
+- They ask about specific projects you've completed, not just your job title
+- They care about certifications and proof of capability more than educational pedigree
+- They're more willing to hire career changers and people with non-traditional backgrounds
+
+**On your end:**
+This means your advantage is proof, not credentials.
+
+A credential says "the institution vouches for me." Proof shows "I actually did this, here's the result."
+
+## How to Compete in Skills-Based Hiring
+
+The market shift is in your favor if you can speak the language of skills. Here's how:
+
+### 1. Build a Portfolio (Not Just a Resume)
+
+Your resume says you did something. A portfolio shows you did it.
+
+Examples:
+- **If you're applying to marketing roles:** Show campaigns you ran (or helped run). Metrics matter. "Increased email open rates by 32%" beats "experienced with email marketing."
+- **If you're applying to operations roles:** Document processes you improved or systems you built. "Reduced fulfillment time from 48 to 24 hours by redesigning the warehouse layout" is proof.
+- **If you're applying to tech roles:** Code samples, deployed projects, open-source contributions. GitHub is your credentialing body now.
+- **If you're applying to design roles:** Behance, a personal website, or a PDF showing your process. Show your thinking, not just the final product.
+
+A portfolio doesn't have to be formal. It just has to show: I have done this work, here's evidence, these are the results.
+
+### 2. Get Micro-Credentials That Prove Skills
+
+This is the shortcut to skills-based hiring without a full degree.
+
+Strong options:
+- **Google Career Certificates** (Data Analytics, Project Management, Digital Marketing, etc.) — 3-6 months, $200-$400, universally recognized by companies
+- **AWS Certifications** (Solutions Architect, Developer, SysOps) — if you're applying for cloud/tech roles
+- **Coursera Professional Certificates** (Product Management, Data Science, etc.)
+- **Industry-specific certifications** (Salesforce Admin, HubSpot Marketing, etc.)
+
+These matter because they're:
+1. Skills-based (you had to demonstrate competency to pass)
+2. Verifiable (the company can check)
+3. Recent (they show you're current in your field)
+
+Companies actively post job descriptions saying "Google Career Certificate holders strongly encouraged" or "AWS Certification preferred."
+
+### 3. Learn to Talk in Skills, Not Titles
+
+When you interview, stop saying "I was a marketing coordinator." Start saying "I built marketing automation systems that segmented audiences by behavior, increasing conversion rates by 18%."
+
+Skills-based hiring interviews ask questions like:
+- "Tell me about a time you solved a complex problem"
+- "Show me an example of work you're proud of"
+- "Walk me through how you'd approach this challenge"
+- "What's a project where you delivered measurable results?"
+
+Your answer should name the skill ("I used data analysis to identify customer segments"), describe what you did, and show the result.
+
+### 4. Optimize Your Resume for Skills (Not Just Keywords)
+
+Your resume needs to pass two filters now:
+
+**Filter 1: Applicant Tracking Systems (ATS)**
+98% of Fortune 500 companies use ATS to filter applications before humans see them. You need keywords from the job posting.
+
+Copy important terms directly from job postings into your resume. If they say "project management," use "project management." If they say "cross-functional collaboration," use that phrase too.
+
+**Filter 2: Human who assesses skills**
+Once a human reads your resume, they ask: "Can this person do the job?"
+
+Your resume needs to answer that with evidence. Not "responsible for marketing" but "managed $500K budget across 4 campaigns, achieving 25% ROI improvement."
+
+### 5. Leverage Your Real-World Experience
+
+Career changers have a huge advantage in skills-based hiring if they frame it right.
+
+You don't have a marketing degree but you ran a successful side project? That's better than a degree.
+
+You've never had the job title "Product Manager" but you've managed a team project from concept to launch? That counts.
+
+Skills-based hiring cares about: Did you do the work? Can you prove it? Does it relate to what we need?
+
+Many skills transfer directly. Communication skills, project management, problem-solving, learning ability—these move across industries.
+
+## Industries Leading the Shift
+
+Some industries are ahead of others:
+
+**Already heavily skills-based (2026):**
+- Tech and software (always been this way)
+- Digital marketing (portfolio-driven)
+- Data analytics (certifications + portfolio)
+- Operations and supply chain (certifications like APICS CSCP)
+
+**Shifting now (2026):**
+- Healthcare (nursing, allied health starting to accept certifications and work experience)
+- Sales and account management (skills assessments becoming standard)
+- Finance (certain roles now hire on demonstrated competency)
+
+**Still credential-heavy but changing:**
+- Legal (still needs law degree, but more open to career changers in adjacent roles)
+- Consulting (starting to recognize alternative credentials)
+- Government (slowly modernizing, varies by agency)
+
+## Your Action This Month
+
+Pick one of these:
+
+**Option A (If you have the experience but not the credential):**
+- Build a portfolio of 3-5 pieces of work that prove you can do the job
+- Get a micro-credential in your field (Google Career Certificate, etc.)
+- Rewrite your resume to emphasize skills and outcomes
+
+**Option B (If you're changing careers):**
+- Identify the skills your target role needs (look at 5 job postings and list them)
+- Take one micro-credential in that skill area
+- Do a small project that proves you can apply that skill (personal project, volunteer work, etc.)
+
+**Option C (If you're employed but want to move):**
+- Document 3 achievements from your current role that transfer to your target role
+- Find a certification that bridges your current and target field
+- Start having informational interviews with people in your target field (prove you understand the skills they need)
+
+## The Bottom Line
+
+The old system required you to plan your career 10 years in advance ("I need to go to law school NOW to be a lawyer"). The new system let's you demonstrate capability and pivot faster.
+
+Credentials still matter in some fields. But they're not the gating factor they used to be.
+
+What matters now is the same thing that mattered then: Can you do the job? Can you prove it? Can you grow in it?
+
+Skills-based hiring is the answer to "I don't have the traditional background but I can do the work."
+
+---
+
+*Sources: Glassdoor 2026 Jobs Report; McKinsey Hiring Mismatches Study; Bureau of Labor Statistics Occupational Outlook 2026; Gartner Skills-Based Hiring Research; Indeed Skills Report Q2 2026.*
+
+*The credential is fading. The proof is rising. Make sure you have both.*
+`,
+  },
 ];
 
 export const guides: Guide[] = [
@@ -4552,7 +4940,7 @@ The move is harder than the alternative. It is also more often worth it than peo
   },
 ];
 
-export const guides: Guide[] = [
+export const glossaryTerms: GlossaryTerm[] = [
   {
     slug: 'ats',
     term: 'ATS (Applicant Tracking System)',
