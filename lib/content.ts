@@ -32,6 +32,118 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'class-of-2026-hiring-upturn-where-jobs-are',
+    title: "The Entry-Level Market Just Turned Up. Here's Where the Jobs Actually Are.",
+    description: "After two flat years, employers now expect to hire 5.6% more new graduates from the Class of 2026, according to NACE. The increase isn't spread evenly. Here's which industries and companies are driving it, and how to aim your search at the parts of the market that are actually growing.",
+    category: 'Job Search Strategy',
+    readTime: '7 min read',
+    content: `
+## A Real Shift, Not a Rumor
+
+If you've spent the last two years hearing that the entry-level market is brutal, that wasn't your imagination. It was. But the most reliable forecast of new-graduate hiring just changed direction.
+
+In its Job Outlook 2026 Spring Update, released April 27, 2026, the National Association of Colleges and Employers (NACE) reported that employers expect to increase hiring from the Class of 2026 by 5.6 percent over the prior class. That matters because of where it's coming from. As recently as the fall 2025 projection, the same survey pointed to a flat-to-negative market, with a median projection of -2.4 percent. NACE president Shawn VanDerziel said plainly that the new gain "bucks recent trends" after "two years of lackluster job markets for new college graduates."
+
+What drove the revision is a change in employer plans. More than one-third of responding employers now say they intend to bring in additional hires this year. Last fall, only about a quarter said the same. The reasons they gave were ordinary and durable: company growth and succession planning, not a one-time spike.
+
+One caution on the number itself. NACE reported the 5.6 percent as a median rather than a mean, specifically to keep a few large outliers from skewing the figure. That's a more conservative way to report it, which makes the upward direction more credible, not less.
+
+## The Increase Is Concentrated. Aim for It.
+
+An average hides the useful part. The hiring gains are not spread evenly across every employer, and knowing where they cluster is the difference between a search that feels random and one that's pointed at growth.
+
+Two patterns stand out in the NACE data. First, the largest employers are leading. Companies with more than 5,000 employees are increasing their new-grad hiring by 8.7 percent, well above the overall figure. Second, the growth is concentrated in a handful of industries. NACE named five where employers reporting increases tend to fall:
+
+- Information
+- Engineering services
+- Wholesale trade
+- Construction
+- Miscellaneous professional services
+
+If your background fits any of these, that's where to spend your hours. If it doesn't fit cleanly, look for the adjacent roles every one of these sectors needs anyway: operations, finance, sales, marketing, HR, and IT all sit inside construction firms and wholesale distributors too. A finance grad has a better shot inside a growing construction company than inside a sector that's holding flat.
+
+## Internships Are Part of the Same Story
+
+The upturn isn't limited to full-time roles. A separate NACE study found employers expect to hire nearly 4 percent more interns this year. For students and recent grads, that's a second door into the same growing companies, and often a wider one. Internships convert. The standard advice holds for a reason: a summer role at a company that's expanding is one of the most reliable paths to a full-time offer there, because the employer has already watched you work.
+
+If you're early enough to choose, weight your internship search toward the same large employers and growth industries above. You're not just looking for any experience. You're looking for a foot inside a place that's actively adding headcount.
+
+## A Better Market Still Rewards Specifics
+
+A 5.6 percent increase loosens the market. It does not remove the bar. The same employers adding roles are still selective about who fills them, and they consistently say they're reading resumes for evidence, not adjectives. They want to see teamwork, problem-solving, and communication shown through what you actually did, not claimed in a summary line.
+
+That means the resume move that works in a tight market works even better in a loosening one: replace traits with episodes. "Strong communicator" persuades no one. "Ran the weekly status call for a five-person project team and wrote the recap leadership read" shows the same thing and can't be faked. Pick three or four moments where you solved something, worked with people, or owned an outcome, and write those down in specifics.
+
+## How to Use the Upturn This Month
+
+The practical version is short. Build your target list around the parts of the market that are growing, not the whole market. Start with large employers, more than 5,000 people, in information, engineering services, wholesale trade, construction, and professional services. Apply to the support functions inside those firms even when the company itself isn't in your field. Treat internships as a primary path, not a fallback. And make every application concrete enough that a busy reader can picture you doing the work.
+
+There's a leadership side to this worth understanding too. The same growth and succession planning that's opening these roles means managers are being told to build teams, not just fill seats. Knowing what a hiring manager is actually under pressure to do helps you speak to it in an interview. Our sister site [The Leader's Table](https://theleaderstable.xyz) covers how managers think about building and growing their teams, which is useful context when you're trying to become the person they pick.
+
+The market gave you a better backdrop than the Class of 2024 or 2025 had. The work of aiming at the right part of it is still yours.
+
+**Sources:**
+- [Outlook Brightens for College Class of 2026 Entry-Level Hiring (NACE, April 27, 2026)](https://www.naceweb.org/about-us/press/2026/outlook-brightens-for-college-class-of-2026-entry-level-hiring)
+- [Job Outlook 2026 Spring Update (National Association of Colleges and Employers)](https://www.naceweb.org/research/reports/2026/job-outlook/spring-update/)
+`,
+    publishedAt: '2026-06-19',
+  },
+  {
+    slug: 'ai-screening-job-search-trust-gap-2026',
+    title: "Your Application Is Read by AI First. Here's How to Reach a Human Anyway.",
+    description: "Most large employers screen applications with software, and two-thirds of Americans say they'd rather not apply to a company that uses AI in hiring. You can't avoid it, so here's how to get past automated screening without gaming it, backed by Pew Research data.",
+    category: 'Job Search Strategy',
+    readTime: '7 min read',
+    publishedAt: '2026-06-17',
+    content: `
+## The Part of Hiring You Can't See
+
+Before a person reads your application, software usually does. Most large employers run candidates through an applicant tracking system, and a growing share now layer AI screening on top to rank, summarize, or filter applicants automatically.
+
+That shift has changed how people feel about applying. In a Pew Research Center survey, 66 percent of Americans said they would not want to apply for a job with an employer that uses AI to help make hiring decisions. Only 32 percent said they would. Among those who'd rather not apply, the most common reason (44 percent) was that AI might miss the human side of judging a candidate. The discomfort isn't evenly spread: 70 percent of women said they'd avoid such employers versus 61 percent of men, and skepticism rises with age (69 percent of people 50 and older versus 63 percent under 50).
+
+Here's the tension. You can dislike AI screening and still have to get through it. Avoiding every employer that uses automation isn't realistic anymore. So the useful question isn't whether to engage with these tools. It's how to get a real person to see your application despite them.
+
+## First, Drop the Myth That's Making You Anxious
+
+You've probably read that automated systems "reject 75 percent of resumes" in a few seconds. That figure gets repeated everywhere, and it's largely unsupported. Reviews of how these systems are actually configured find the vast majority rank and surface applications rather than auto-delete them. Most rejections still come from a recruiter choosing not to move forward, not software trashing your file on contact.
+
+Why this matters: if you believe a machine is silently deleting your resume, you'll waste energy on tricks like white-text keyword stuffing or hidden columns. Modern parsers catch those, and recruiters penalize them. The goal isn't to fool the software. It's to be cleanly readable by it and genuinely relevant to the role.
+
+## Make Yourself Machine-Readable (the Boring Stuff That Works)
+
+Parsers fail on layout, not ambition. Testing of resume formats has repeatedly found higher parsing-failure rates for design-heavy PDFs than for plain Word files, because text boxes, multiple columns, and graphics confuse the parser. A few rules cover most of it:
+
+- Submit a .docx unless the posting specifically asks for PDF.
+- Use a single-column layout, standard headings (Experience, Education, Skills), and normal fonts.
+- Keep anything that matters out of images, icons, and side tables, since parsers often skip them.
+- Mirror the exact words from the job description where they're true of you. If the posting says "accounts payable," don't write only "AP."
+
+None of this games the system. It removes the reasons software misreads you.
+
+## Then Compete Where the AI Can't Reach
+
+Automated screening dominates the front door, which is exactly why the side door matters more in a slow market. Referrals skip the queue and reach a human directly. Yet most job seekers crowd the front door: surveys consistently show large majorities relying on job boards while only a minority use referrals or attend networking events. The roles that fill quietly tend to fill through people, not portals.
+
+Two moves pay off here. First, before you apply cold, check whether anyone in your network touches the company, and ask for a referral or a five-minute conversation rather than a job. Second, lead with demonstrable skills, because hiring managers increasingly weigh proven, relevant ability over titles or credentials. A short, specific example of a problem you solved travels further than a polished summary an algorithm has seen a thousand times. If you're searching in a market where openings now trail the number of people looking, our breakdown of [how to job search when hires have slowed](/articles/fewer-hires-than-openings-2026-job-search-strategy) covers where to spend that effort.
+
+## Use AI on Your Side of the Table, Carefully
+
+Candidates are already doing this. Roughly four in ten job seekers now report using AI somewhere in their application process. Used well, it's a research and drafting aid: summarizing a long job description, surfacing the skills a role actually wants, or pressure-testing your bullet points for clarity.
+
+There's a real risk, though. Recruiters report rising fatigue with AI-generated sameness, the identical phrasing and inflated claims that signal a candidate who never engaged with the role. The fix is to use AI to prepare and sharpen, then write the final application in your own voice with your own specifics. If you want a practical, non-hype walkthrough of doing that well, our colleagues at [How Do I Use AI](https://howdoiuse.ai) cover prompt techniques that keep the output sounding like you.
+
+## The Bottom Line
+
+AI screening is now part of the front end of hiring, and most applicants don't trust it. You don't have to. You just have to be readable by the software, relevant to the role, and visible to a human before the pile forms. Clean formatting gets you parsed. Real keywords get you ranked. A referral and a specific, skills-first story get you read. That sequence beats any trick aimed at the machine.
+
+**Sources:**
+- [Americans' views on use of AI in hiring (Pew Research Center, April 2023)](https://www.pewresearch.org/internet/2023/04/20/ai-in-hiring-and-evaluating-workers-what-americans-think/)
+- [ATS Statistics 2026: separating the real data from the "75% rejection" myth (ResumeAdapter, 2026)](https://www.resumeadapter.com/ats-statistics)
+- [ATS Filtering and Keyword Screening Statistics for 2026 (OneHour Digital)](https://onehour.digital/blog/ats-filtering-and-keyword-screening-statistics)
+`,
+  },
+  {
     slug: 'fewer-hires-than-openings-2026-job-search-strategy',
     title: '6.9 Million Openings, 7.6 Million Unemployed: How to Search When the Math Flipped',
     description: "For the first time in years, unemployed workers outnumber job openings in the US. Here's what the latest BLS data actually says about hiring in 2026, and the five adjustments that match the market you're actually in.",
