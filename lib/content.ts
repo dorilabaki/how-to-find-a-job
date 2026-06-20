@@ -125,7 +125,7 @@ None of this games the system. It removes the reasons software misreads you.
 
 Automated screening dominates the front door, which is exactly why the side door matters more in a slow market. Referrals skip the queue and reach a human directly. Yet most job seekers crowd the front door: surveys consistently show large majorities relying on job boards while only a minority use referrals or attend networking events. The roles that fill quietly tend to fill through people, not portals.
 
-Two moves pay off here. First, before you apply cold, check whether anyone in your network touches the company, and ask for a referral or a five-minute conversation rather than a job. Second, lead with demonstrable skills, because hiring managers increasingly weigh proven, relevant ability over titles or credentials. A short, specific example of a problem you solved travels further than a polished summary an algorithm has seen a thousand times. If you're searching in a market where openings now trail the number of people looking, our breakdown of [how to job search when hires have slowed](/articles/fewer-hires-than-openings-2026-job-search-strategy) covers where to spend that effort.
+Two moves pay off here. First, before you apply cold, check whether anyone in your network touches the company, and ask for a referral or a five-minute conversation rather than a job. Second, lead with demonstrable skills, because hiring managers increasingly weigh proven, relevant ability over titles or credentials. A short, specific example of a problem you solved travels further than a polished summary an algorithm has seen a thousand times. If you're searching in a market where openings now trail the number of people looking, our breakdown of [how to job search when hires have slowed](/resources/fewer-hires-than-openings-2026-job-search-strategy) covers where to spend that effort.
 
 ## Use AI on Your Side of the Table, Carefully
 
@@ -175,7 +175,7 @@ So the strategy has to change. Five adjustments that fit the 2026 market:
 
 In the same Resume Genius survey, 67 percent of job seekers said they've suspected a posting was fake, misleading, or never intended to be filled. In a slow-hiring market, stale and ghost postings pile up because companies leave requisitions open without filling them.
 
-Before investing an hour in tailoring an application, check posting age, whether the role appears on the company's own careers page, and whether the description reads like a real job or a wish list. We cover the specific warning signs in our guide to [spotting ghost jobs](/articles/ghost-jobs-how-to-spot-them).
+Before investing an hour in tailoring an application, check posting age, whether the role appears on the company's own careers page, and whether the description reads like a real job or a wish list. We cover the specific warning signs in our guide to [spotting ghost jobs](/resources/ghost-jobs-how-to-spot-them).
 
 ## 2. Prioritize Postings With Salary Listed
 
