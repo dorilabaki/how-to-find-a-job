@@ -32,6 +32,71 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'june-2026-jobs-report-low-hire-low-fire-job-search',
+    title: "The June Jobs Report Explains Why Your Search Feels Slow. Here's How to Adjust.",
+    description: "The economy added 57,000 jobs in June 2026 and unemployment held at 4.2%, but the details matter more than the headline: hiring is concentrated in three sectors, long-term unemployment is rising, and openings just hit a two-year high. Here's what the BLS data means for how you run your search this summer.",
+    category: 'Job Search Strategy',
+    readTime: '7 min read',
+    content: `
+## The Headline Number Hides the Useful Part
+
+The Bureau of Labor Statistics released the June 2026 Employment Situation report on July 2, and the headline was modest: employers added 57,000 jobs and the unemployment rate held at 4.2 percent. That came in below the roughly 115,000 that forecasters expected, and below May's downwardly revised 129,000.
+
+If you stopped reading there, you'd conclude the market got worse. The fuller picture is more specific than that, and more useful. BLS itself noted the June gain was roughly in line with the average monthly change over the prior 12 months, which was 36,000. This isn't a market that suddenly broke. It's a market that has been slow for a year, with growth concentrated in a few places.
+
+For a job seeker, that concentration is the whole game. Here's where the jobs actually were in June, what the report says about how long searches are taking, and how to adjust.
+
+## Where the Jobs Were in June
+
+Three sectors did nearly all the hiring in June, according to the BLS establishment survey:
+
+- **Professional and business services added 36,000 jobs**, the largest gain of any sector. The industry has added 172,000 jobs since its recent low in October 2025. Analysts noted the growth spread across legal services, computer systems design, consulting, and administrative support.
+- **Social assistance added 25,000 jobs**, mostly in individual and family services, which added 17,000 on its own. That's above the sector's 12-month average of 16,000 per month.
+- **Health care added 22,000 jobs**, including 9,000 in hospitals. That's real growth, but notably slower than the sector's 12-month average of 38,000. Health care has been the market's engine for two years, and it's cooling.
+
+One sector went the other way hard: **leisure and hospitality lost 61,000 jobs**, which BLS attributed to weaker than usual seasonal hiring. If you're targeting hotels, restaurants, or tourism, the industry has shown essentially no net job growth in all of 2026.
+
+Everything else, including construction, manufacturing, retail, finance, information, and government, showed little or no change.
+
+The practical read: if your skills fit professional services or health care, point your search there first. If they don't fit directly, remember that growing firms hire for support functions too. Consulting firms and hospital systems both need finance, HR, operations, and IT people, and a growing employer is a better bet than a perfect-fit role at a shrinking one.
+
+## The Long-Search Problem Is Real, So Plan for It
+
+The most important number in the report for anyone currently searching isn't the headline. It's this: the number of long-term unemployed, meaning people out of work 27 weeks or more, stood at 1.9 million in June, up 286,000 over the year. Long-term unemployed people now make up 27.3 percent of all unemployed. That's more than one in four.
+
+Indeed's Hiring Lab summed up the market as an unmoving tide: employers aren't laying people off in large numbers, but they aren't hiring much either. Economists have been calling this a low-hire, low-fire market, and it has a specific consequence. If you have a job, you're relatively safe. If you're searching, everything takes longer, because fewer openings turn over.
+
+Two adjustments follow from that. First, budget for a longer timeline than you'd like, financially and mentally. A search that stretches past six months in this market reflects the math, not your worth. Pacing yourself matters as much as effort. Our sister site [Growth Mindset](https://growthmindset.academy) covers how to sustain motivation through long projects with distant payoffs, which is exactly what a 2026 job search is.
+
+Second, prioritize channels that don't depend on posted openings. In a low-turnover market, a large share of hiring happens through referrals and direct outreach before a role is ever posted. A weekly rhythm of two or three genuine networking conversations will outperform another twenty cold applications.
+
+## Signs the Tide Could Be Turning
+
+The report wasn't all flat. A few forward-looking signals point the right way:
+
+- **Job openings hit a two-year high.** The BLS JOLTS release for May 2026 showed openings ticking up to 7.6 million, the highest level since May 2024. Openings lead hires, so this is worth watching.
+- **Wages are still growing.** Average hourly earnings rose to $37.64 in June, up 3.5 percent over the year. Employers aren't cutting pay to fill roles, which supports negotiating rather than accepting the first number. Our [salary negotiation guide](/resources/salary-negotiation-2026-guide) walks through how.
+- **Competition is about to increase, which rewards moving early.** Robert Half's research found 46 percent of U.S. professionals plan to look for a new job in the second half of 2026, up from 38 percent in the first half. If you've been waiting for a better moment, the applicant pool gets more crowded from here, not less.
+
+For new grads specifically, this national picture sits alongside a genuinely improved entry-level forecast. NACE projects employers will hire 5.6 percent more graduates from the Class of 2026 than the prior class. We covered [where those entry-level jobs are concentrated](/resources/class-of-2026-hiring-upturn-where-jobs-are) in a separate piece.
+
+## Your Move This Month
+
+Compress this report into four actions. Target professional and business services, social assistance, and health care employers first, including their support roles. Avoid building your search around leisure and hospitality unless you have a specific in. Shift hours from mass applications to direct outreach, because low turnover means fewer posted roles and more quiet hires. And start now rather than fall, since openings just hit a two-year high while half the workforce is still planning its move.
+
+The next Employment Situation report, covering July, is scheduled for August 7, 2026. We'll update this analysis if the picture changes.
+
+## Sources
+
+- U.S. Bureau of Labor Statistics, "The Employment Situation, June 2026" (released July 2, 2026)
+- U.S. Bureau of Labor Statistics, "Job Openings and Labor Turnover, May 2026"
+- Indeed Hiring Lab, "June 2026 Jobs Report: An Unmoving Tide" (July 2, 2026)
+- Robert Half, "June 2026 Jobs Report: Employers Add 57,000 Jobs"
+- National Association of Colleges and Employers, "Job Outlook 2026 Spring Update" (April 2026)
+`,
+    publishedAt: '2026-07-10',
+  },
+  {
     slug: 'class-of-2026-hiring-upturn-where-jobs-are',
     title: "The Entry-Level Market Just Turned Up. Here's Where the Jobs Actually Are.",
     description: "After two flat years, employers now expect to hire 5.6% more new graduates from the Class of 2026, according to NACE. The increase isn't spread evenly. Here's which industries and companies are driving it, and how to aim your search at the parts of the market that are actually growing.",
