@@ -32,6 +32,68 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'job-hugging-2026-what-it-means-for-your-search',
+    title: "57% of Workers Are 'Job Hugging.' Here's What That Means for Your Search.",
+    description: "A February 2026 ResumeBuilder survey of 2,188 U.S. workers found 57% now identify as job huggers, staying put out of fear rather than loyalty, up from 45% in August 2025. BLS data confirms the freeze: the quits rate has been stuck at 1.9%. Here's what a market full of huggers means for your search, whether you're employed and stuck or unemployed and frustrated.",
+    category: 'Job Search Strategy',
+    readTime: '8 min read',
+    content: `
+## The Workforce Is Holding On
+
+"Job hugging" is the term that stuck for a behavior the data has shown for over a year: workers clinging to their current roles out of fear rather than loyalty. In February 2026, ResumeBuilder surveyed 2,188 U.S. workers and found that 57 percent identify as job huggers. That's up from 45 percent in August 2025, a 12-point jump in roughly five months.
+
+The reasons they gave are concrete. Among self-described job huggers, 70 percent worry that AI will affect their job security in the next six months, and 63 percent worry about being laid off. More than 80 percent say they'd fear being first out under a "last in, first out" policy if they joined a new employer. That last number matters most for job seekers, because it explains why even unhappy workers won't jump: the perceived risk isn't their current job, it's the bottom of someone else's seniority list.
+
+And this isn't a mood that lifts next quarter. More than 7 in 10 huggers expect to keep holding on for at least another six months, and 44 percent believe it will take a year or more before they feel secure enough to move.
+
+## The Official Data Backs Up the Survey
+
+Survey sentiment is one thing. Government turnover data is another, and they agree.
+
+The Bureau of Labor Statistics JOLTS release for May 2026, published June 30, shows quits at 3.1 million with a quits rate of 1.9 percent. BLS describes the quits rate as a measure of workers' willingness or ability to leave jobs, and 1.9 percent is well below the 2.5 to 3.0 percent range of the 2021-2022 job-switching boom. Hires were flat at 5.2 million, openings flat at 7.6 million, and layoffs steady at 1.7 million.
+
+That combination, few quits, few layoffs, slow hiring, is the "low-hire, low-fire" market we broke down in our [June jobs report analysis](/resources/june-2026-jobs-report-low-hire-low-fire-job-search). Job hugging is what that market feels like from inside a cubicle.
+
+One nuance worth holding onto: hugging doesn't mean workers are happy. ResumeBuilder found 44 percent of huggers are passively browsing listings and 20 percent are sending occasional applications. Only 19 percent are actively applying or interviewing. The discontent is real. The activity isn't. That gap is your opening.
+
+## If You're Employed and Hugging
+
+First, know that staying can be the right call. In a slow-hiring market, the value of an income you already have is real, and "last in, first out" anxiety isn't irrational. The mistake isn't staying. It's staying passively while your engagement and skills quietly erode. Researchers have started calling the end state "quiet cracking": still present, mentally checked out.
+
+Three moves protect you without requiring a leap:
+
+- **Search from strength, quietly.** You don't have to be actively interviewing to keep your materials current, your [LinkedIn profile findable](/resources/linkedin-about-section-that-recruiters-read), and your network warm. Recruiters still source passive candidates, and with only 19 percent of workers actively applying, responsive passive candidates stand out more than usual.
+- **Make your current role earn the hug.** Internal moves, stretch projects, and new tools count as career progress even when your title doesn't change. If your employer is frozen too, that's information worth acting on.
+- **Set a review date, not a vague intention.** Pick a date two or three months out and reassess honestly: is this still a strategic stay, or has it become drift? Huggers who plan to "wait a year or more" often aren't waiting for the market. They're avoiding a decision.
+
+If part of what you're weighing is a manager or team you'd rather not leave behind, our sister site The Leader's Table has covered [why change fatigue is making teams freeze up](https://theleaderstable.xyz/resources/change-fatigue-leaders-reduce-2026/), which may help you read whether your workplace's mood is temporary or structural.
+
+## If You're Unemployed, the Freeze Cuts Both Ways
+
+A market full of huggers is genuinely harder in one way: churn creates vacancies, and with quits stuck at 1.9 percent, fewer roles open up. When a company does post a role, it's more likely to be new headcount in a growing area than a backfill, which is why hiring is so concentrated in health care, social assistance, and professional and business services right now.
+
+But the freeze helps you in a way most job seekers miss. Your competition for any given posting skews toward other unemployed candidates and that thin 19 percent slice of active lookers, not the full workforce. Employed candidates who might have outshined you in 2022 are sitting this market out. Robert Half's research found 46 percent of professionals plan to look in the second half of 2026, so this advantage has a shelf life. Moving now, before intent turns into applications, beats waiting for fall.
+
+Practical implications:
+
+- **Direct outreach beats volume applying.** Fewer posted roles and more quiet hires mean the [hidden job market](/resources/hidden-job-market-networking-2026) carries more weight than usual.
+- **Target the sectors that are actually hiring.** Health care and social assistance, professional and business services, and education did nearly all the net hiring in June's report.
+- **Use the stability pitch.** Employers reading the same surveys know new hires who job-hop are expensive. A candidate who can credibly say they're looking for a place to stay and grow is selling exactly what a low-churn market buys.
+
+## The Bottom Line
+
+Job hugging is a rational response to a slow market, and 57 percent of the workforce doing it reshapes the game for everyone. If you're employed, stay deliberately, not passively, and keep your search muscles warm. If you're looking, exploit the thin field while it lasts. Either way, the workers who treat this freeze as a strategy window, not a waiting room, will be first in line when hiring loosens.
+
+## Sources
+
+- ResumeBuilder.com, "6 in 10 Workers Are Clinging To Their Jobs as Job Hugging Soars in 2026" (February 2026 survey of 2,188 U.S. workers)
+- U.S. Bureau of Labor Statistics, "Job Openings and Labor Turnover, May 2026" (released June 30, 2026)
+- U.S. Bureau of Labor Statistics, "The Employment Situation, June 2026" (released July 2, 2026)
+- Robert Half, hiring intentions research, second half 2026
+`,
+    publishedAt: '2026-07-15',
+  },
+  {
     slug: 'june-2026-jobs-report-low-hire-low-fire-job-search',
     title: "The June Jobs Report Explains Why Your Search Feels Slow. Here's How to Adjust.",
     description: "The economy added 57,000 jobs in June 2026 and unemployment held at 4.2%, but the details matter more than the headline: hiring is concentrated in three sectors, long-term unemployment is rising, and openings just hit a two-year high. Here's what the BLS data means for how you run your search this summer.",
