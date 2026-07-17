@@ -32,6 +32,69 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: "ai-job-interviews-how-to-handle-2026",
+    title: "You'll Probably Be Interviewed by an AI. Here's How to Handle It.",
+    description: "AI now runs a large share of first-round interviews, and 63% of job seekers say they've already faced one. Here's what these interviews actually measure, why they feel unfair, and the concrete ways to prepare, from STAR answers to audio setup, without crossing the line into faking it.",
+    category: "Interview",
+    readTime: "9 min read",
+    content: `
+## The Interviewer Might Not Be a Person Anymore
+
+You prepare for an interview by picturing a person: someone reading your resume, nodding, asking a follow-up. That picture is getting outdated. A growing share of first-round interviews are now run by AI. You talk to a screen or a voice, answer a set of questions, and a system scores your responses before any human sees them.
+
+This is not a fringe experiment. Survey data released in 2026 found that 63 percent of job seekers say they have now been interviewed by an AI, up 13 percentage points from six months earlier. Separate industry reporting put the share of AI-conducted interviews at roughly 34 percent, up from about 10 percent two years ago. Whatever the exact figure, the direction is not subtle: if you are searching in a competitive market, you should expect to meet an AI before you meet a hiring manager.
+
+And the market is competitive. The June 2026 jobs report showed employers adding just 57,000 jobs with unemployment at 4.2 percent, the kind of slow, cautious hiring we covered in [the June jobs report breakdown](/resources/june-2026-jobs-report-low-hire-low-fire-job-search). When each opening draws a flood of applicants, companies lean on automation to get through the pile, and the first-round AI interview is part of that machinery.
+
+This article explains what these interviews actually are, why they feel strange, and the concrete things you can do to perform well in one without pretending to be a robot.
+
+## What an AI interview usually looks like
+
+There is no single format, but most fall into a few buckets.
+
+The one-way recorded interview is the most common. You get a link, a question appears on screen, and you record your answer within a time limit, sometimes with limited retakes. No human is on the other end. The recording is analyzed later.
+
+The live AI interviewer is newer. A voice or chat agent asks questions in real time and adapts follow-ups based on what you say, more like a conversation. It feels closer to a phone screen, except the thing asking is software.
+
+In both cases, the system is typically scoring structured things: whether your answers cover the competencies the role calls for, how clearly you communicate, and how consistent your responses are. Understanding that these tools break your answer into signals helps you give them signals worth scoring. If you want a grounding in how these systems process language in the first place, our sister site has a plain-English explainer on [what AI agents actually do](https://howdoiuse.ai/resources/how-to-use-ai-agents).
+
+## Why these interviews feel unfair, and where the real problems are
+
+Plenty of candidates dislike AI interviews, and the data backs up the frustration. In the same 2026 survey, 70 percent of candidates said they were never clearly told upfront that AI would be evaluating them, and 21 percent only found out once the interview had started. More striking, 38 percent said they had walked away from a hiring process because it used an AI interview, and another 12 percent said they would.
+
+Those numbers are a real signal to employers, and some are responding by rethinking how they use these tools. But as a job seeker, you cannot control an employer's process. What you can do is separate the parts worth objecting to from the parts worth preparing for. Being scored by a machine on a recorded answer is uncomfortable, but it is also predictable, and predictable is something you can practice.
+
+## How to actually prepare
+
+The good news is that AI interviews reward the exact habits that make you better in human interviews too. They just reward them more rigidly.
+
+Answer in structured stories. The single most useful tool here is the STAR method: Situation, Task, Action, Result. State the situation briefly, the task you owned, the specific actions you took, and the measurable result. AI scoring tends to look for whether your answer actually contains a concrete example with an outcome, not just a claim about your strengths. A vague "I'm a strong collaborator" scores worse than "When our launch slipped two weeks, I reorganized the standup, cut the scope to the three must-haves, and we shipped on the revised date."
+
+Say the keywords from the job description, out loud. On a resume you already tune your language to the posting. Do the same when you speak. If the role calls for stakeholder management, project coordination, or a specific tool, name those things explicitly in your examples. You are not gaming the system by using its vocabulary. You are making it easy to credit you for experience you genuinely have. Our guide to [writing a resume that gets past automated screening](/resources/resume-beats-ats) covers the same keyword logic for the written stage.
+
+Fix your setup before you worry about your answers. For recorded and live AI interviews, audio clarity carries a lot of weight, because a system that mis-hears you cannot score you well. Use a quiet room, a decent microphone or headphones, steady lighting, and a plain background. Speak a little more slowly and clearly than feels natural. Test the whole thing once before the real attempt.
+
+Practice out loud, ideally with a tool. Roughly a quarter of job seekers now use an AI-powered platform to rehearse for interviews, and those who did reported meaningful gains in confidence going into the real thing. You do not need a paid product. Recording yourself answering common questions on your phone and watching it back exposes filler words, rambling, and answers that never reach a result.
+
+## The line you should not cross
+
+There is a difference between using AI to prepare and using AI to deceive during a live interview. About 22 percent of candidates report using AI in real time during interviews, feeding questions to a tool and reading back answers. This is a fast-growing habit and a risky one. Employers are actively watching for it, and getting caught reading a generated answer is a quick way to end a candidacy. It also defeats the purpose: if you land a role by outsourcing the interview, you have set yourself up to be measured against a version of you that does not exist.
+
+Use AI to rehearse, to get feedback, to research the company, and to sharpen your examples. Then show up and answer as yourself. Authenticity is not just the ethical choice here. It is the durable one. For the same reason over-automated resumes are backfiring, over-automated interviews tend to collapse the moment a human gets involved, which we unpack in [why AI-generated applications are backfiring](/resources/ai-resumes-backfiring-2026).
+
+## Bottom line
+
+The AI interview is no longer an edge case. Most searches will run into one, and the candidates who do well are not the ones who resent it or try to trick it. They are the ones who prepare for its quirks: structured STAR answers, the job's own keywords spoken out loud, a clean audio setup, and real rehearsal. Treat the AI round as the gate it is, clear it on its terms, and save your energy for the humans waiting on the other side.
+
+## Sources
+
+- PR Newswire, "63% of Job Seekers Have Faced an AI Interview. Most Haven't Had a Good One Yet" (2026)
+- Resume Genius, 2026 Job Seeker Insights Report (survey of 1,000 U.S. job seekers)
+- U.S. Bureau of Labor Statistics, Employment Situation, June 2026 (bls.gov)
+- Newsweek, "Job Seekers Are Using AI During Interviews" (2026)`,
+    publishedAt: "2026-07-17",
+  },
+  {
     slug: 'job-hugging-2026-what-it-means-for-your-search',
     title: "57% of Workers Are 'Job Hugging.' Here's What That Means for Your Search.",
     description: "A February 2026 ResumeBuilder survey of 2,188 U.S. workers found 57% now identify as job huggers, staying put out of fear rather than loyalty, up from 45% in August 2025. BLS data confirms the freeze: the quits rate has been stuck at 1.9%. Here's what a market full of huggers means for your search, whether you're employed and stuck or unemployed and frustrated.",
