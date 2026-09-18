@@ -32,6 +32,84 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: "august-2026-jobs-report-162000-what-changed-for-your-search",
+    title: "August Added 162,000 Jobs. Here's What Actually Changed for Your Search (and What Didn't).",
+    description: "The August jobs report was the strongest of 2026, but 101,000 of the 162,000 gain came from restaurants and school districts, the information sector lost 23,000 jobs, and the hires rate fell to 3.2 percent. Here's what the BLS and JOLTS data say about where to aim your search this fall.",
+    category: "Job Search Strategy",
+    readTime: "7 min read",
+    content: `
+## The First Real Jobs Number Since Spring
+
+On September 4, the Bureau of Labor Statistics reported that employers added 162,000 jobs in August and unemployment held at 4.1 percent. If you've been searching through the summer, that headline probably landed as relief. It should, a little. It should not change your plan much.
+
+Here's why. The 162,000 figure is more than five times the average monthly gain of 31,000 over the prior twelve months. But most of it came from two places: restaurants and bars added 59,000 jobs, and local government education added 42,000, which the BLS notes largely offset a drop in July. Strip those out and the rest of the economy added roughly 60,000 jobs, which is a normal month in a slow year, not a hiring boom.
+
+We wrote in July that [the market had settled into a low-hire, low-fire pattern](/resources/june-2026-jobs-report-low-hire-low-fire-job-search). August's report doesn't break that pattern. It confirms it with a better headline.
+
+## What the numbers actually say
+
+The August release and the July JOLTS report (out September 1) together give the clearest picture of the hiring environment you're walking into this fall.
+
+**Payrolls: +162,000 in August.** The prior two months were revised up by a combined 55,000, so July now shows +21,000 instead of a loss, and June stands at +31,000. Worth remembering: June was first reported at +57,000, then cut to +20,000, then nudged back to +31,000. Single-month numbers move a lot. Trends don't.
+
+**Unemployment: 4.1 percent, unchanged.** About 7.0 million people are unemployed. Long-term unemployed (27 weeks or more) held at 1.9 million and make up 27 percent of all unemployed people. That share matters if you're in it, and we'll come back to it.
+
+**Participation: 61.6 percent, up from 61.4.** More people started looking in August. That's healthy for the economy and slightly worse for you in the short run, because it means more competition per posting.
+
+**Hires: 5.1 million in July, a 3.2 percent rate.** JOLTS showed hires down from a revised 5.3 million in June. Openings held at 7.3 million (4.4 percent). Quits stayed at 1.9 percent, the same frozen level we covered in [the job hugging piece](/resources/job-hugging-2026-what-it-means-for-your-search). Layoffs held at 1.0 percent. Nobody's getting fired, nobody's quitting, and companies are filling roles slowly.
+
+**Wages: $37.75 an hour, up 3.1 percent over the year.** Real but modest. Don't expect a bidding war for most roles.
+
+## Where the jobs were, and weren't
+
+The industry detail is the most useful part of the report for anyone deciding where to point their search.
+
+**Growing:**
+- Food services and drinking places: +59,000, far above the 12-month average of 12,000. Seasonal hiring is part of this, but it's also the single largest source of new payrolls in the country right now.
+- Local government education: +42,000, a rebound from July's drop. Schools, districts, and support roles.
+- Manufacturing: +16,000, up 58,000 since a low in December 2025. Machinery and fabricated metal products both added 6,000.
+- Health care: +13,000. Still growing, but at less than half its 12-month average of 32,000. Home health (+11,000) and hospitals (+8,000) led.
+- Construction: +22,000, with nonresidential specialty trades continuing to add.
+
+**Shrinking:**
+- Information: -23,000, a sharp drop in a sector that had been losing about 8,000 jobs a month over the prior year. Losses hit computing infrastructure and data processing (-8,000), publishing (-7,000), and broadcasting and content (-5,000).
+- Financial activities: little changed in August, but the July report showed the sector down 121,000 from its May 2025 peak.
+
+**Flat:** retail, wholesale, transportation and warehousing, professional and business services, and social assistance all showed little change.
+
+Two things to notice. First, the information sector losing 23,000 jobs in a month when the overall economy added 162,000 is a real split. If you work in media, publishing, or the data-processing side of tech, the improving headline doesn't apply to you, and you should plan accordingly. Second, health care's slowdown from 32,000 a month to 13,000 is the one to watch. It's been the most reliable hiring sector for two years. It's still positive, but it's cooling.
+
+## What this means for your search this fall
+
+The honest read is that the market improved at the margin and stayed structurally slow. Here's how to adjust.
+
+**If you're searching in hospitality, education, manufacturing, or construction:** the tailwind is real. Move fast. August's gains in these sectors are the kind that get filled quickly, and the fall school-year hiring window closes soon. Apply directly to employers and districts rather than waiting for aggregator listings to refresh.
+
+**If you're searching in information, media, or finance:** the aggregate number is not your number. Your sector is contracting while the whole grows, which means employers there have more candidates per role than the national picture suggests. This is where a targeted approach beats volume. Our guide to [reaching the hidden job market](/resources/hidden-job-market-networking-2026) is more relevant to you than to anyone else reading this.
+
+**If you're long-term unemployed:** you're one of about 1.9 million people, and that number hasn't moved. Employers in a slow-hire market screen harder on gaps. Two counters work. First, get something current on your resume, even a contract, a certification, or documented volunteer work, so the top line isn't a date from early 2026. Second, use the participation data to your advantage: with more people entering the labor force, a candidate who's been actively searching and can talk specifically about what they've learned in that time reads as persistent, not stale. Rehearse that framing before your next interview.
+
+**If you're employed and thinking about moving:** quits at 1.9 percent means your peers aren't jumping. The market for job-switchers is thin, and 3.1 percent wage growth means the raise you'd get from moving is smaller than it was in 2022. That's not a reason to stay put, but it is a reason to negotiate hard on the offer you do take, because you won't get many. If part of what's pushing you out is your manager or team, our sister site The Leader's Table has written about [how change fatigue makes teams freeze](https://theleaderstable.xyz/resources/change-fatigue-leaders-reduce-2026/), which may help you judge whether what you're feeling is temporary or structural.
+
+**For everyone:** the hires rate fell even as payrolls rose. That combination means companies are adding headcount in a few places and holding steady everywhere else. Expect longer processes, more rounds, and more roles that get posted and then quietly frozen. Follow up on every application at the two-week mark, and don't read silence as rejection until you've heard it.
+
+## What to watch next
+
+The September jobs report is due October 2. The August JOLTS report is due September 29. Watch two things: whether health care's slowdown continues, and whether the hires rate recovers from 3.2 percent. If hires tick back up while openings hold, that's the signal that the freeze is thawing. If payrolls stay positive but hires keep sliding, the improvement is on paper only, and the low-hire, low-fire advice still stands.
+
+## The Bottom Line
+
+August was a good month by 2026 standards and an ordinary one by any other. The economy added jobs, but mostly in restaurants and schools, and employers overall are filling roles at a 3.2 percent hires rate, down from June. Aim your search at the sectors that are actually adding people, treat the national headline as background rather than a forecast for your own field, and keep the direct-outreach habits that a slow market rewards. The number that matters for you isn't 162,000. It's the hires rate, and that one is still 3.2 percent.
+
+## Sources
+
+- U.S. Bureau of Labor Statistics, "The Employment Situation, August 2026," USDL-26-1435 (released September 4, 2026): https://www.bls.gov/news.release/empsit.nr0.htm
+- U.S. Bureau of Labor Statistics, "The Employment Situation, July 2026" (released August 7, 2026): https://www.bls.gov/news.release/archives/empsit_08072026.htm
+- U.S. Bureau of Labor Statistics, "Job Openings and Labor Turnover, July 2026," USDL-26-1432 (released September 1, 2026): https://www.bls.gov/news.release/jolts.nr0.htm
+`,
+    publishedAt: "2026-09-18",
+  },
+  {
     slug: "ai-job-interviews-how-to-handle-2026",
     title: "You'll Probably Be Interviewed by an AI. Here's How to Handle It.",
     description: "AI now runs a large share of first-round interviews, and 63% of job seekers say they've already faced one. Here's what these interviews actually measure, why they feel unfair, and the concrete ways to prepare, from STAR answers to audio setup, without crossing the line into faking it.",
