@@ -32,6 +32,133 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'challenger-august-2026-hiring-plans-where-the-jobs-are',
+    title: "Layoffs Are at a Four-Year Low and Hiring Plans Are Up 37%. Here's Where Those Jobs Actually Are.",
+    description: "Challenger's August report shows 529,914 announced job cuts so far in 2026, down 41% year over year and the lowest January-to-August total since 2022, alongside 119,825 announced hiring plans, up 37% and the strongest since 2023. Your search still feels hard because the cuts and the hires are in different industries. Here is what the sector tables say about where to point your search, what the data cannot tell you, and why late September is the window to watch.",
+    category: 'Job Search Strategy',
+    readTime: '8 min read',
+    content: `
+## Two Numbers That Do Not Match Your Inbox
+
+Challenger, Gray & Christmas released its August job-cut report on September 3, and the headline read like good news. U.S. employers announced 52,881 cuts in August, down 38% from the 85,979 announced in August 2025, and the lowest August total since 2022. Through the first eight months of 2026, employers have announced 529,914 cuts, down 41% from 892,362 over the same stretch last year. Strip out the Government sector, which distorted 2025 badly, and cuts are still down 15%.
+
+On the other side of the ledger, announced hiring plans are up. Employers have announced plans to hire 119,825 workers through August, up 37% from 87,626 a year ago, and the strongest January-to-August total since 2023.
+
+Fewer layoffs. More hiring plans. And your search still feels like shouting into a well.
+
+You are not imagining it, and the same report explains why. The useful part of the Challenger data is not the headline. It is the industry tables, which tell you exactly which sectors are shedding people, which ones are announcing hires, and how far apart those two lists are.
+
+## First, What Challenger Actually Counts
+
+This matters before you act on any of it.
+
+Challenger tracks publicly announced job cuts and publicly announced hiring plans. It is a count of announcements, not a count of jobs that were actually eliminated or filled. Some reductions are announced as a range or spread over several years, and Challenger records the announced figure. A company that quietly stops backfilling roles shows up nowhere. Neither does a small employer that hires four people without a press release.
+
+That makes the data excellent for one thing and useless for another. It is excellent at showing you where corporate intent is moving. It is useless as a headcount. Treat every number below as a signal of direction, not a tally of openings.
+
+For actual employment levels, the monthly BLS Employment Situation report is the better instrument, and we covered [what the August jobs report changed for your search](/resources/august-2026-jobs-report-162000-what-changed-for-your-search) a few weeks ago. Read the two together and you get something neither gives you alone.
+
+## Where the Cuts Are Concentrated
+
+Twenty of the 30 industries Challenger tracks have announced fewer cuts this year than at the same point in 2025. The reductions are not spread evenly. They are stacked in a few places.
+
+**Technology leads everything with 155,126 cuts announced through August**, up 52% year over year. That is 29% of all job cuts announced in 2026, more than any other industry, and it is the fourth consecutive year technology has carried a disproportionate share.
+
+**Transportation is second with 42,279, up 271%** from 11,381 a year ago, as the sector absorbs higher costs and shifting trade conditions. Health Care and Products follows at 35,637, Consumer Products at 28,574, and Services at 26,778.
+
+Two smaller sectors are moving fast in the wrong direction. **FinTech cuts are up 305% to 7,347**, and **Food is up 75% to 22,367**, with Tyson alone responsible for roughly a third of August's food-sector total after a historic cattle shortage.
+
+If you are searching in technology, transportation, fintech or food production, the extra friction you are feeling is real, and it is not a reflection of your resume. You are competing against a larger pool of recently displaced people with directly relevant experience.
+
+## Where the Cuts Collapsed
+
+The opposite list is the one nobody talks about, and it is more useful.
+
+- **Government: down 92%**, to 22,229 from 295,273. Last year's federal workforce reductions are simply not repeating at that scale.
+- **Retail: down 84%**, to 13,369 from 83,656.
+- **Telecommunications: down 62%**, to 7,446.
+- **Warehousing: down 55%**, to 18,589.
+- **Financial: down 49%**, to 22,912.
+- **Services: down 52%**, to 26,778 from 55,300.
+
+A sector with collapsing layoffs is not the same as a sector that is hiring. But it does tell you something concrete: the pool of displaced candidates with that exact background is much thinner than it was a year ago. In retail specifically, roughly 70,000 fewer people were pushed into the market this year than last. That is 70,000 fewer people competing with you for the roles that do open.
+
+## Where the Hiring Plans Are
+
+Now the other table. Announced hiring plans through August, by industry:
+
+- **Technology: 19,751** (up from 5,570 a year ago)
+- **Aerospace and Defense: 16,541** (up from 4,786)
+- **Automotive: 14,937** (up from 6,221)
+- **Entertainment and Leisure: 12,196**
+- **Government: 9,368**
+- **Industrial Goods: 8,737**
+- **Consumer Products: 6,868**
+- **Electronics: 4,950**
+- **Energy: 4,660**
+- **Insurance: 4,010**
+
+Notice technology sits at the top of both tables. That is not a contradiction. Large firms are cutting in one division and staffing another, usually AI infrastructure, platform and security work. If you are a technologist, the read is not "leave the industry." It is "the demand has moved, and a lateral inside the sector is the shortest path."
+
+The bigger signal is the concentration in physical industries. Of the hiring plans announced in August, Andy Challenger noted that **46% came from manufacturing industries**. Aerospace and Defense led all sectors in August with 4,025 announced hires, followed by Technology at 2,520 and Industrial Goods at 1,856.
+
+This is where the market is quietly moving, and it is where the fewest polished white-collar applicants are looking.
+
+## The Catch, Stated by Challenger Itself
+
+Andy Challenger, the firm's chief revenue officer, put the caveat plainly in the release: "While companies are making plans to hire more workers than last year, according to our numbers, it doesn't appear those positions are being filled quickly." His follow-up question is the one that should shape your next month: "The questions are how long will it take employers to actually fill these roles and will they find workers with the requisite skills."
+
+Slow fills are frustrating when you are inside a process. They are an advantage when you are outside one. A req that has been open for eleven weeks is a req where the hiring manager's standards are about to become more flexible, and where a well-aimed direct approach has a much better chance of landing than it did in week two.
+
+It also means your follow-up window is longer than you think. The instinct after two weeks of silence is to assume you are dead. In a market where announced roles are sitting unfilled, a check-in at week four or week six is not desperate. It is often the first message that arrives when the manager has stopped pretending the perfect candidate is coming.
+
+## The September Pattern, and Why Not to Over-Read It
+
+One more thing in the Challenger tables is worth knowing about right now, in late September.
+
+September is historically the single biggest month of the year for announced hiring plans, because that is when seasonal retail, warehousing and logistics hiring gets announced. In 2025, September accounted for 117,313 of the year's 507,647 announced plans. In 2024 it was 403,893. In 2023 it was 590,353.
+
+So the next four to six weeks are when the largest single block of announced roles typically lands. If seasonal work is a viable bridge for you, this is the window to be watching, not November.
+
+Be careful with the comparison, though. Monthly hiring plans in 2026 have averaged 14,978, against a 2025 full-year average of 42,304 and a 2024 average of 64,163. The September spike may well arrive, but arriving at 2026's scale is a very different thing from arriving at 2023's. Plan around the timing, not around the magnitude.
+
+Seasonal roles are also worth treating as a real door rather than a consolation prize. They put you inside a company's systems, give you a manager who can vouch for you, and turn a cold application in February into an internal transfer. That is the same mechanism behind most of what people call the [hidden job market](/resources/hidden-job-market-networking-2026).
+
+## Five Things to Actually Do With This
+
+**1. Find out which list your sector is on.** Cutting heavily, cutting less than last year, or announcing hires. Each one implies a different level of competition and a different message. If you are in one of the heavy-cut sectors, your problem is crowding, not quality, and the fix is differentiation rather than volume.
+
+**2. Follow announcements to the employer, not to an aggregator.** Challenger's hiring-plan figures come from company announcements. When a defense contractor or an industrial manufacturer announces an expansion, the roles typically appear on that company's own careers site days or weeks before they saturate the job boards. Build a list of 15 to 25 employers in the sectors above and check their sites directly on a schedule.
+
+**3. Translate yourself into the industries that are hiring.** Aerospace, defense, automotive and industrial goods hire far more than engineers. They hire program managers, procurement specialists, quality analysts, schedulers, technical writers, compliance staff and trainers. If your experience is in a shrinking sector, the transferable-skills framing matters more than the job title you held, which is exactly the shift covered in [skills-based hiring](/resources/skills-based-hiring-2026-how-to-win-jobs-without-credentials).
+
+**4. Move your follow-up out to week four.** Slow fills mean the process often outlives your patience. A short, specific note referencing something concrete about the role, sent four to six weeks after your application, catches reqs at the point where the bar softens.
+
+**5. Use the low-churn market to your advantage if you are employed.** Fewer layoffs also means fewer people moving, which means fewer openings created by resignations. That is the mechanism behind what leaders are now calling job hugging, and [The Leader's Table has covered what it does to teams from the manager's side](https://theleaderstable.xyz/resources/job-hugging-leadership-retention-trap-2026). If you are currently employed and searching, expect a longer cycle and negotiate accordingly rather than jumping at the first offer out of relief.
+
+## What This Data Cannot Tell You
+
+Three limits worth holding onto.
+
+It is national. Challenger's state tables show California at 104,898 cuts year to date, Texas at 43,356, Washington at 41,633, Georgia at 39,448 and Michigan at 31,960, but a national sector trend can be inverted in your metro.
+
+It is announcements, not outcomes. A hiring plan is a statement of intent from a press release. Some of those roles will never be posted.
+
+And it is skewed toward large employers. Most hiring in the United States happens at companies too small to issue a release. The Challenger data describes the visible tip of the market, not the whole of it.
+
+## Bottom Line
+
+Layoffs are at their lowest January-to-August level since 2022 and announced hiring plans are at their highest since 2023. Both are true, and neither means your search should feel easy, because the cuts and the hires are happening in different places. Technology, transportation, fintech and food are shedding. Aerospace and defense, automotive, industrial goods and technology infrastructure are announcing. Forty-six percent of August's hiring plans came from manufacturing.
+
+Read the tables, not the headline. Then point your search at the column that is growing.
+
+## Sources
+
+- Challenger, Gray & Christmas, Inc., "Job Cut Announcement Report, August 2026," released September 3, 2026. Source of all cut and hiring-plan figures cited above, including the 52,881 August cuts, the 529,914 January-to-August total, the industry breakdowns in Tables 1, 2 and 7, the state totals in Table 3, the 119,825 year-to-date hiring plans, the monthly hiring-plan history in Table 6, and both Andy Challenger quotations.
+- U.S. Bureau of Labor Statistics, Employment Situation news releases, 2026, for the employment-level context referenced above.`,
+    publishedAt: "2026-09-23",
+  },
+  {
     slug: "august-2026-jobs-report-162000-what-changed-for-your-search",
     title: "August Added 162,000 Jobs. Here's What Actually Changed for Your Search (and What Didn't).",
     description: "The August jobs report was the strongest of 2026, but 101,000 of the 162,000 gain came from restaurants and school districts, the information sector lost 23,000 jobs, and the hires rate fell to 3.2 percent. Here's what the BLS and JOLTS data say about where to aim your search this fall.",
