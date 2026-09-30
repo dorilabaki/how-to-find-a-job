@@ -32,6 +32,78 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'august-2026-jolts-7-million-openings-what-job-seekers-should-do',
+    title: "August JOLTS: 7.1 Million Openings, Roughly One Per Unemployed Person. Here's What to Do With That.",
+    description: "BLS reported 7.079 million job openings for August, down from a revised 7.335 million in July, but BLS itself calls the change small. Hires held at 5.2 million and quits at 1.9 percent. Here's what the full report says, two ratios worth calculating, and how to adjust your search.",
+    category: 'Job Search Strategy',
+    readTime: '8 min read',
+    content: `
+## The Number Dropped. The Government Says It Didn't Really.
+
+The Bureau of Labor Statistics released the August JOLTS report on September 29, and one number made headlines: job openings came in at 7.079 million, down from a revised 7.335 million in July. That's a drop of about 256,000 openings in a month, or 3.5 percent.
+
+Then BLS described it this way: "The number and rate of job openings were little changed at 7.1 million and 4.3 percent, respectively, in August. Job openings changed little in all industries."
+
+Both statements are true, and the gap between them is the most useful thing in the report. JOLTS is a sample survey, so every monthly figure carries a margin of error, and BLS only calls a move a change when it clears that margin. A 256,000 dip did not. If you saw a headline saying openings "plunged," the agency that produces the number disagrees.
+
+## The Full Set of Numbers
+
+Here's what the August release reported, all seasonally adjusted and still preliminary:
+
+- **Job openings:** 7.079 million, a 4.3 percent rate. July was revised up to 7.335 million (4.4 percent). A year earlier, in August 2025, openings were 6.919 million, so they're still about 160,000 (2.3 percent) above last year.
+- **Hires:** 5.2 million, a 3.3 percent rate. July's hires were revised to 5.1 million. BLS says hires changed little over the month and the year.
+- **Quits:** 3.1 million, a 1.9 percent rate, unchanged.
+- **Layoffs and discharges:** 1.6 million, a 1.0 percent rate.
+- **Total separations:** 5.1 million, a 3.2 percent rate, unchanged.
+
+Economists surveyed ahead of the release had expected about 7.225 million openings, according to InvestingLive's summary of the data, so the number came in a little light. That's a market-watcher's framing, not BLS's. For a job seeker the more practical read is the one in the table above: nothing moved much.
+
+## Two Ratios Worth Doing Yourself
+
+Two pieces of arithmetic make the report more useful than the headline.
+
+**Openings versus people looking.** The August Employment Situation report put the number of unemployed people at about 7.0 million (we covered it in [the August jobs report breakdown](/resources/august-2026-jobs-report-162000-what-changed-for-your-search)). Set that against 7.1 million openings and you get roughly one opening per unemployed person. That's our division, not a BLS statistic, and it's crude. Many openings need specific skills or locations, and plenty of people who are employed are also applying. But it explains why the market feels neither desperate nor easy. There's no shortage of vacancies and no shortage of applicants.
+
+**Hires versus openings.** About 5.2 million hires happened against 7.1 million openings, or roughly 73 hires for every 100 openings on the books. Openings are a stock of roles that are currently unfilled, and hires are a flow of roles that got filled during the month, so this isn't a fill rate. It does show that a large pool of openings sits open at any moment. Some are slow-moving roles, some are duplicates, and some may not be real. If that last category worries you, our piece on [how to spot ghost jobs](/resources/ghost-jobs-how-to-spot-them) is the place to start.
+
+## What Didn't Change: The Low-Hire, Low-Fire Pattern
+
+The hires rate ticked up from 3.2 percent in July to 3.3 percent in August. Challenger's August report showed announced layoffs at a four-year low for the January-to-August period ([our breakdown](/resources/challenger-august-2026-hiring-plans-where-the-jobs-are)). JOLTS agrees: layoffs are 1.0 percent of employment, quits are 1.9 percent, and neither moved.
+
+Quits are the number to understand if you're employed and thinking about a move. A 1.9 percent quit rate means people are staying put, which means fewer vacancies get created when someone leaves. Much of the hiring in any economy comes from replacing people who quit. When quits stay low, that source of openings stays thin, and the openings that do exist are more likely to be new growth roles than backfills. Our [job hugging analysis](/resources/job-hugging-2026-what-it-means-for-your-search) covers what's behind it.
+
+## What to Do With This
+
+**Don't rebuild your search around a one-month dip.** BLS says the change was small. A search plan that only works if openings rise 3.5 percent isn't a plan. Keep your target list, your networking cadence, and your application quality the same.
+
+**Assume the process will be slow.** With hires flat at 3.3 percent and separations flat at 3.2 percent, employers aren't in a hurry in either direction. Budget for a longer timeline than you'd like, and follow up at the two-week mark.
+
+**Work the pool that isn't posted.** When roughly one opening exists per unemployed person, the advantage goes to candidates who reach a hiring manager before a posting draws hundreds of applications. Our guide to the [hidden job market](/resources/hidden-job-market-networking-2026) walks through how.
+
+**Protect your morale on purpose.** Flat data means a search can stall for reasons that have nothing to do with you, and a stall is when people quit trying. A diary study of 227 job seekers found that those who treated themselves with more self-compassion showed a weaker link between feeling stuck and feeling bad. We wrote up the details on our sister site: [Growth Mindset Academy's breakdown of the study](https://growthmindset.academy/resources/self-compassion-job-search-stalls-diary-study-2026).
+
+## What This Data Can't Tell You
+
+JOLTS counts openings employers report, not roles they're actively interviewing for. It says nothing about openings by your job title, city, or seniority, and BLS notes that the openings figure changed little in every industry group, so the report gives you no basis to pick one sector over another. August figures are preliminary and will be revised next month, as July's just were. For a sector-level picture, the Employment Situation report and Challenger's industry tables are better instruments.
+
+## What to Watch Next
+
+The September Employment Situation report is scheduled for October 2. Two things matter: whether payroll growth holds up, and whether the hires rate stays at 3.3 percent or better in next month's JOLTS. If hires rise while openings hold, employers are converting postings into offers faster. If openings keep sliding and hires stay flat, the pool you're competing in is getting smaller without getting any friendlier.
+
+## The Bottom Line
+
+August's JOLTS report was a non-event by design: openings of 7.1 million, hires of 5.2 million, quits and layoffs both frozen. The drop from July looks big in a headline and isn't statistically meaningful. The useful takeaway is the structure underneath. There's roughly one opening for every unemployed person, employers are hiring and firing at low rates, and the advantage goes to job seekers who are patient, direct, and steady.
+
+## Sources
+
+- U.S. Bureau of Labor Statistics, "Job Openings and Labor Turnover Summary, August 2026," released September 29, 2026: https://www.bls.gov/news.release/jolts.nr0.htm
+- U.S. Bureau of Labor Statistics, JOLTS Table 1, job openings levels and rates by industry and region (August 2026 preliminary, July 2026 revised, August 2025): https://www.bls.gov/news.release/jolts.t01.htm
+- InvestingLive, "JOLTS job openings 7.079M vs 7.225M estimate," September 29, 2026 (source of the consensus estimate and July revision)
+- U.S. Bureau of Labor Statistics, "The Employment Situation, August 2026," released September 4, 2026 (source of the roughly 7.0 million unemployed used in the ratio)
+`,
+    publishedAt: "2026-09-30",
+  },
+  {
     slug: 'challenger-august-2026-hiring-plans-where-the-jobs-are',
     title: "Layoffs Are at a Four-Year Low and Hiring Plans Are Up 37%. Here's Where Those Jobs Actually Are.",
     description: "Challenger's August report shows 529,914 announced job cuts so far in 2026, down 41% year over year and the lowest January-to-August total since 2022, alongside 119,825 announced hiring plans, up 37% and the strongest since 2023. Your search still feels hard because the cuts and the hires are in different industries. Here is what the sector tables say about where to point your search, what the data cannot tell you, and why late September is the window to watch.",
