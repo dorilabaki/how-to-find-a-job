@@ -32,6 +32,60 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'september-2026-jobs-report-29000-what-job-seekers-should-do',
+    title: "September Jobs Report: 29,000 New Jobs and 4.2% Unemployment. What It Means for Your Search.",
+    description: "BLS reported payrolls up just 29,000 in September, unemployment at 4.2%, and 60,000 fewer jobs than first reported for July and August. Here's what the data says and how to adjust your job search.",
+    category: 'Job Market',
+    readTime: '6 min read',
+    content: `
+## A Weak Month, Plus Downward Revisions
+
+The Bureau of Labor Statistics released the September Employment Situation report on October 2, 2026. Total nonfarm payroll employment changed little, up 29,000. The unemployment rate was 4.2%, up from 4.1% in August, and BLS describes that move as little changed.
+
+The revisions are the part many headlines skipped. July was revised down by 31,000, from +21,000 to -10,000. August was revised down by 29,000, from +162,000 to +133,000. Together, those two months are 60,000 lower than first reported.
+
+If you read our earlier piece on [the August jobs report](/resources/august-2026-jobs-report-162000-what-changed-for-your-search), the +162,000 figure there has now been trimmed to +133,000. That's normal for BLS data, and it's a good reason not to build a strategy around one month's first estimate.
+
+## The Numbers Worth Knowing
+
+- **Unemployed people:** 7.1 million.
+- **Long-term unemployed:** about 1.9 million, or 27.1% of all unemployed people.
+- **Labor force participation rate:** 61.8%, up from 61.6% in August.
+- **Employment-population ratio:** 59.2%, little changed.
+- **Average hourly earnings:** up 5 cents (0.1%) to $37.81 for private nonfarm employees, and up 3.0% over the past 12 months.
+
+By industry, health care added 17,000 jobs, slower than its prior 12-month average of 33,000. Construction added 11,000, manufacturing 9,000, and financial activities lost 7,000.
+
+## What This Means If You're Searching
+
+BLS reports what happened across the whole economy. It can't tell you how your own search will go. But a few practical points follow from these numbers.
+
+**Plan for a longer search.** With 27.1% of unemployed people out of work for 27 weeks or more, a multi-month search is common right now. Budget your savings and energy for that, and don't read a slow first month as a personal failure.
+
+**Look where hiring is still positive.** Health care is still adding jobs, even at a slower pace. If your skills transfer to that sector, including administration, IT, billing and operations roles, it's worth searching there. Check actual postings in your area, since national totals don't tell you about local demand.
+
+**Expect fewer, slower openings to be real.** Our look at [the August JOLTS report](/resources/august-2026-jolts-7-million-openings-what-job-seekers-should-do) covers openings and hires in detail. The short version: roughly one opening per unemployed person means each posting gets competition.
+
+**Make each application count.** When there are fewer openings per applicant, a tailored resume and a direct note to someone at the company do more than a high volume of generic applications. Our guide to [spotting ghost jobs](/resources/ghost-jobs-how-to-spot-them) helps you skip postings unlikely to lead anywhere.
+
+**Talk to people.** Managers hiring in a slow market get many applications. A referral or a short, specific message to the hiring manager can move you out of the pile. If you're moving into a team lead role, The Leader's Table has practical advice on [executive presence for new managers](https://theleaderstable.xyz/resources/executive-presence-new-manager).
+
+## What Not to Conclude
+
+One report doesn't make a trend. BLS says payrolls changed little, and monthly estimates come from surveys with margins of error and later revisions. The next Employment Situation report, covering October, is scheduled for November 6, 2026. Watch the three-month pattern and the revisions rather than reacting to a single headline.
+
+## The Bottom Line
+
+September added 29,000 jobs, unemployment ticked up to 4.2%, and the prior two months were revised down. Hiring hasn't collapsed, but it's slow. Plan for a longer search, target sectors that are still adding jobs, and put your effort into fewer, better applications.
+
+## Sources
+
+- U.S. Bureau of Labor Statistics, "The Employment Situation, September 2026," released October 2, 2026: https://www.bls.gov/news.release/archives/empsit_10022026.htm
+- U.S. Bureau of Labor Statistics, "The Employment Situation, August 2026," released September 4, 2026 (original August estimate): https://www.bls.gov/news.release/empsit.nr0.htm
+`,
+    publishedAt: "2026-10-09",
+  },
+  {
     slug: 'august-2026-jolts-7-million-openings-what-job-seekers-should-do',
     title: "August JOLTS: 7.1 Million Openings, Roughly One Per Unemployed Person. Here's What to Do With That.",
     description: "BLS reported 7.079 million job openings for August, down from a revised 7.335 million in July, but BLS itself calls the change small. Hires held at 5.2 million and quits at 1.9 percent. Here's what the full report says, two ratios worth calculating, and how to adjust your search.",
