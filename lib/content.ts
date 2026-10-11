@@ -2717,7 +2717,7 @@ A 2024 Clarify Capital survey of 1,000 hiring managers found that around 40% adm
 
 A Resume Builder survey published in 2024 reported that 7 in 10 companies keep job postings active even when they're not actively hiring. Hiring managers cited multiple reasons: building a talent pipeline, signaling company growth to investors or employees, or keeping current staff "motivated" by the appearance of potential internal competition.
 
-Greenhouse, the hiring platform, publishes quarterly data on job posting behavior. Their 2025 analysis flagged a meaningful share of job listings as likely inactive based on recruiter engagement patterns — postings with no interview activity for 60+ days.
+Greenhouse, the hiring platform, publishes quarterly data on job posting behavior. Their 2025 analysis flagged a meaningful share of job listings as likely inactive based on recruiter engagement patterns, postings with no interview activity for 60+ days.
 
 The point isn't to memorize a specific percentage. The point is that a real, measurable portion of your applications are going into postings that were never going to result in a hire.
 
@@ -2787,7 +2787,7 @@ Press releases about funding rounds, earnings calls mentioning headcount growth,
 
 ### Build relationships before you need them
 
-The hidden job market isn't hidden — it's just not advertised on Indeed. Warm introductions, former colleagues, and professional communities surface openings before they become postings.
+The hidden job market isn't hidden, it's just not advertised on Indeed. Warm introductions, former colleagues, and professional communities surface openings before they become postings.
 
 ## If You're Stuck in a Ghost Job Cycle
 
@@ -2801,7 +2801,7 @@ Cap your application time per posting. If you're spending more than 20 minutes o
 
 ## The Bottom Line
 
-Ghost jobs are a real phenomenon with measurable impact on job seekers. You can't eliminate them from your search, but you can adjust how you allocate time. Apply faster to roles you trust. Verify through recruiters and referrals when possible. And remember that a lack of response rarely reflects your qualifications — sometimes the posting itself was the problem.
+Ghost jobs are a real phenomenon with measurable impact on job seekers. You can't eliminate them from your search, but you can adjust how you allocate time. Apply faster to roles you trust. Verify through recruiters and referrals when possible. And remember that a lack of response rarely reflects your qualifications, sometimes the posting itself was the problem.
 
 For more on how hiring has shifted in 2026, see our guide on [skills-based hiring](/resources/skills-based-hiring-2026) and [why AI-generated resumes are backfiring](/resources/ai-resumes-backfiring-2026). If the ghost-job pattern is wearing on your resilience, [Growth Mindset Academy](https://growthmindset.academy/resources/iterative-mindset-beyond-growth) has useful frameworks for staying productive through a longer search.
     `,
@@ -2915,7 +2915,7 @@ If you're working on the personal brand that supports this networking strategy, 
   {
     slug: 'linkedin-about-section-that-recruiters-read',
     title: 'How to Write a LinkedIn About Section That Recruiters Actually Read',
-    description: 'Most LinkedIn About sections read like a press release nobody asked for. A tighter, more useful version gets recruiters past the first two lines — here is the structure that works.',
+    description: 'Most LinkedIn About sections read like a press release nobody asked for. A tighter, more useful version gets recruiters past the first two lines: here is the structure that works.',
     category: 'Personal Brand',
     readTime: '9 min read',
     publishedAt: '2026-04-20',
@@ -2924,7 +2924,7 @@ If you're working on the personal brand that supports this networking strategy, 
 
 Open LinkedIn on your phone right now and look at anyone's profile. The About section shows you roughly the first two lines before "... see more." That is how much text a recruiter reads before deciding whether to keep scrolling or tap the follow-up button.
 
-Two lines. Maybe 220 characters. That is the actual length of the part of your About that most people will ever read. Everything below it needs to be good enough to justify the tap — but the two lines are the only thing you are guaranteed a reader for.
+Two lines. Maybe 220 characters. That is the actual length of the part of your About that most people will ever read. Everything below it needs to be good enough to justify the tap, but the two lines are the only thing you are guaranteed a reader for.
 
 Most LinkedIn About sections fail this test. They open with "Results-driven professional with a passion for..." or "Experienced leader specialising in..." Both phrasings are generic enough that they have been functionally invisible to recruiters for years. The best profiles write the opening as if nothing below it will ever be read.
 
@@ -2932,7 +2932,7 @@ Most LinkedIn About sections fail this test. They open with "Results-driven prof
 
 Before the structure, the context. Recruiters using LinkedIn Recruiter search by keyword and filter by role level, industry, location, and skills. They open a profile, scan the headline, glance at the About, look at job titles, and decide in well under a minute whether to reach out.
 
-The About section's job, for a recruiter, is three things. First, confirm you are the level of person they thought you were from the headline. Second, quickly tell them what you actually do — in language that would match what they might tell a hiring manager. Third, indicate whether you are interested in new opportunities and what kind.
+The About section's job, for a recruiter, is three things. First, confirm you are the level of person they thought you were from the headline. Second, quickly tell them what you actually do, in language that would match what they might tell a hiring manager. Third, indicate whether you are interested in new opportunities and what kind.
 
 This is different from the About section's job for peers, for customers, or for your network. Those audiences want more context and more personality. Recruiters want a short, direct, scannable summary.
 
@@ -2948,7 +2948,7 @@ The format below is simple and it is boring. That is the point. It is optimised 
 
 **Paragraph 3: The reference points.** Two or three sentences. The specific skills, tools, or frameworks you work with. Keywords matter here not because you are gaming a search algorithm but because recruiters do search by keyword, and if your "Figma" or "SQL" or "change management" does not appear anywhere in your profile, you will not surface for those searches.
 
-**Paragraph 4: What's next.** One or two sentences. What you are looking for, or what you are open to. If you are actively looking, say so. If you are open to specific kinds of conversations — "open to senior IC roles in fintech or healthtech" — say that. Vague profiles produce vague inbound.
+**Paragraph 4: What's next.** One or two sentences. What you are looking for, or what you are open to. If you are actively looking, say so. If you are open to specific kinds of conversations, "open to senior IC roles in fintech or healthtech", say that. Vague profiles produce vague inbound.
 
 **Optional closing: How to reach you.** A single line. Email is fine. LinkedIn DMs work. The point is removing ambiguity about the best way to start a conversation.
 
@@ -2958,7 +2958,7 @@ Most About sections contain material that would make them better if deleted. A s
 
 Long career histories. That is what the Experience section is for. The About should not be a summary of jobs; it should be a summary of you.
 
-Personality disclaimers. "When I'm not at work, I enjoy..." adds very little for a recruiter and usually feels forced. If there is something genuinely distinctive about you that a recruiter would find relevant — you speak Japanese fluently, you have a decade of volunteer nonprofit board experience — put it in. Otherwise skip.
+Personality disclaimers. "When I'm not at work, I enjoy..." adds very little for a recruiter and usually feels forced. If there is something genuinely distinctive about you that a recruiter would find relevant, you speak Japanese fluently, you have a decade of volunteer nonprofit board experience, put it in. Otherwise skip.
 
 Self-praise adjectives. "Passionate," "results-driven," "dynamic," "strategic." These words cost you credibility because every weak profile has them. The reader cannot distinguish you from the noise.
 
@@ -3643,7 +3643,7 @@ That does not mean your resume needs to sound like a robot wrote it. It means yo
 
 ## Why AI Screening Exists (And Why It Matters)
 
-The volume problem is real. Large companies receive thousands of applications per opening. Manually screening all of them is not possible. AI screening is not a preference—it is a necessity at scale.
+The volume problem is real. Large companies receive thousands of applications per opening. Manually screening all of them is not possible. AI screening is not a preference, it is a necessity at scale.
 
 The way it works: you submit your resume. The ATS parses it (extracts text and structure). Then the AI scores it against the job posting. Resumes that score above a threshold get passed to a human recruiter. Resumes below the threshold are rejected, often automatically.
 
@@ -3651,7 +3651,7 @@ The threshold varies by company. Some set it conservatively (maybe 40% match). S
 
 ## ATS Parsing: The Machine-Readability Problem
 
-The first step happens before AI scoring even begins. The system has to parse your resume—extract the text and structure it so it can be evaluated.
+The first step happens before AI scoring even begins. The system has to parse your resume, extract the text and structure it so it can be evaluated.
 
 This is where most resumes fail, and the failure is preventable.
 
@@ -3684,7 +3684,7 @@ Once parsed, your resume is scored. The AI looks for:
 3. **Metrics and outcomes**: Do you quantify your accomplishments?
 4. **Skills alignment**: Do you list the specific tools, languages, or certifications they need?
 
-The keyword part is the one most people get wrong. They assume "project management" in their background is the same as "project management" in the job posting. It is not—from an algorithmic perspective. The AI is often looking for the exact phrase, not synonyms.
+The keyword part is the one most people get wrong. They assume "project management" in their background is the same as "project management" in the job posting. It is not, from an algorithmic perspective. The AI is often looking for the exact phrase, not synonyms.
 
 **How to match keywords:**
 1. Get the job posting.
@@ -3694,7 +3694,7 @@ The keyword part is the one most people get wrong. They assume "project manageme
 
 Example: The posting says "SQL database optimization." Your resume says "improved database performance." The AI might not match these, even though they describe the same work. Update your resume to say "SQL database optimization" or add it as a bullet point.
 
-The 40% response rate bump for resumes with metrics is not magic—it is because metrics are often used as a proxy for seniority and impact. Instead of "Managed projects," say "Led 12 projects totaling $2.3M in revenue" or "Reduced processing time by 35%, saving 8 hours per week."
+Adding metrics to a resume is not magic, it is because metrics are often used as a proxy for seniority and impact. Instead of "Managed projects," say "Led 12 projects totaling $2.3M in revenue" or "Reduced processing time by 35%, saving 8 hours per week."
 
 ## AI Skills Are Now Table Stakes in Tech
 
@@ -3725,11 +3725,11 @@ The education section used to anchor a resume. In 2026, it is often below the fo
 
 The tension is real: you want the resume to pass the algorithm, but you also want a human to read something that sounds authentic, not robotic.
 
-The solution is structure, not voice. Your voice—your actual writing—can stay. What changes is the organization and keyword usage.
+The solution is structure, not voice. Your voice, your actual writing, can stay. What changes is the organization and keyword usage.
 
 **Structure that works for both:**
 
-**Header.** Name, phone, email, LinkedIn URL. That is it. Do not add a "professional summary"—it is usually filler.
+**Header.** Name, phone, email, LinkedIn URL. That is it. Do not add a "professional summary", it is usually filler.
 
 **Skills Section.** Before experience. List skills in the order they appear in the job posting. Example: "Python, AWS, SQL, Docker, React, Git" if the posting weighted them that way.
 
@@ -3744,7 +3744,7 @@ Each bullet should start with an action verb and include a number or outcome. Th
 
 **Certifications/Projects** (if relevant). Keep this section tight. Include only what the job posting suggests is valuable.
 
-Do not try to be clever. Do not try to save space with creative formatting. The resume that performs best in 2026 is not the most visually stunning—it is the one that a recruiter can scan in 6 seconds and an AI can parse in 2 seconds.
+Do not try to be clever. Do not try to save space with creative formatting. The resume that performs best in 2026 is not the most visually stunning, it is the one that a recruiter can scan in 6 seconds and an AI can parse in 2 seconds.
 
 ## The One Mistake That Kills Most Resumes
 
@@ -3752,7 +3752,7 @@ You submit the same resume to every job. You change the company name or the job 
 
 Stop doing this.
 
-The single highest-leverage move is a tailored resume for each application. Not a complete rewrite—just adjusting:
+The single highest-leverage move is a tailored resume for each application. Not a complete rewrite, just adjusting:
 1. Bullet point order (put the most relevant achievement first)
 2. Keyword usage (use the posting's language)
 3. Skills order (list what they care about first)
@@ -3790,7 +3790,7 @@ For strategic context on whether the 91% AI screening rate is good or bad for yo
     readTime: '9 min read',
     publishedAt: '2026-05-20',
     content: `
-## The Credential Crisis Is Over—But Many Job Seekers Don't Know It
+## The Credential Crisis Is Over, But Many Job Seekers Don't Know It
 
 For decades, a college degree was your golden ticket. A diploma hanging on the wall meant doors would open. Employers checked the box: degree? Yes. Hire.
 
@@ -4117,7 +4117,7 @@ You update it when you apply. Maybe you add a job once a year. In between, it si
 
 Meanwhile, recruiters and hiring managers are evaluating candidates on something your resume doesn't reflect: what you've actually learned and accomplished since you last bothered to revise it.
 
-This is why the best job seekers in 2026 use a "living resume"—a document that gets updated regularly with fresh wins, new skills, and measurable outcomes. Not for applications. For themselves.
+This is why the best job seekers in 2026 use a "living resume", a document that gets updated regularly with fresh wins, new skills, and measurable outcomes. Not for applications. For themselves.
 
 ## What Is a Living Resume?
 
@@ -4251,21 +4251,21 @@ By next month, you'll have 8-12 documented wins. By next quarter, you'll have a 
 
 You just got an offer. The salary number is lower than you hoped. Your gut tells you to push back, but you hesitate. What if they pull the offer? What if you seem ungrateful?
 
-Here's what the data actually shows: 73% of employers expect you to negotiate. Seventy-three. Yet 58% of American workers accept offers without negotiating at all.
+Here's the pattern recruiters describe: employers build room into the first offer, yet many candidates accept without asking.
 
-That's 15 million people walking away from raises they could have gotten.
+Every unasked question is a raise someone could have had.
 
 ## The Numbers You Need to Know
 
-If there's one reason to negotiate, it's this: people who negotiate get an average of 18.83% more than their initial offer. That's not a 2-3% bump. That's almost a fifth more salary, often for 30 minutes of conversation.
+If there's one reason to negotiate, it's this: a single 30-minute conversation can change your base salary for every year you stay.
 
-For a $80,000 offer, that's $15,064 more per year. Over three years at that company, that's $45,000 you didn't get because you didn't ask.
+Take an $80,000 offer. Even a 5% improvement is $4,000 a year, or $12,000 over three years. That's a simple illustration, not a promised outcome.
 
 But there's more. 71% of job seekers lowered their salary expectations in 2026. They settled before they even sat at the table. And 18% of those cut their expectations by $20,000 or more. You're competing against people who've already defeated themselves.
 
 ## What Changed in 2026
 
-The job market shifted this year. Median time to get a first offer climbed to 108 days—up 30% from Q4 2025. Companies are interviewing more candidates (6-10 per opening), which means your leverage looks worse than it actually is.
+The job market shifted this year. Hiring has slowed at many companies and they are interviewing more candidates per opening, which means your leverage looks worse than it actually is.
 
 But here's the counterintuitive truth: longer searches and more competition actually favor negotiators. Why? Because employers who make offers know it took time. They don't want to lose you to another company's counteroffer. That's leverage.
 
@@ -4344,7 +4344,7 @@ A $3,000 PD budget, 1 extra week of PTO, and a 5% bonus bump doesn't cost them m
 
 The script:
 
-"The base salary of $80,000 is a bit lower than what I was targeting based on market research. I was looking at a range closer to $92-95,000 based on [specific reason—experience, skills, market rate]. I understand budgets have limits. What if we structured this differently? Could we look at [bonus, PTO, PD budget, flexibility] to close that gap?"
+"The base salary of $80,000 is a bit lower than what I was targeting based on market research. I was looking at a range closer to $92-95,000 based on [specific reason, experience, skills, market rate]. I understand budgets have limits. What if we structured this differently? Could we look at [bonus, PTO, PD budget, flexibility] to close that gap?"
 
 They'll either:
 1. Bump the base salary closer to your range
@@ -4364,9 +4364,9 @@ Don't:
 
 ## The Bottom Line
 
-73% of employers expect you to negotiate. They're prepared for it. Their first offer isn't their last offer—it's their opening bid.
+Most employers expect some negotiation. They're prepared for it. Their first offer isn't their last offer, it's their opening bid.
 
-People who negotiate get 18.83% more salary. That's $15,000 on an $80,000 offer. Over a 3-year tenure, that's $45,000.
+Even a 5% improvement on an $80,000 offer is $4,000 a year, or $12,000 over three years.
 
 The only reason not to negotiate is if you don't want more money. Everything else is just fear.
 
@@ -4376,7 +4376,7 @@ That 30 minutes of uncomfortable conversation pays for itself in the first month
 
 ---
 
-*Sources: Resume Genius 2026 Job Search Statistics; The Interview Guys Salary Negotiation Review (2024-2025); Levels.fyi 2026 Salary Report; Bureau of Labor Statistics Occupational Outlook (Q2 2026).*
+*Sources: Bureau of Labor Statistics; Levels.fyi compensation data. The dollar figures above are illustrations, not survey results.*
 `,
   },
   {
@@ -4410,7 +4410,7 @@ A study by McKinsey found that 67% of hiring mismatches came from overreliance o
 
 Companies realized: a person without a degree who can demonstrably do the work is worth more than a credentialed person who can't.
 
-**3. The alternative—skills assessment—works**
+**3. The alternative, skills assessment, works**
 Companies started using work samples, portfolio reviews, and technical assessments instead of credential checks. These actually predict job performance better than degrees do.
 
 Why? Because you can see what someone can do. You don't have to guess.
@@ -4451,8 +4451,8 @@ A portfolio doesn't have to be formal. It just has to show: I have done this wor
 This is the shortcut to skills-based hiring without a full degree.
 
 Strong options:
-- **Google Career Certificates** (Data Analytics, Project Management, Digital Marketing, etc.) — 3-6 months, $200-$400, universally recognized by companies
-- **AWS Certifications** (Solutions Architect, Developer, SysOps) — if you're applying for cloud/tech roles
+- **Google Career Certificates** (Data Analytics, Project Management, Digital Marketing, etc.), 3-6 months, $200-$400, universally recognized by companies
+- **AWS Certifications** (Solutions Architect, Developer, SysOps), if you're applying for cloud/tech roles
 - **Coursera Professional Certificates** (Product Management, Data Science, etc.)
 - **Industry-specific certifications** (Salesforce Admin, HubSpot Marketing, etc.)
 
@@ -4499,7 +4499,7 @@ You've never had the job title "Product Manager" but you've managed a team proje
 
 Skills-based hiring cares about: Did you do the work? Can you prove it? Does it relate to what we need?
 
-Many skills transfer directly. Communication skills, project management, problem-solving, learning ability—these move across industries.
+Many skills transfer directly. Communication skills, project management, problem-solving, learning ability, these move across industries.
 
 ## Industries Leading the Shift
 
@@ -4552,7 +4552,7 @@ Skills-based hiring is the answer to "I don't have the traditional background bu
 
 ---
 
-*Sources: Glassdoor 2026 Jobs Report; McKinsey Hiring Mismatches Study; Bureau of Labor Statistics Occupational Outlook 2026; Gartner Skills-Based Hiring Research; Indeed Skills Report Q2 2026.*
+*Sources: Bureau of Labor Statistics Occupational Outlook Handbook; Indeed Hiring Lab.*
 
 *The credential is fading. The proof is rising. Make sure you have both.*
 `,
@@ -5123,7 +5123,7 @@ Now go prepare, practice, and land that offer.
   {
     slug: 'complete-salary-negotiation-guide',
     title: 'The Complete Guide to Salary Negotiation',
-    description: 'Every job search ends with a negotiation. This guide walks through the research, the framing, and the actual words that reliably produce higher offers — for both new roles and internal raises.',
+    description: 'Every job search ends with a negotiation. This guide walks through the research, the framing, and the actual words that reliably produce higher offers: for both new roles and internal raises.',
     readTime: '32 min read',
     publishedAt: '2026-04-20',
     content: `
@@ -5147,7 +5147,7 @@ A more useful framing, drawn from the Harvard Program on Negotiation's work (par
 
 This framing matters because it changes what you say. Adversarial negotiators make demands. Collaborative negotiators share interests and propose options. The second approach consistently produces better outcomes, both financially and relationally.
 
-A second useful concept from the same tradition is the BATNA — Best Alternative To a Negotiated Agreement. Your BATNA is what you'll do if this deal doesn't happen. A strong BATNA (another offer, your current job, savings to look longer) gives you leverage. A weak BATNA (no other options, immediate need for income) reduces it.
+A second useful concept from the same tradition is the BATNA, Best Alternative To a Negotiated Agreement. Your BATNA is what you'll do if this deal doesn't happen. A strong BATNA (another offer, your current job, savings to look longer) gives you leverage. A weak BATNA (no other options, immediate need for income) reduces it.
 
 Much of preparation is about understanding your BATNA honestly and, where possible, strengthening it before you need it.
 
@@ -5171,7 +5171,7 @@ Multiple sources of salary data are available, each with strengths and weaknesse
 
 **Industry compensation reports.** Specific industries (finance, consulting, law, medicine) often have well-published salary surveys by experience level. These are gold-standard for the covered fields.
 
-**Direct conversations.** Often the highest-quality data, if you can get it. People who have recently changed jobs at comparable companies are willing to share ranges more often than people assume. Asking clearly and privately ("I'm in the final stages at a similar company — would you be willing to share the range you negotiated?") produces answers more often than not.
+**Direct conversations.** Often the highest-quality data, if you can get it. People who have recently changed jobs at comparable companies are willing to share ranges more often than people assume. Asking clearly and privately ("I'm in the final stages at a similar company, would you be willing to share the range you negotiated?") produces answers more often than not.
 
 ### Understanding the Full Compensation Picture
 
@@ -5311,7 +5311,7 @@ A few counter-offer patterns consistently weaken your position:
 
 ### The "We Don't Negotiate" Response
 
-Some companies, particularly at junior levels or in high-volume hiring, claim not to negotiate. In practice, this is usually partially true — base salary may indeed be fixed by bands, but other components may be flexible.
+Some companies, particularly at junior levels or in high-volume hiring, claim not to negotiate. In practice, this is usually partially true, base salary may indeed be fixed by bands, but other components may be flexible.
 
 The response: "I understand the base is set at this level. Is there flexibility on [signing bonus / additional equity / start date / PTO]?"
 
@@ -5319,7 +5319,7 @@ Often yes. The company's claim to "not negotiate" frequently means "we don't neg
 
 ### The "This Is Our Best Offer" Response
 
-When a company says the offer is final, they are usually — not always — telling the truth about that specific component. Other components may still be flexible.
+When a company says the offer is final, they are usually, not always, telling the truth about that specific component. Other components may still be flexible.
 
 The response: "I appreciate that the base is final. Given that, could we look at the equity / bonus / signing bonus to close the gap?"
 
@@ -5344,7 +5344,7 @@ Internal negotiations differ from external in important ways. You already know t
 
 Strengths of internal negotiations: you have a long record of demonstrated value, you understand the organisation's priorities, and you can make the case grounded in specifics.
 
-The structure is similar: research the market and internal bands, propose specific changes, justify with evidence, stay collaborative. The timing matters more — align the conversation with performance review cycles or after clear wins, not during periods of organisational stress.
+The structure is similar: research the market and internal bands, propose specific changes, justify with evidence, stay collaborative. The timing matters more, align the conversation with performance review cycles or after clear wins, not during periods of organisational stress.
 
 For promotions specifically, the conversation is often better framed around scope and responsibility than purely compensation. "I've been operating at the next level on [specific projects]. I'd like to formalise that with a promotion." The compensation adjustment tends to follow.
 
@@ -5368,7 +5368,7 @@ Once you've accepted an offer, the negotiation is over and the relationship begi
 
 **Don't tell everyone your number.** Compensation transparency is increasingly normal and often good, but sharing your specific negotiated number with new colleagues before you've established yourself can create friction. Use discretion in the early months.
 
-**Plan the next negotiation.** Your first salary at this company is the anchor for raises going forward. The work you do in the first year — particularly the achievements you document — becomes the case for the next increase. Start tracking wins and impact from day one.
+**Plan the next negotiation.** Your first salary at this company is the anchor for raises going forward. The work you do in the first year, particularly the achievements you document, becomes the case for the next increase. Start tracking wins and impact from day one.
 
 ---
 
@@ -5384,7 +5384,7 @@ The reframe: asking is a professional skill, not a character flaw. The conversat
 
 This reframe is easier to read than to internalise. It takes practice. The first negotiation feels terrifying. The third feels hard. The tenth feels like a normal conversation about a normal professional topic. Every negotiation you do makes the next one easier.
 
-For a companion piece on how to present yourself during the interviews that lead to these negotiations, see our [Complete Job Search Playbook](/guides/job-search-playbook). And for leaders navigating the other side of these conversations — compensation decisions as managers — [The Leader's Table](https://theleaderstable.xyz) covers the principles that produce equitable and defensible offers.
+For a companion piece on how to present yourself during the interviews that lead to these negotiations, see our [Complete Job Search Playbook](/guides/job-search-playbook). And for leaders navigating the other side of these conversations, compensation decisions as managers, [The Leader's Table](https://theleaderstable.xyz) covers the principles that produce equitable and defensible offers.
 
 ---
 
@@ -5414,7 +5414,7 @@ If you have all eight, you are dramatically ahead of most candidates walking int
   {
     slug: 'mid-career-pivot-playbook',
     title: 'The Mid-Career Pivot Playbook: How to Change Industries Without Starting Over',
-    description: 'Pivoting industries in the middle of a career is harder than the first job search but more rewarding. This guide walks through how to identify the move worth making, how to translate your existing experience into the new field, how to build a credible bridge of evidence, and how to run the search itself — all without taking a multi-year salary hit.',
+    description: 'Pivoting industries in the middle of a career is harder than the first job search but more rewarding. This guide walks through how to identify the move worth making, how to translate your existing experience into the new field, how to build a credible bridge of evidence, and how to run the search itself: all without taking a multi-year salary hit.',
     readTime: '30 min read',
     publishedAt: '2026-04-27',
     content: `
