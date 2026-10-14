@@ -32,6 +32,78 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'long-term-unemployed-callback-rates-what-the-resume-study-found',
+    title: "Employers Called Back Long-Term Unemployed Applicants About 45% Less Often. Here's What the Study Found.",
+    description: "BLS counts 1.9 million long-term unemployed people in September 2026. A field experiment with 12,054 fake resumes found callbacks fell about 45% between one and eight months of unemployment, then stopped falling. Here's the evidence, its limits, and how to work around the gap.",
+    category: 'Job Search Strategy',
+    readTime: '6 min read',
+    content: `
+## The Number Behind the Stigma
+
+In September 2026, the Bureau of Labor Statistics counted 1.9 million long-term unemployed people, meaning anyone jobless for 27 weeks or more. They made up 27.1% of the 7.1 million unemployed. That's more than one in four job seekers.
+
+Most people in that group have heard some version of "employers don't like gaps." The useful question is how much a gap actually costs, and whether it keeps getting worse the longer it runs. One well-known field experiment measured exactly that.
+
+## The Study
+
+Economists Kory Kroft, Fabian Lange, and Matthew Notowidigdo published the experiment in the *Quarterly Journal of Economics* in 2013. They sent fictitious resumes to real online job postings and tracked who got a callback.
+
+- **Scale:** 12,054 resumes sent to 3,040 job openings across the 100 largest U.S. metropolitan areas.
+- **Job types:** administrative and clerical, customer service, and sales.
+- **What varied:** each resume was randomly assigned a length of current unemployment, or showed the applicant as currently employed. Four resumes went to each job.
+- **Outcome:** callbacks by phone voicemail or email over six weeks.
+
+Because the resumes were randomly assigned, the researchers could isolate the effect of unemployment length from everything else about the candidate.
+
+## What They Found
+
+Overall, about 4.7% of resumes got a callback. Within that:
+
+- **Callbacks dropped sharply early on.** Eight months into unemployment, the callback rate was about 45% lower than at one month. In rounded terms, that's roughly 7% falling to 4%.
+- **Then it flattened.** Beyond eight months, additional time out of work did not reduce callbacks further.
+- **It showed up across groups.** The decline appeared across education levels, ages, genders, and job types in the sample.
+- **It was stronger in tighter labor markets.** The penalty for a longer gap was bigger where jobs were easier to find.
+
+The authors read this as employers treating a long gap as a signal about the candidate. That's an interpretation of the pattern, not something the experiment observed directly.
+
+## What the Study Can't Tell You
+
+Be careful about stretching this one.
+
+**The sample was young and early-career.** The fictitious applicants averaged about 27 years old with roughly five years of experience. The authors caution that results may not generalize to older or more senior job seekers.
+
+**It tested three job families.** Clerical, customer service, and sales roles are not the whole market. Technical, clinical, and executive hiring may behave differently.
+
+**It's from the 2010s.** The experiment ran on online postings in the years after the Great Recession. Today's applicant tracking systems, AI screening, and hiring pace are different. We haven't found a 2026 replication, so treat the exact percentages as a historical estimate.
+
+**It didn't test any fix.** The study measured the penalty. It did not test what reduces it. Everything in the next section is our reasoning from the findings, not something the experiment proved.
+
+## What To Do With It
+
+The two clearest takeaways are that the early months matter most, and that the penalty plateaus. Neither means you're stuck.
+
+**Start the clock on something current.** If a resume's most recent entry is months old, a recruiter skimming it sees the gap first. A contract project, a certification, a freelance engagement, or documented volunteer work with real outputs gives the top of your resume a recent date. Pick things you can describe in specific terms.
+
+**Don't spend months only on cold online applications.** The study measured response to online postings. A referral or a direct message to a hiring manager skips the first-pass screen where a gap reads loudest. Our piece on the [hidden job market](/resources/hidden-job-market-networking-2026) covers how to start those conversations.
+
+**Skip postings that go nowhere.** If response rates are already low, wasted applications cost you energy. Use our guide to [spotting ghost jobs](/resources/ghost-jobs-how-to-spot-them) to cut the list before you apply.
+
+**Prepare a short, factual gap answer.** Say what you did, what you learned, and what you're looking for now, in two or three sentences. Avoid apologizing. Rehearse it so it doesn't sound defensive.
+
+**Pace yourself for a longer search.** With more than a quarter of unemployed people out of work for 27 weeks or more, a multi-month search is common. We walk through the latest numbers in our [September jobs report breakdown](/resources/september-2026-jobs-report-29000-what-job-seekers-should-do).
+
+## The Bottom Line
+
+The data says a longer gap costs you callbacks in the first eight months, then the penalty stops growing. It also says the evidence is from young applicants in three job families and a different hiring era. Use it as a reason to refresh your resume and lean on direct contact, not as a verdict on your chances.
+
+## Sources
+
+- Kroft, K., Lange, F., and Notowidigdo, M., "Duration Dependence and Labor Market Conditions: Evidence from a Field Experiment," *Quarterly Journal of Economics*, 2013. Summary of design and results: https://www.povertyactionlab.org/node/2091
+- U.S. Bureau of Labor Statistics, "The Employment Situation, September 2026," released October 2, 2026: https://www.bls.gov/news.release/archives/empsit_10022026.htm
+`,
+    publishedAt: "2026-10-14",
+  },
+  {
     slug: 'september-2026-jobs-report-29000-what-job-seekers-should-do',
     title: "September Jobs Report: 29,000 New Jobs and 4.2% Unemployment. What It Means for Your Search.",
     description: "BLS reported payrolls up just 29,000 in September, unemployment at 4.2%, and 60,000 fewer jobs than first reported for July and August. Here's what the data says and how to adjust your job search.",
