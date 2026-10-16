@@ -32,6 +32,62 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'resume-writing-help-and-hiring-what-the-randomized-study-found',
+    title: "Does Resume Writing Help Get You Hired? What a Randomized Study of Nearly 500,000 Jobseekers Found",
+    description: "A randomized experiment on an online labor market found jobseekers who got algorithmic writing help on their resumes were hired 8% more often, with no sign employers were less satisfied. Here's what it shows, what it doesn't, and how to apply it.",
+    category: 'Resume & Applications',
+    readTime: '6 min read',
+    publishedAt: "2026-10-16",
+    content: `
+## The Worry Behind the Question
+
+Most job seekers now wonder whether using software to polish a resume helps or hurts. Employers say they're tired of AI-written sameness. Candidates worry that a cleaned-up resume reads as fake. Neither side has much hard data in the conversation, which makes one large field experiment worth a close look.
+
+## The Study
+
+Economists Emma Wiles, Zanele T. Munyikwa, and John J. Horton ran a randomized experiment on an online labor market. Treated jobseekers got algorithmic writing assistance on their resumes. Others did not. The experiment covered nearly half a million jobseekers. It first appeared as NBER Working Paper 30886 in January 2023 and was published in *Management Science*, volume 71, issue 12 (2025).
+
+Because assignment was random, the researchers could compare hiring outcomes without worrying that better candidates were the ones using the tool.
+
+## What They Found
+
+Treated jobseekers were hired 8% more often. The authors also report no evidence that employers were less satisfied with the people who were hired. That second finding answers the common fear that polishing a resume tricks employers into bad hires.
+
+The authors' explanation is that better writing doesn't signal ability. It helps employers see ability that was already there. A weak writer with real skills looks weaker than they are, and clearer writing closes that gap.
+
+## What the Study Can't Tell You
+
+Be careful about stretching this result.
+
+- **The setting is an online labor market,** not a corporate career site with an applicant tracking system and a recruiter screening hundreds of applications.
+- **The tool was algorithmic writing assistance.** The study began in 2023. We're not aware that it tested a general-purpose chatbot rewriting an entire resume, so it can't tell you how a fully AI-generated resume performs today.
+- **Hiring rose 8%, but the summary we reviewed doesn't say whether that's relative or in percentage points.** Check the paper before quoting it as a precise gain.
+- **Disclosure:** the authors note that Horton and a co-researcher consult for the marketplace that supplied the data.
+
+None of this makes the result weak. It means the finding is best read as evidence that clear writing helps employers evaluate you, not as proof that any AI tool will lift your odds by 8%.
+
+## Why It Fits With Recruiter Fatigue
+
+Recruiters complain about identical phrasing and inflated claims. That doesn't contradict the study. Fixing clarity (shorter sentences, specific verbs, no buried results) is different from generating generic filler. The first helps an employer see what you did. The second hides it.
+
+## How to Use This
+
+1. **Fix clarity first.** Lead each bullet with what you did, then the result. Cut vague phrases like "responsible for" and "worked on."
+2. **Put numbers only where you have them.** If you cut a process from five days to three, say so. If you don't have a figure, describe the scope instead: team size, volume, or tools used.
+3. **Use a tool as an editor, not an author.** Paste in your own bullets and ask for tighter wording. Then check every line against what actually happened. Don't accept anything you couldn't defend in an interview.
+4. **Read it aloud.** If a sentence sounds like nobody you know, rewrite it in your own words.
+5. **Match the posting.** Mirror the job's own terms where they honestly describe your experience. Our [ATS glossary entry](/glossary) explains why.
+
+For a practical walkthrough of prompts that tighten wording without flattening your voice, our colleagues at [How Do I Use AI](https://howdoiuse.ai) cover prompt techniques that keep the output sounding like you.
+
+## The Takeaway
+
+The best available randomized evidence says writing help can raise a new jobseeker's chances of being hired without making employers regret it. It doesn't say you should hand your resume to a chatbot. Use help to be clearer, keep every claim true, and keep your own voice.
+
+*Sources: Wiles, Munyikwa and Horton, "Algorithmic Writing Assistance on Jobseekers' Resumes Increases Hires," NBER Working Paper 30886 (nber.org/papers/w30886); published in Management Science 71(12), 2025, doi:10.1287/mnsc.2024.04528.*
+`,
+  },
+  {
     slug: 'long-term-unemployed-callback-rates-what-the-resume-study-found',
     title: "Employers Called Back Long-Term Unemployed Applicants About 45% Less Often. Here's What the Study Found.",
     description: "BLS counts 1.9 million long-term unemployed people in September 2026. A field experiment with 12,054 fake resumes found callbacks fell about 45% between one and eight months of unemployment, then stopped falling. Here's the evidence, its limits, and how to work around the gap.",
