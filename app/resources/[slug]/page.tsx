@@ -126,6 +126,24 @@ export default async function ArticlePage({ params }: Props) {
         </div>
       </article>
 
+      {/* Free toolkit CTA */}
+      <section className="pb-12 bg-white">
+        <div className="container-narrow">
+          <div className="rounded-2xl border border-gray-200 bg-bg-primary p-6 md:p-8 flex flex-col md:flex-row md:items-center md:justify-between gap-6">
+            <div className="min-w-0">
+              <span className="tag mb-3">Free toolkit</span>
+              <h2 className="font-display text-xl text-text-primary mb-1">Job Search Accelerator Toolkit</h2>
+              <p className="text-text-secondary text-sm">
+                An ATS-friendly resume template, STAR interview framework, salary negotiation scripts and a LinkedIn checklist.
+              </p>
+            </div>
+            <Link href="/accelerator" className="btn-primary flex-shrink-0 whitespace-nowrap">
+              Get the free toolkit
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Related Articles */}
       <section className="py-16 bg-bg-primary">
         <div className="container-wide">
