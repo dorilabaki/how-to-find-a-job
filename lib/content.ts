@@ -4685,6 +4685,90 @@ Skills-based hiring is the answer to "I don't have the traditional background bu
 *The credential is fading. The proof is rising. Make sure you have both.*
 `,
   },
+  {
+    slug: 'august-2026-jolts-job-openings-hires-job-search',
+    title: 'What the August 2026 JOLTS Report Says About Your Job Search: 7.1 Million Openings, 5.2 Million Hires',
+    description: 'BLS reported 7.1 million job openings and 5.2 million hires in August 2026. Here is what JOLTS actually counts, what it leaves out, and how to use the numbers in your search.',
+    category: 'Job Market',
+    readTime: '7 min read',
+    content: `# What the August 2026 JOLTS Report Says About Your Job Search: 7.1 Million Openings, 5.2 Million Hires
+
+The Bureau of Labor Statistics published its August 2026 Job Openings and Labor Turnover Survey (JOLTS) on September 29, 2026. Two headline numbers matter if you're searching right now: 7.1 million job openings, and 5.2 million hires.
+
+Those figures describe a market that's still moving, but not quickly. Here's what they measure, what they don't, and how to use them without over-reading them.
+
+## The Numbers
+
+According to the BLS release, in August 2026 (seasonally adjusted):
+
+| Measure | August 2026 | Rate |
+|---|---|---|
+| Job openings | 7.1 million | 4.3% |
+| Hires | 5.2 million | 3.3% |
+| Quits | 3.1 million | 1.9% |
+| Layoffs and discharges | 1.6 million | 1.0% |
+
+BLS described openings as "little changed" and hires as having "changed little." Total separations were unchanged at 5.1 million. The July figures were revised up (openings to 7.3 million, hires to 5.1 million), so the month-to-month comparison uses the revised numbers.
+
+For context, BLS's July summary put the hires rate at 3.2%, down from 3.4% in June, with hires falling by 188,000 in professional and business services. If you work in that sector, that detail is worth knowing.
+
+## What "Job Opening" Actually Means
+
+A JOLTS opening isn't the same as a posting you see on a job board. BLS counts a position as open only if all three conditions are met:
+
+1. A specific position exists and there's work available for it.
+2. The job could start within 30 days.
+3. The employer is actively recruiting from outside that location.
+
+Openings that are only open to internal transfers, promotions, or recalls from layoff are excluded. So 7.1 million is a count of genuinely recruiting positions, as reported by employers in a survey of roughly 21,000 U.S. establishments. It's an estimate, not a census, and BLS rounds it to the nearest 0.1 million.
+
+That definition also explains why the number won't match what you see on job boards. A role can be advertised for months without meeting the "could start within 30 days" test, which is one reason [ghost postings](/resources/ghost-jobs-how-to-spot-them) are such a problem for applicants.
+
+## What "Hire" Means (And Why It Matters More Than Openings)
+
+BLS defines hires as all additions to the payroll during the month. That includes newly hired and rehired employees, full-time and part-time, permanent, short-term, and seasonal. It also includes recalls after a formal layoff of more than seven days and transfers in from other locations. Temporary help agency workers are not counted at the client company.
+
+So 5.2 million hires isn't 5.2 million people who found jobs after a search. Some of those are rehires, recalls, and internal-company moves between locations. Treat it as total movement onto payrolls, not a measure of how many outside candidates won.
+
+## A Simple Ratio You Can Calculate Yourself
+
+Divide openings by hires: 7.1 million / 5.2 million is about 1.4 openings per hire in August. This is my own arithmetic from two rounded BLS figures, not a number BLS publishes, so treat it as rough.
+
+What it does tell you: openings and hires are in the same range. The market isn't empty, and it isn't flooded with unfilled roles either. Quits at 1.9% and layoffs at 1.0% point the same way. Few people are leaving voluntarily, and few are being let go. Fewer people changing jobs means fewer vacancies get created through turnover, which is one reason it can feel slow even when openings look healthy.
+
+## What This Means for Your Search
+
+The data can't tell you your odds. It's national, aggregated, and monthly. But it supports a few practical moves.
+
+**Don't read "7.1 million openings" as 7.1 million chances.** Openings are spread across every industry, location, and seniority level. Check the specific sector and region you're targeting before drawing conclusions.
+
+**Expect a measured pace.** With hires at a 3.3% rate, the typical month sees hires equal to about 3.3% of total employment. Plan a search in months, and budget your runway accordingly.
+
+**Put effort where hires actually happen.** If hires include rehires and internal-location moves, then relationships matter. People who already know the company have an edge. The [hidden job market](/resources/hidden-job-market-networking-2026) approach is built for this: reach hiring managers and former colleagues before a role goes public.
+
+**Apply early, and check posting age.** The JOLTS definition requires active recruiting and a start within 30 days, so an opening that has sat unchanged for months may not fit it. Early applications are a reasonable habit, though JOLTS doesn't measure posting age.
+
+**Watch your own sector's detail.** The headline is national. BLS publishes industry and state tables alongside each release. Use them.
+
+## What the Report Can't Tell You
+
+- It doesn't tell you the quality of the openings, their pay, or whether they match your skills.
+- It doesn't separate hires of outside candidates from rehires or recalls.
+- First estimates are revised. July's figures were revised up between releases, so one month's change is not a trend.
+- BLS itself labels the August changes as small. Don't build a strategy on a movement it calls "little changed."
+
+## The Bottom Line
+
+August 2026 JOLTS shows a labor market with about 7.1 million openings and 5.2 million hires: steady, low-churn, and not in crisis. For an individual job seeker, the useful takeaway isn't a forecast. It's that you should target specific employers, lean on people who know you, and expect the process to take time.
+
+Next step: pull up the BLS industry table for your field, write down its hires rate, and compare it with the national 3.3%. That one number will tell you more about your search than the headline will.
+
+---
+
+*Sources: U.S. Bureau of Labor Statistics, Job Openings and Labor Turnover Summary (August 2026, released September 29, 2026): bls.gov/news.release/jolts.nr0.htm. BLS JOLTS data definitions: bls.gov/jlt/jltdef.htm. BLS JOLTS overview: bls.gov/jlt/jltover.htm. BLS TED, "Job openings rate little changed at 4.4 percent in July 2026". The openings-per-hire ratio is the author's own calculation.*
+`,
+    publishedAt: '2026-10-23',
+  },
 ];
 
 export const guides: Guide[] = [
