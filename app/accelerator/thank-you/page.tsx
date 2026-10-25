@@ -27,7 +27,7 @@ const starSteps = [
     letter: 'T',
     label: 'Task',
     color: 'bg-accent-100 text-accent-700',
-    template: '"My responsibility was to [specific goal or deliverable]. I needed to [main objective], while [any constraint — deadline, budget, team size]."',
+    template: '"My responsibility was to [specific goal or deliverable]. I needed to [main objective], while [any constraint, deadline, budget, team size]."',
     tip: 'Clarify YOUR role specifically, not the team\'s.',
   },
   {
@@ -74,7 +74,7 @@ const resumeSections = [
   {
     number: '05',
     title: 'Education',
-    content: 'Degree · Institution · Graduation Year\n(GPA optional — only include if 3.5+)',
+    content: 'Degree · Institution · Graduation Year\n(GPA optional, only include if 3.5+)',
     note: 'Move Education above Experience only if you are a recent graduate (<2 years out).',
   },
   {
@@ -117,7 +117,7 @@ export default function ThankYouPage() {
               Your toolkit is on its way
             </h1>
             <p className="text-xl text-text-secondary max-w-lg mx-auto">
-              Check your inbox — and while you wait, here is a preview of what you will be working with.
+              Check your inbox, and while you wait, here is a preview of what you will be working with.
             </p>
           </motion.div>
         </div>
@@ -144,7 +144,7 @@ export default function ThankYouPage() {
             </div>
             <h2 className="section-title">The STAR Method Answer Framework</h2>
             <p className="text-lg text-text-secondary max-w-2xl">
-              The STAR method is the gold standard for answering behavioral interview questions — the kind
+              The STAR method is the gold standard for answering behavioral interview questions, the kind
               that start with "Tell me about a time when..." Use this template to structure every answer.
             </p>
           </motion.div>
@@ -188,12 +188,12 @@ export default function ThankYouPage() {
             viewport={{ once: true }}
             className="bg-primary-500 rounded-2xl p-8 text-white"
           >
-            <p className="text-primary-200 text-sm font-medium mb-3 uppercase tracking-wide">Example Answer — "Tell me about a time you solved a complex problem."</p>
+            <p className="text-primary-200 text-sm font-medium mb-3 uppercase tracking-wide">Example Answer, "Tell me about a time you solved a complex problem."</p>
             <div className="space-y-3 text-primary-100 leading-relaxed">
               <p><span className="font-semibold text-white">S:</span> "As a project manager at [Company], our team was 3 weeks behind on a product launch with no clear owner for six open tasks."</p>
               <p><span className="font-semibold text-white">T:</span> "My job was to coordinate across four departments and get the launch back on track within two weeks."</p>
               <p><span className="font-semibold text-white">A:</span> "I ran a 30-minute standup to reprioritize tasks by impact, assigned clear owners with daily check-ins, and escalated two unresolvable blockers to leadership the same afternoon."</p>
-              <p><span className="font-semibold text-white">R:</span> "We launched on schedule. The product hit 10,000 users in the first month — 25% ahead of the internal target."</p>
+              <p><span className="font-semibold text-white">R:</span> "We launched on schedule. The product hit 10,000 users in the first month, 25% ahead of the internal target."</p>
             </div>
           </motion.div>
         </div>
@@ -218,7 +218,7 @@ export default function ThankYouPage() {
             </div>
             <h2 className="section-title">ATS-Optimized Resume Structure</h2>
             <p className="text-lg text-text-secondary max-w-2xl">
-              This section order is deliberately chosen. ATS systems parse top-to-bottom — and
+              This section order is deliberately chosen. ATS systems parse top-to-bottom, and
               recruiters who do read your resume spend most of their 6 seconds on the top third.
             </p>
           </motion.div>
@@ -307,7 +307,7 @@ export default function ThankYouPage() {
               {
                 href: '/guides/interview-preparation',
                 title: 'Interview Preparation Guide',
-                desc: 'Master every interview format — phone screen, panel, case study, and final round.',
+                desc: 'Master every interview format, phone screen, panel, case study, and final round.',
                 label: 'Read the guide',
               },
               {

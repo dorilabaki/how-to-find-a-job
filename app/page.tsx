@@ -128,7 +128,7 @@ export default function HomePage() {
             </h1>
             <p className="text-xl text-text-secondary mb-8 leading-relaxed max-w-2xl">
               Practical, actionable career advice on resume writing, interview preparation,
-              salary negotiation, and LinkedIn optimization. No fluff—just strategies that work.
+              salary negotiation, and LinkedIn optimization. No fluff, just strategies that work.
             </p>
             <div className="flex flex-wrap gap-4">
               <Link href="/guides/job-search-playbook" className="btn-primary">

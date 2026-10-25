@@ -15,7 +15,7 @@ const values = [
   },
   {
     title: 'No Fluff',
-    description: 'We cut through the noise to give you exactly what you need—nothing more, nothing less.',
+    description: 'We cut through the noise to give you exactly what you need, nothing more, nothing less.',
     icon: (
       <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
         <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z" />

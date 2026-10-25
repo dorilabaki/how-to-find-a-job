@@ -97,7 +97,7 @@ Most people leave money on the table because they don't ask.`,
 Not because of skills. Because of culture fit and unclear expectations.
 
 Hiring isn't just about finding the most qualified candidate.
-It's about finding the right fit — and setting them up to succeed.`,
+It's about finding the right fit, and setting them up to succeed.`,
     likes: 44,
     comments: 8,
     date: "2026-03-24",

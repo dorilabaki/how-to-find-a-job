@@ -45,7 +45,7 @@ const toolkitItems = [
   {
     title: 'Salary Negotiation Scripts',
     description:
-      'Word-for-word scripts for countering an initial offer, asking for more base salary, and negotiating benefits — without risking the offer.',
+      'Word-for-word scripts for countering an initial offer, asking for more base salary, and negotiating benefits, without risking the offer.',
     detail: 'Scripts for: First counter · Benefits ask · Remote/flexibility · Equity · Competing offer · Base vs. bonus tradeoff',
     color: 'bg-green-100 text-green-600',
     icon: (
