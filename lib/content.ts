@@ -32,6 +32,85 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'greenhouse-2026-candidate-report-ai-writing-rejections-what-to-do',
+    title: 'Greenhouse Survey: 81% of U.S. Candidates Were Rejected Without Speaking to Anyone. What the Data Does and Doesn\'t Show',
+    description: 'Greenhouse\'s October 2026 candidate report says 77% of U.S. job seekers used AI and 81% were rejected without ever talking to a person. Here\'s what the survey supports, what it leaves out, and how to adjust your search.',
+    category: 'Job Market',
+    readTime: '7 min read',
+    content: `# Greenhouse Survey: 81% of U.S. Candidates Were Rejected Without Speaking to Anyone
+
+On October 20, 2026, hiring software company Greenhouse released its "2026 Greenhouse Future of Hiring Candidate Report." It surveyed more than 2,800 job seekers across the U.S., U.K., Ireland, Germany, and Australia, including 1,200 in the U.S. Most figures in the press release are U.S. numbers.
+
+Some of the findings match what applicants have been reporting for a while. Others deserve a closer look before you change how you apply. Here's what the release says, and what it can't tell you.
+
+## The Headline Numbers
+
+All figures below are from Greenhouse's press release and refer to U.S. respondents (n=1,200) unless noted.
+
+| Finding | Share |
+|---|---|
+| Used AI in their job search in the past year | 77% |
+| Changed, or considered changing, how they write to avoid sounding AI-generated | 60% |
+| Rewrote an application so it wouldn't look AI-generated | 39% |
+| Rejected in the past year without ever speaking to anyone | 81% |
+| Took an extra step to get noticed | 71% |
+| Wish they could show employers more than the application allows | 96% |
+
+Two details matter. The 60% combines people who actually changed their writing with people who only considered it. Greenhouse says 39% rewrote an application and another 21% considered doing so. And the 81% covers a "past year" window, so it's a recalled, self-reported figure.
+
+## The Writing Gap Between Generations
+
+The share who changed or considered changing their writing varied sharply by age: 63% of Gen Z, 42% of Millennials, 31% of Gen X, and 27% of Boomers. Greenhouse doesn't publish the subgroup sample sizes in the release, so treat the gaps as directional.
+
+Our earlier piece on [why AI-written resumes are backfiring](/resources/ai-resumes-backfiring-2026) covers the other side of this. If a recruiter sees the same generic phrasing in a stack of applications, it stops signalling effort.
+
+## Rejection Without Contact
+
+Four in five U.S. candidates said they'd been rejected in the past year without ever speaking to anyone. Greenhouse says 31% report this happening often or almost always, rising to 38% among Gen Z.
+
+Among people who interviewed, 96% had at least one complaint, and the most common was being ghosted by the employer (45%). That lines up with what we've written on [ghost jobs](/resources/ghost-jobs-how-to-spot-them), and with the labor-market backdrop: the BLS September report counted 1.9 million long-term unemployed people, or 27.1% of all unemployed, as we covered in our [September jobs report breakdown](/resources/september-2026-jobs-report-29000-what-job-seekers-should-do).
+
+## Gaming the Screen
+
+Greenhouse reports that 62% have tried tactics to get past automated screening. The most common were using AI to learn what the system wants (54%) and adding skills or keywords they don't have (40%). A third of those who used tactics added hidden text aimed at an AI reviewer.
+
+Be careful here. Padding a resume with skills you lack can get you through a screen and into an interview you can't pass, and it can end an offer later if it's discovered. Hidden text may get an application discarded if a reviewer or tool flags it. We'd rather you spend the effort on accurate keyword matching, which we cover in [how to tailor your resume to a job description](/resources/job-description-audit-tailoring-resume-2026).
+
+## AI Interviews
+
+According to the release, 48% of U.S. respondents took an AI interview in the past year, and 70% of those said it let them show their skills well. Only 7% said they'd refuse an AI-led interview outright. Candidates were 2.7 times more likely to choose an AI interview over withdrawing when no human interviewer was available. Many want guardrails: 49% want assurance a human will review their responses, and 40% want to know how they'll be evaluated. Our guide to [handling AI job interviews](/resources/ai-job-interviews-how-to-handle-2026) covers the practical side.
+
+## How Much Weight This Survey Can Carry
+
+Read these results with some caution.
+
+- **Vendor source.** Greenhouse sells hiring software and promotes its own AI interviewing product. That doesn't make the numbers wrong, but it's context.
+- **Missing methodology.** The release doesn't give fieldwork dates, margin of error, sampling method, or weighting. We haven't reviewed the full report.
+- **Self-reported and recalled.** Many questions ask people to remember the past year.
+- **Subgroup bases.** Several figures apply only to people who interviewed, used screening tactics, or took an AI interview. The denominators differ.
+- **A headline we couldn't trace.** The release's subheadline says nine in 10 job seekers are open to an AI interview. The body gives only the 7% refusal figure, so we haven't used the nine-in-10 claim.
+
+## What to Do With It
+
+**Assume the first reader is software.** If 81% of U.S. candidates in this survey were rejected without a conversation, your application's first job is to survive a screen. Mirror the language of the posting using skills you actually have, and keep formatting plain. Our piece on [where applications go in the resume funnel](/resources/resume-funnel-2026-where-applications-actually-go) explains the stages.
+
+**Keep your own voice.** AI help with structure is fine. Sending generic, lightly edited output is the pattern candidates themselves say they're trying to avoid. Add one specific result with a number from your own work to each application.
+
+**Add a second route in.** In the survey, 71% took an extra step to get noticed, and nearly half sought a referral. A referral or a direct message to the hiring manager gets you a human before the screen does. Start with the steps in our [hidden job market guide](/resources/hidden-job-market-networking-2026).
+
+**Track your own funnel.** Log applications sent, replies, and interviews for two weeks. Your own response rate is a better guide than any survey average.
+
+## The Bottom Line
+
+The Greenhouse report is a useful snapshot of how candidates feel, and its biggest numbers (77% AI use, 81% rejected without contact) fit the broader picture. But it's a vendor survey with limited disclosed methodology. Use it to sanity-check your approach, not to set strategy. Your best move is still the boring one: accurate, tailored applications plus a human introduction wherever you can get one.
+
+---
+
+*Sources: Greenhouse press release, "6 in 10 Job Seekers Are Rethinking How They Write to Avoid Sounding Like AI, Even as Most Use It in Their Search," October 20, 2026 (2026 Greenhouse Future of Hiring Candidate Report): greenhouse.com/newsroom/6-in-10-job-seekers-are-rethinking-how-they-write-to-avoid-sounding-like-ai-even-as-most-use-it-in-their-search. U.S. Bureau of Labor Statistics, The Employment Situation, September 2026 (released October 2, 2026): bls.gov/news.release/archives/empsit_10022026.htm.*
+`,
+    publishedAt: "2026-10-28",
+  },
+  {
     slug: 'resume-writing-help-and-hiring-what-the-randomized-study-found',
     title: "Does Resume Writing Help Get You Hired? What a Randomized Study of Nearly 500,000 Jobseekers Found",
     description: "A randomized experiment on an online labor market found jobseekers who got algorithmic writing help on their resumes were hired 8% more often, with no sign employers were less satisfied. Here's what it shows, what it doesn't, and how to apply it.",
