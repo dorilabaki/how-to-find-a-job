@@ -4848,6 +4848,92 @@ Next step: pull up the BLS industry table for your field, write down its hires r
 `,
     publishedAt: '2026-10-23',
   },
+  {
+    slug: 'september-2026-jobs-report-29000-revisions-job-search',
+    title: 'September Added Just 29,000 Jobs, and August Was Revised Down: What That Means for Your Search',
+    description: 'BLS reported +29,000 jobs and 4.2 percent unemployment for September 2026, and cut July and August by a combined 60,000. Here is what the report says, what it does not, and how to adjust your search.',
+    category: 'Job Market',
+    readTime: '7 min read',
+    content: `# September Added Just 29,000 Jobs, and August Was Revised Down: What That Means for Your Search
+
+On October 2, 2026, the Bureau of Labor Statistics published its Employment Situation report for September. Employers added 29,000 jobs, and the unemployment rate was 4.2 percent. The report called the payroll change small. It also lowered the two months before it.
+
+We covered the stronger-looking August number in [August Added 162,000 Jobs](/resources/august-2026-jobs-report-162000-what-changed-for-your-search). That figure is now 133,000. Here's what the September release says and how to use it.
+
+## The Numbers
+
+All figures below come from the BLS Employment Situation release for September 2026 (seasonally adjusted).
+
+| Measure | September 2026 |
+|---|---|
+| Nonfarm payroll change | +29,000 |
+| Unemployment rate | 4.2% |
+| Unemployed people | 7.1 million |
+| Labor force participation rate | 61.8% |
+| Employment-population ratio | 59.2% |
+| Long-term unemployed (27 weeks or more) | 1.9 million, 27.1% of the unemployed |
+| People not in the labor force who want a job | 5.8 million |
+| Average hourly earnings | $37.81, up 3.0% over 12 months |
+
+BLS says the unemployment rate has stayed between 4.1 and 4.3 percent since March. That's a market that isn't breaking, but isn't loosening for job seekers either.
+
+## The Revisions Matter More Than the Headline
+
+Two prior months were cut:
+
+- **July:** revised from +21,000 to -10,000 (down 31,000).
+- **August:** revised from +162,000 to +133,000 (down 29,000).
+
+Combined, July and August are 60,000 lower than first reported. BLS attributes monthly revisions to additional reports from businesses and government agencies and to recalculated seasonal factors. Revisions are routine, but a downward revision this size changes the story. July now shows a small loss, and August is still a good month, just not as good as the first print suggested.
+
+The practical lesson: don't plan a job search around a single month's number. Early estimates move. The trend across several months is the better guide.
+
+## Where the Jobs Were
+
+BLS listed these industry changes for September:
+
+- **Health care:** +17,000 (ambulatory care +13,000, hospitals +12,000, nursing and residential care -9,000)
+- **Construction:** +11,000
+- **Manufacturing:** +9,000
+- **Financial activities:** -7,000
+
+BLS described changes in government, leisure and hospitality, retail trade, information, and professional and business services as little changed. Health care supplied most of the gain.
+
+## What This Means for Your Search
+
+**1. Hiring is concentrated.** When one sector supplies most of the gains, a search in a flat sector is harder than the national unemployment rate implies. If your field is in the "little changed" group, expect fewer openings and more competition per posting.
+
+**2. Long searches are common.** About 27 percent of unemployed people have been looking for 27 weeks or more. If you're at month four or five without an offer, that's not a personal failing. It's the base rate for a slow market. Change the method, not just the volume: more referrals, fewer cold applications. Our guide to [the hidden job market](/resources/hidden-job-market-networking-2026) covers how.
+
+**3. Wage growth is modest.** Average hourly earnings are up 3.0 percent over 12 months. That's the average across all private employees, not what a new hire gets. Use it as a rough anchor when you negotiate, and pair it with salary data for your specific role and city.
+
+**4. Staying put is a rational choice for some.** With low firing and low hiring, many employed people are holding their jobs. We looked at that in [the job hugging piece](/resources/job-hugging-2026-what-it-means-for-your-search). Fewer people changing jobs means fewer vacancies created by turnover.
+
+## What the Report Does Not Tell You
+
+- **It's national and aggregated.** A 4.2 percent rate says nothing about your occupation, metro area, or seniority level.
+- **It counts jobs, not job quality.** Payrolls don't distinguish full-time from part-time work or a strong role from a weak one.
+- **It says nothing about why.** The release reports changes. It doesn't explain them, and we won't guess at causes here.
+- **It will be revised again.** The September figure itself may change when BLS publishes later reports.
+
+## A One-Week Plan
+
+1. Look up your industry's employment change in the BLS release tables. Write down whether it grew, shrank, or stayed flat.
+2. If it's flat or shrinking, list three adjacent industries that hire people with your skills.
+3. Send five messages to people you know in those industries. Ask for a conversation, not a job.
+4. Cut your cold applications to the roles where you match most of the requirements.
+5. Set a calendar reminder for the next jobs report and compare it against this one, not against the headline you remember.
+
+## Bottom Line
+
+September's 29,000 is small, and the 60,000 downward revision to July and August makes the late-summer picture weaker than first reported. Unemployment at 4.2 percent and a steady range since March show a market that's stuck, not collapsing. Treat headline numbers as a rough guide, check your own industry, and put more of your effort into relationships than into volume.
+
+---
+
+*Sources: U.S. Bureau of Labor Statistics, "The Employment Situation: September 2026," released October 2, 2026 (bls.gov/news.release/empsit.nr0.htm). All figures are from that release. Revision amounts and industry changes are as BLS reported them; we have not independently verified them.*
+`,
+    publishedAt: '2026-10-30',
+  },
 ];
 
 export const guides: Guide[] = [
