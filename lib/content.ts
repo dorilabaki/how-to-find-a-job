@@ -1166,6 +1166,8 @@ By the time you walk into that interview, the preparation is done. Your job now 
 
 Trust your preparation. You've done the work. Now go show them who you are.
 
+Pre-interview nerves are normal, and how you read them matters. Our sister site Growth Mindset covers research on [pairing a growth mindset with a stress-is-enhancing mindset](https://growthmindset.academy/resources/synergistic-mindsets-stress-reappraisal-2026), which is a useful frame for the night before.
+
 ---
 
 *Land your dream job. HowToFindAJob.org has everything you need to succeed in your search.*
@@ -2642,6 +2644,8 @@ If you do apply, ask questions that reveal potential issues:
 ## The Bottom Line
 
 Trust your instincts. If something feels off during the application process, it's usually a preview of what working there would be like. A job search takes time. Don't waste it on companies that show warning signs from day one.
+
+If a run of poor postings or silent rejections has you doubting yourself, the Growth Mindset guide on [how to recover from a setback](https://growthmindset.academy/guides/how-to-recover-from-a-setback) lays out a structured way to reset without losing weeks.
     `,
   },
   {
@@ -4927,6 +4931,8 @@ BLS described changes in government, leisure and hospitality, retail trade, info
 ## Bottom Line
 
 September's 29,000 is small, and the 60,000 downward revision to July and August makes the late-summer picture weaker than first reported. Unemployment at 4.2 percent and a steady range since March show a market that's stuck, not collapsing. Treat headline numbers as a rough guide, check your own industry, and put more of your effort into relationships than into volume.
+
+A long search is also a stamina problem. Growth Mindset's guide to [building emotional resilience](https://growthmindset.academy/guides/building-emotional-resilience) is a practical companion for the weeks when the numbers feel flat.
 
 ---
 
