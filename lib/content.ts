@@ -1955,7 +1955,7 @@ Think of brand-building during your job search as an investment that pays divide
     content: `
 ## What is an ATS and Why Does It Matter?
 
-An Applicant Tracking System (ATS) is software used by companies to manage job applications. Here's the reality: **over 75% of resumes are rejected by ATS before a human ever sees them**. Understanding how these systems work is your first step to beating them.
+An Applicant Tracking System (ATS) is software used by companies to manage job applications. Here's the reality: **97.4% of Fortune 500 companies use one** (Jobscan, 2026), so your resume has to parse cleanly in software and still read well to a person. The popular claim that 75% of resumes are auto-rejected by an ATS isn't supported by the data. Understanding how these systems work is your first step to getting through them.
 
 ## The Formatting Rules That Actually Matter
 
@@ -3266,11 +3266,11 @@ The practical implication for a job seeker is that the search needs to be sector
 
 Beyond the remote question, the 2026 hiring stack has shifted in three ways that any job seeker leaving an RTO-mandate role needs to understand.
 
-First, AI screening is now the default. Roughly 97.8% of Fortune 500 companies use AI-powered Applicant Tracking Systems to filter resumes before any human reviews them. 75% of resumes are rejected by the ATS layer before a recruiter sees them. 87% of companies use AI somewhere in the recruitment process, with 82% of those using it for resume screening specifically.
+First, AI screening is now the default. Jobscan's 2026 ATS Usage Report detected an Applicant Tracking System at 97.4% of Fortune 500 companies (487 of 500). An ATS organizes and filters applications, and a growing share of employers add AI on top. In Resume Genius's June 2026 survey of US hiring managers, 58% said they use AI to screen resumes and applications. The often-quoted claim that an ATS auto-rejects most resumes isn't backed by that data, so write for the software and the human reader.
 
 Second, the hiring side is now actively detecting AI-generated applications. By the first half of 2026, 76% of hiring professionals reported encountering AI-generated applications. 49% of hiring managers say they automatically dismiss resumes they suspect were written by AI. 77% of employers actively screen for machine-generated content.
 
-Third, the soft-skill premium has risen. 73% of talent acquisition leaders said critical thinking and problem-solving were their top recruiting priority in 2026. AI skills ranked fifth. The implication is that the resume needs to demonstrate judgment, not just tools.
+Third, the soft-skill premium has risen. In Korn Ferry's TA Trends 2026 research, nearly three-fourths (73%) of surveyed talent leaders listed critical thinking as their No. 1 priority when evaluating hires. AI-related skills placed fifth. The implication is that the resume needs to demonstrate judgment, not just tools.
 
 For the full breakdown of what the AI-resume-detection situation means, see our companion piece on [why AI-generated resumes are backfiring in 2026](/resources/ai-resumes-backfiring-2026).
 
@@ -3324,7 +3324,7 @@ For the full ATS-aware resume rewrite, our [resume that beats ATS systems](/reso
 
 Interview rounds have grown longer in 2026, partly as a way for hiring teams to verify candidates beyond the AI-screened resume. Five to seven rounds is now typical for senior roles. The candidates who navigate this well do three things:
 
-They prepare specific stories tied to the job description. The 73% talent acquisition focus on critical thinking shows up as scenario questions. "Tell me about a time you had to make a decision with incomplete data" is now a standard question across most levels.
+They prepare specific stories tied to the job description. Korn Ferry's finding that 73% of talent leaders rank critical thinking first shows up as scenario questions. "Tell me about a time you had to make a decision with incomplete data" is now a standard question across most levels.
 
 They invest in the panel and exec rounds. Senior interviewers are often the gating decision. A strong middle round and a weak final round usually produces no offer.
 
@@ -3841,14 +3841,14 @@ For the deeper question of how to build a resume voice that the AI screening lay
   {
     slug: 'resume-optimization-ai-screening-2026',
     title: 'How to Optimize Your Resume for AI Screening in 2026',
-    description: '91% of employers now use AI to screen resumes. This guide shows you how to get past the algorithms without sacrificing the human reader. Covers ATS optimization, metrics that matter, and the AI skills that open doors.',
+    description: '58% of US hiring managers say they use AI to screen resumes (Resume Genius, 2026). This guide shows you how to get past the algorithms without sacrificing the human reader. Covers ATS optimization, metrics that matter, and the AI skills that open doors.',
     category: 'Resume',
     readTime: '8 min read',
     publishedAt: '2026-05-16',
     content: `
 ## The Reality: AI Controls the First Gate
 
-The job market has fundamentally changed. According to data from Resume Genius and Tracker surveys, 91% of employers now use AI-powered applicant tracking systems (ATS) to screen resumes before a human ever sees them. This number has climbed steadily from 73% in 2024.
+The job market has fundamentally changed. According to Resume Genius's June 2026 survey of US hiring managers, 58% use AI to screen resumes and applications, making it the most common AI use in recruiting. Separately, Jobscan found an applicant tracking system (ATS) at 97.4% of Fortune 500 companies in 2026.
 
 That does not mean your resume needs to sound like a robot wrote it. It means your resume needs to be readable by both machines and people. The candidates winning in 2026 are the ones who understand the dual audience: the algorithm that decides whether your resume gets forwarded, and the hiring manager who decides whether you get the interview.
 
@@ -3982,7 +3982,7 @@ If you are applying to 10 similar roles, the resume can be similar across them. 
 
 The job search funnel is real and it is not friendly. But it is deterministic. Optimize for the algorithm, and you get to the human. Optimize for the human alone, and you never make it past the gate.
 
-For strategic context on whether the 91% AI screening rate is good or bad for your career prospects, see our [skills-based hiring guide](/resources/skills-based-hiring-2026). For the mindset piece of staying resilient across multiple applications, check out [Growth Mindset Academy](https://growthmindset.academy).
+For strategic context on whether widespread AI screening is good or bad for your career prospects, see our [skills-based hiring guide](/resources/skills-based-hiring-2026). For the mindset piece of staying resilient across multiple applications, check out [Growth Mindset Academy](https://growthmindset.academy).
 
 ---
 
