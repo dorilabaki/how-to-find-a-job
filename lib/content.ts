@@ -32,6 +32,83 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'september-2026-jolts-7-5-million-openings-quits-rise-job-search',
+    title: "September JOLTS: 7.5 Million Openings, Quits Up to 3.4 Million. What Job Seekers Should Take From It.",
+    description: "BLS reported 7.5 million job openings for September, hires of 5.4 million, and quits up to 3.4 million, while calling openings and hires little changed. Here's the full set of numbers, two ratios you can calculate yourself, and what to change in your search.",
+    category: 'Job Search Strategy',
+    readTime: '7 min read',
+    content: `
+## Openings Rose on Paper. BLS Calls It a Wash.
+
+The Bureau of Labor Statistics released the September Job Openings and Labor Turnover Survey (JOLTS) on November 3, 2026. Job openings came in at 7.523 million, up from an August figure that was revised to 7.190 million. That's a gain of 333,000 openings in a month, or about 4.6 percent.
+
+BLS's own wording is more cautious: "The number of job openings was little changed at 7.5 million in September." JOLTS is a sample survey, and BLS only describes a move as a real change when it clears the survey's margin of error. This one didn't. So the honest headline is "openings steady near 7.5 million," not "openings surge."
+
+The one number BLS did single out as an increase was quits. More on that below.
+
+## The Full Set of Numbers
+
+All figures are seasonally adjusted. September is preliminary, and August has been revised.
+
+- **Job openings:** 7.523 million, a 4.5 percent rate (August: 7.190 million, 4.3 percent). August was revised up by 111,000 from the 7.079 million first reported.
+- **Hires:** 5.402 million, a 3.4 percent rate (August: 5.271 million, 3.3 percent). BLS says hires changed little.
+- **Quits:** 3.365 million, a 2.1 percent rate (August: 3.044 million, 1.9 percent). BLS says the number of quits increased, while the rate was little changed. Over the past year, quits are up by 375,000.
+- **Layoffs and discharges:** 1.641 million, a 1.0 percent rate (August: 1.768 million, 1.1 percent). BLS says this changed little.
+- **Total separations:** 5.3 million, a 3.3 percent rate, unchanged.
+
+The next JOLTS release, covering October, is scheduled for December 1, 2026.
+
+## Two Ratios Worth Doing Yourself
+
+Both of these are our own arithmetic, not BLS statistics.
+
+**Openings versus people looking.** The September Employment Situation report put the number of unemployed people at about 7.1 million (we covered it in [our September jobs report breakdown](/resources/september-2026-jobs-report-29000-what-job-seekers-should-do)). Divide 7.523 million openings by 7.1 million unemployed and you get roughly 1.06 openings per unemployed person. That's about one opening for every person counted as out of work, with two caveats. Many openings are for roles that don't match any given person's skills or location, and many people who take jobs come from employment, not unemployment.
+
+**Hires versus openings.** About 5.4 million hires against 7.5 million openings works out to roughly 72 hires for every 100 openings on the books. Openings are a stock of unfilled roles at one moment, and hires are a flow during the month, so this isn't a fill rate. What it does show is that a large pool of openings sits unfilled at any time. Some are slow searches, some are roles employers keep posted without urgency, and some are never filled at all.
+
+## The Quits Number Is the Interesting One
+
+Quits rose from 3.044 million to 3.365 million, and the rate moved from 1.9 to 2.1 percent. BLS described the level as an increase even though it called the rate little changed, so read it as a modest signal, not a turning point.
+
+A quit is a person choosing to leave a job, usually because they have somewhere to go. More quits tend to mean more workers feel able to move. They also mean more vacancies get created, since a quit leaves a seat to fill. If the rate holds near 2 percent over the next few reports, that's a mild positive for job seekers. One month doesn't establish it.
+
+By industry, BLS reported that quits in accommodation and food services rose by 197,000, and hires in that industry rose by 158,000. Those are the biggest movers named in the release. They're a reason to look at hospitality-adjacent roles if that fits your background. They're not evidence that other sectors are changing.
+
+## What Didn't Change
+
+Layoffs held near 1.0 percent of employment, and total separations stayed at 3.3 percent. Employers still aren't cutting aggressively, and they still aren't hiring aggressively. The low-hire, low-fire pattern that's been in the data for months continues. Our [August JOLTS breakdown](/resources/august-2026-jolts-7-million-openings-what-job-seekers-should-do) covers how that shaped the picture a month ago.
+
+## What to Do With This
+
+**Keep your search steady.** A 4.6 percent rise that BLS doesn't classify as meaningful isn't a reason to change tactics. Keep your target list, your weekly application count, and your networking rhythm.
+
+**Treat the quits uptick as a reason to talk to people.** When more people move, more roles open and more hiring managers are actively backfilling. That's the situation where a referral or a direct message to a manager works best. Our guide to the [hidden job market](/resources/hidden-job-market-networking-2026) walks through how to reach people before a role is posted.
+
+**Still plan for a long search.** With hires at 3.4 percent and about one opening per unemployed person, competition for each posting stays real. Budget time and money for a search that runs several months, and follow up on applications at the two-week mark.
+
+**If you're employed and thinking about moving,** a steady market with a rising quit count is a less frightening one than a collapsing market. That's not a promise of offers. It's a reason not to stay put out of fear.
+
+## What This Data Can't Tell You
+
+JOLTS counts openings employers report, not roles being actively interviewed for. It doesn't break down by job title, city, or seniority, so it can't tell you whether your specific field is hiring. September's numbers are preliminary and will be revised next month, as August's were. BLS describes most of the month-to-month changes as little changed, so any story that treats them as dramatic is going further than the data does.
+
+## What to Watch Next
+
+The October Employment Situation report is scheduled for November 6, 2026. Look at payroll growth and the unemployment rate, and at whether September's payrolls get revised. In the December 1 JOLTS release, watch whether quits hold near 2.1 percent and whether hires stay at or above 3.4 percent.
+
+## The Bottom Line
+
+September's JOLTS report showed 7.5 million openings, 5.4 million hires, and 3.4 million quits, with BLS calling openings and hires little changed and quits higher. The structure underneath still reads as steady but slow: roughly one opening per unemployed person, about 72 hires per 100 openings, and layoffs still low. Keep your search consistent, lean on conversations over cold applications, and expect it to take time.
+
+## Sources
+
+- U.S. Bureau of Labor Statistics, "Job Openings and Labor Turnover Summary, September 2026," released November 3, 2026: https://www.bls.gov/news.release/jolts.nr0.htm
+- U.S. Bureau of Labor Statistics, JOLTS Table 1 (job openings), Table 2 (hires), Table 4 (quits), Table 5 (layoffs and discharges), September 2026 preliminary and August 2026 revised: https://www.bls.gov/news.release/jolts.t01.htm
+- U.S. Bureau of Labor Statistics, "The Employment Situation, September 2026," released October 2, 2026 (source of the 7.1 million unemployed used in the ratio): https://www.bls.gov/news.release/archives/empsit_10022026.htm
+`,
+    publishedAt: "2026-11-04",
+  },
+  {
     slug: 'greenhouse-2026-candidate-report-ai-writing-rejections-what-to-do',
     title: 'Greenhouse Survey: 81% of U.S. Candidates Were Rejected Without Speaking to Anyone. What the Data Does and Doesn\'t Show',
     description: 'Greenhouse\'s October 2026 candidate report says 77% of U.S. job seekers used AI and 81% were rejected without ever talking to a person. Here\'s what the survey supports, what it leaves out, and how to adjust your search.',
