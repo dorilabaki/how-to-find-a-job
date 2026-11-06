@@ -32,6 +32,70 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'ny-fed-recent-grads-unemployment-5-2-underemployment-42-5-q3-2026',
+    title: "Recent Grads' Unemployment Fell to 5.2%, but 42.5% Are Still Underemployed. What the NY Fed Data Means for Your Search.",
+    description: "The New York Fed's Q3 2026 update puts recent college graduate unemployment at 5.2 percent, its lowest in over a year, while underemployment ticked up to 42.5 percent. Here's how to read both numbers and what to do about them.",
+    category: 'Job Market',
+    readTime: '6 min read',
+    content: `
+## Two Numbers That Point in Different Directions
+
+The Federal Reserve Bank of New York updated its college labor market tracker for the third quarter of 2026. Its summary reads: "Labor market conditions improved for recent college graduates in the third quarter of 2026 but remained challenging. The unemployment rate fell to 5.2 percent, its lowest level in more than a year, though the underemployment rate ticked up to 42.5 percent."
+
+That sentence holds the whole story. Fewer recent grads are out of work. But a large share of those who are working hold jobs that don't need their degree. If you're a new graduate, or hiring one, both numbers matter.
+
+## What the Two Measures Mean
+
+**Unemployment rate (5.2 percent).** The share of recent college graduates in the labor force who don't have a job and are looking. The New York Fed's tracker defines recent graduates as ages 22 to 27 with a bachelor's degree or higher.
+
+**Underemployment rate (42.5 percent).** The share of recent graduates working in jobs that typically don't require a college degree. They're employed, but not in roles the degree was meant for.
+
+The New York Fed describes the Q3 reading as the lowest unemployment in more than a year and a slight rise in underemployment. It doesn't print the prior quarter's figures in the summary text, so we won't state the exact size of either change.
+
+For context, our earlier piece on [junior postings and entry-level strategy](/resources/junior-postings-fell-7-percent-2025-2026-strategy) cited a Q4 2025 reading of 5.7 percent unemployment and 42.5 percent underemployment. If that earlier figure is right, underemployment has stayed at about the same level while unemployment has come down. We're relying on our own earlier article for the Q4 2025 numbers here, so check the New York Fed's historical data download if you need the exact series.
+
+## How to Read It
+
+**The improvement is real, but modest.** A rate of 5.2 percent is lower than it's been in over a year, according to the New York Fed. It's still the rate for a group that's young and recently out of school, which tends to run higher than the overall rate. The BLS reported an overall unemployment rate of 4.2 percent for September 2026 (see our [September jobs report breakdown](/resources/september-2026-jobs-report-29000-what-job-seekers-should-do)). The two figures are measured differently and cover different groups, so treat the comparison as rough context, not a like-for-like gap.
+
+**Underemployment is the harder problem.** More than 4 in 10 employed recent grads are in jobs that don't typically require a degree. Landing a job is only the first step. Where you land matters for what comes next.
+
+**The tracker has limits.** It's national, not regional. The unemployment and underemployment series are updated quarterly, and the New York Fed notes the wage and outcomes-by-major tabs are updated annually, in February. We couldn't read the by-major table or the wage charts as text, so we aren't quoting numbers for specific majors or salaries here.
+
+## What To Do With It
+
+These steps are our suggestions based on the data, not findings from the New York Fed.
+
+**1. Apply to roles by skills, not by title.** If 42.5 percent of grads end up in jobs that don't require a degree, job titles alone won't tell you whether a role builds on your training. Read the responsibilities and ask what you'll be doing by month six.
+
+**2. Treat a first job as a bridge on purpose.** If you take a role below your qualifications, set a date to review it, and name two skills or projects you want from it. Underemployment is a starting position for many people, not a permanent state, but the tracker data here doesn't show how long people stay in it.
+
+**3. Keep applying while employed.** A job that doesn't use your degree is still a better position to search from than none. Employed candidates can be pickier about fit.
+
+**4. Go through people.** Entry-level postings draw heavy competition. A short, specific message to someone on the team, or an alumni contact, is more likely to get you noticed than another cold application. Our [networking glossary entry](/glossary/networking) covers how to start.
+
+**5. Build proof of the skills the degree doesn't show.** A project, a certification, or a portfolio piece helps if your major doesn't map neatly to a job title. See our look at [skills-based hiring](/glossary/skills-based-hiring-2026-glossary) for how some employers screen on skills.
+
+## For Hiring Managers and Leaders
+
+If you manage early-career staff, the underemployment number is a useful reminder: many of your recent hires may be capable of more than their role asks. Giving a new hire a stretch assignment in the first six months is a low-cost way to keep them. The Leader's Table covers the people-management side of this at [theleaderstable.xyz](https://theleaderstable.xyz).
+
+## What To Watch Next
+
+The New York Fed says the unemployment and underemployment figures are generally updated in February, May, August, and November. The next update is therefore due around February 2027. The October BLS Employment Situation report was scheduled for November 6, 2026. We'll cover it once we've read the release.
+
+## The Bottom Line
+
+According to the New York Fed, recent grad unemployment fell to 5.2 percent in Q3 2026, the lowest in more than a year, while underemployment ticked up to 42.5 percent. Getting hired is getting a little easier, but getting hired into a job that uses your degree is still far from guaranteed. Search by skills, plan your first role as a stepping stone, and use people, not just applications.
+
+## Sources
+
+- Federal Reserve Bank of New York, "The Labor Market for Recent College Graduates," 2026:Q3 Quarterly Highlights: https://www.newyorkfed.org/research/college-labor-market
+- U.S. Bureau of Labor Statistics, "The Employment Situation, September 2026," released October 2, 2026 (overall unemployment rate of 4.2 percent): https://www.bls.gov/news.release/empsit.nr0.htm
+`,
+    publishedAt: "2026-11-06",
+  },
+  {
     slug: 'september-2026-jolts-7-5-million-openings-quits-rise-job-search',
     title: "September JOLTS: 7.5 Million Openings, Quits Up to 3.4 Million. What Job Seekers Should Take From It.",
     description: "BLS reported 7.5 million job openings for September, hires of 5.4 million, and quits up to 3.4 million, while calling openings and hires little changed. Here's the full set of numbers, two ratios you can calculate yourself, and what to change in your search.",
