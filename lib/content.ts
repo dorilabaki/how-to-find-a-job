@@ -32,6 +32,91 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'october-2026-jobs-report-165000-what-job-seekers-should-do',
+    title: "October Jobs Report: 165,000 Jobs Added, Unemployment at 4.1%. Where the Hiring Was and What It Means for Your Search.",
+    description: "The BLS October 2026 report shows payrolls up 165,000, unemployment at 4.1 percent, and August and September revised up by a combined 84,000. Professional services, health care and transportation led. Here's what changed and how to use it.",
+    category: 'Job Market',
+    readTime: '6 min read',
+    content: `
+## The Headline
+
+The Bureau of Labor Statistics released its October 2026 Employment Situation report on Friday, November 6. Its opening line: "Total nonfarm payroll employment rose by 165,000 in October, and the unemployment rate changed little at 4.1 percent."
+
+After a weak September print, that's a clearly stronger month. The earlier months also look better than first reported. Here's what's in the release, and what it means if you're looking for work.
+
+## The Numbers
+
+**Payrolls: +165,000.** That's the change in jobs counted by the establishment survey of employers.
+
+**Unemployment rate: 4.1 percent.** BLS says it "changed little" and has stayed in a narrow range of 4.1 to 4.3 percent since March. Our [September jobs report breakdown](/resources/september-2026-jobs-report-29000-what-job-seekers-should-do) covered the 4.2 percent reading for that month.
+
+**Unemployed people: 7.1 million.** Also little changed.
+
+**Long-term unemployed (27 weeks or more): 2.0 million.** That's 27.6 percent of everyone unemployed. More than 1 in 4 job seekers have been looking for over six months.
+
+**Labor force participation: 61.9 percent. Employment-population ratio: 59.3 percent.** Both changed little and, per BLS, have shown little net change since January.
+
+**Average hourly earnings: $38.00.** Up 14 cents, or 0.4 percent, on the month and 3.1 percent over the year, for all private nonfarm employees.
+
+## The Revisions Matter More Than Usual
+
+BLS revised August up by 53,000, from +133,000 to +186,000. It revised September up by 31,000, from +29,000 to +60,000. Together, employment in those two months was 84,000 higher than first reported.
+
+That changes the story. The September number that made headlines as 29,000 is now 60,000. If you read a weak report and decided to pause your search, the revised data paint a less gloomy picture. First prints are estimates. BLS says revisions come from additional employer reports and recalculated seasonal factors.
+
+## Where the Jobs Were
+
+BLS lists four industries with gains in October:
+
+- **Professional and business services: +70,000.** That compares with an average of 15,000 a month over the prior 12 months. Within it, professional, scientific and technical services added 33,000, administrative and support services 28,000, and management of companies 9,000.
+- **Health care: +42,000.** Above its 12-month average of 31,000. Hospitals added 16,000, home health care 11,000, and outpatient care 5,000.
+- **Transportation and warehousing: +25,000.** Including 17,000 in couriers and messengers and 4,000 in air transportation.
+- **Manufacturing: +19,000.** BLS says it "continued to trend up."
+
+Every other major industry, including construction, retail, information, financial activities, leisure and hospitality, and government, showed little change.
+
+## The Number to Watch: Involuntary Part-Time
+
+The number of people working part-time for economic reasons rose by 339,000 to 4.8 million. These are people who want full-time work but can only get part-time hours, or whose hours were cut.
+
+That's a jump worth noticing in a month with solid payroll growth. It suggests some of the new work isn't the full-time work people want. It's one month of data, though, and household survey figures move around more than payrolls.
+
+## Unemployment by Group
+
+BLS reports little or no change for the major worker groups in October. The rates were 3.9 percent for adult men, 3.6 percent for adult women, 13.9 percent for teenagers, 3.7 percent for White workers, 6.6 percent for Black workers, 2.8 percent for Asian workers, and 4.7 percent for Hispanic workers.
+
+For recent college graduates specifically, see our breakdown of the [New York Fed's Q3 data](/resources/ny-fed-recent-grads-unemployment-5-2-underemployment-42-5-q3-2026), which put their unemployment at 5.2 percent.
+
+## What To Do With It
+
+These are our suggestions based on the data. They aren't BLS findings.
+
+**1. Look hard at the growing sectors.** Professional and business services and health care drove about two thirds of October's gain (112,000 of 165,000, by our arithmetic). If your skills transfer to consulting, technical services, admin support, or health care operations, those are where employers added the most people last month.
+
+**2. Don't overreact to a single report.** September went from 29,000 to 60,000 in one revision. Look at the trend across three months, and at openings data like [September's JOLTS release](/resources/september-2026-jolts-7-5-million-openings-quits-rise-job-search), before changing your plans.
+
+**3. If you've been searching for six months or more, change the method, not just the volume.** With 2.0 million people in long-term unemployment, sending more of the same applications rarely fixes it. Referrals and direct outreach tend to work better. Our guide to the [hidden job market](/resources/hidden-job-market-networking-2026) covers how.
+
+**4. Weigh part-time offers carefully.** A part-time role can bridge a gap, but the jump in involuntary part-time work is a reminder to ask about hours, the path to full-time, and benefits before you accept.
+
+**5. Use the wage data in negotiations.** Average hourly earnings rose 3.1 percent over the year. That's a reasonable baseline when you're asked about salary expectations. Our [salary negotiation script](/resources/salary-negotiation-script) shows how to use market data in that conversation.
+
+## What's Next
+
+BLS has scheduled the November 2026 Employment Situation report for Friday, December 4, 2026, at 8:30 a.m. ET. We'll cover it once it's out.
+
+## The Bottom Line
+
+October added 165,000 jobs, unemployment held at 4.1 percent, and August and September were revised up by a combined 84,000. Hiring was concentrated in professional and business services, health care, transportation and manufacturing. The rise in involuntary part-time work to 4.8 million is the caveat. Target the growing sectors, judge the market on trends rather than single prints, and change tactics if your search has run past six months.
+
+## Sources
+
+- U.S. Bureau of Labor Statistics, "The Employment Situation, October 2026," USDL-26-1632, released November 6, 2026: https://www.bls.gov/news.release/empsit.nr0.htm
+- U.S. Bureau of Labor Statistics, "The Employment Situation, September 2026," released October 2, 2026 (4.2 percent unemployment, as covered in our September breakdown): https://www.bls.gov/news.release/empsit.nr0.htm
+`,
+    publishedAt: "2026-11-11",
+  },
+  {
     slug: 'ny-fed-recent-grads-unemployment-5-2-underemployment-42-5-q3-2026',
     title: "Recent Grads' Unemployment Fell to 5.2%, but 42.5% Are Still Underemployed. What the NY Fed Data Means for Your Search.",
     description: "The New York Fed's Q3 2026 update puts recent college graduate unemployment at 5.2 percent, its lowest in over a year, while underemployment ticked up to 42.5 percent. Here's how to read both numbers and what to do about them.",
