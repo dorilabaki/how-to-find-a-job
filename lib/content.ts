@@ -32,6 +32,93 @@ export interface FAQItem {
 
 export const articles: Article[] = [
   {
+    slug: 'challenger-october-2026-job-cuts-three-year-low-seasonal-hiring',
+    title: "October Layoffs Hit a Three-Year Low and Hiring Plans Jumped. Here's What the Challenger Report Means for Your Search.",
+    description: "Challenger, Gray & Christmas counted 43,994 announced U.S. job cuts in October 2026, down 71% from October 2025, and 444,692 announced hiring plans, the highest October total since at least 2009. Most of those hires are seasonal. Economic conditions have overtaken AI as the top reason for cuts. Here's what the numbers say and how to use them.",
+    category: 'Job Market',
+    readTime: '6 min read',
+    content: `
+## The Headline
+
+Challenger, Gray & Christmas released its October 2026 job-cut report on November 5. U.S.-based employers announced 43,994 job cuts in October. That's up 2% from 43,281 in September, but down 71% from 153,074 in October 2025. Challenger says it's the lowest October total since 2023.
+
+Hiring plans moved the other way. Employers announced plans to hire 444,692 people in October, up 57% from 283,138 a year earlier. Challenger says that's the highest October total since at least 2009.
+
+Andy Challenger, the firm's workplace expert and chief revenue officer, summed it up in five words: "This is a low-fire environment."
+
+## The Numbers
+
+**October job cuts: 43,994.** Below the 2015 to 2025 October average of 56,348.
+
+**Year-to-date cuts: 617,189.** Down 44% from 1,099,500 through October 2025, and the lowest January-to-October total since 2022.
+
+**October hiring plans: 444,692.** Up 57% year over year.
+
+**Year-to-date hiring plans: 655,304.** Up 34% from 488,077 at this point in 2025.
+
+October was the eighth month of 2026 with fewer announced cuts than the same month in 2025.
+
+## Most of Those Hires Are Seasonal
+
+Read the hiring number carefully before you get excited. A large share of it is holiday hiring.
+
+Seasonal hiring plans so far this year total 470,400, up 26% from 372,520 in 2025. Amazon alone announced 300,000 seasonal hires, which Challenger says is its largest single seasonal announcement. UPS announced 100,000. Even with the increase, seasonal plans are still below the 660,150 announced in 2024.
+
+Andy Challenger's explanation: "Companies want the flexibility to meet holiday demand without adding permanent headcount." Seasonal roles come with an end date built in.
+
+## The Reason for Cuts Has Shifted
+
+This is the most interesting change in the report. For much of 2026, artificial intelligence was a leading reason employers gave for cuts. In October, it wasn't.
+
+- **Market and economic conditions: 16,407** cuts, 37% of October's total. It led all reasons for the second month running and is now the top reason for 2026 so far, at 130,531.
+- **Closings: 10,250.**
+- **Demand downturn: 6,118.** Year to date it's 21,347, up 145% from 8,701 through October 2025.
+- **Restructuring: 5,499.**
+- **Artificial intelligence: 1,265.** The lowest monthly total of 2026. AI still accounts for 121,401 cuts this year, about 20% of the total.
+
+Challenger describes the shift as moving "from technology to the economy." When companies cite demand and economic conditions rather than automation, it usually reflects caution about the outlook, though the overall pace of cuts is still low.
+
+## Where the Cuts Were
+
+October's leading sectors were Food (9,677, its highest month of 2026), Technology (5,576, its lowest month of the year), Services (5,458), FinTech (4,173), Retail (3,692) and Consumer Products (3,672).
+
+For the year, Technology still leads by far with 171,501 cuts, up 21% and already above its full-year 2025 total of 154,445. Transportation is up 188% to 44,838.
+
+One caveat on tech: Challenger notes Microsoft offered voluntary exit packages to 60,000 employees in October. Those aren't counted in October's total.
+
+By state, California led October with 10,032 cuts, followed by Washington (7,233), New York (4,671), Ohio (4,592) and Michigan (2,937).
+
+## What Challenger Counts, and What It Doesn't
+
+Challenger tracks announced job cuts and hiring plans. Announcements aren't the same as actual layoffs or hires. Some planned cuts happen later or not at all, and many hires are never announced. For actual payroll changes, the BLS jobs report is the better measure. October's [BLS report showed 165,000 jobs added](/resources/october-2026-jobs-report-165000-what-job-seekers-should-do) and unemployment at 4.1%.
+
+## What to Do With It
+
+These are our suggestions based on the data, not Challenger's findings.
+
+**1. Treat seasonal roles as a bridge, not a destination.** With nearly half a million seasonal hires announced, there's short-term work in warehousing, delivery and retail. If you need income now, it's a reasonable option. Ask at the interview whether seasonal staff are ever kept on, and keep your main search running.
+
+**2. If you're in tech, expect a slower market for a while.** Tech's October cuts were its lowest of the year, but the sector has already shed more jobs in 2026 than in all of 2025. Widen your search to tech roles inside other industries, such as health care, finance and manufacturing.
+
+**3. Watch the reason, not just the count.** Cuts blamed on demand and economic conditions tend to hit sales, operations and support roles in consumer-facing businesses first. If your employer is in Food, Retail or Consumer Products and has gone quiet on hiring, it's a good time to update your resume and reconnect with your network. Our guide to the [hidden job market](/resources/hidden-job-market-networking-2026) covers how.
+
+**4. Don't read a low layoff number as a hot market.** Low firing and slow hiring can happen together. Our breakdown of [August's Challenger data](/resources/challenger-august-2026-hiring-plans-where-the-jobs-are) explains why your search can feel hard even when cuts are down: the sectors cutting and the sectors hiring are often different.
+
+## The Bottom Line
+
+October's announced cuts were the lowest for the month since 2023, and hiring plans were the highest for an October since at least 2009, though mostly seasonal. Economic conditions have replaced AI as the top reason companies give for cuts this year. Use seasonal work as a bridge if you need it, aim at the sectors that are actually adding people, and judge the market on payroll and openings data as well as announcements.
+
+If you lead a team and are weighing hiring decisions yourself, our sister site The Leader's Table covers that side of the conversation at [theleaderstable.xyz](https://theleaderstable.xyz).
+
+## Sources
+
+- Challenger, Gray & Christmas, "October Layoffs at Three-Year Low; Seasonal Hiring Plans Up 26%," November 5, 2026: https://www.challengergray.com/blog/october-layoffs-at-three-year-low-seasonal-hiring-plans-up-26/
+- Bloomberg via CPA Practice Advisor, "U.S. Companies Announce Fewest October Job Cuts in Three Years," November 6, 2026: https://www.cpapracticeadvisor.com/2026/11/06/u-s-companies-announce-fewest-october-job-cuts-in-three-years/193395/
+- U.S. Bureau of Labor Statistics, "The Employment Situation, October 2026," November 6, 2026: https://www.bls.gov/news.release/empsit.nr0.htm
+`,
+    publishedAt: "2026-11-13",
+  },
+  {
     slug: 'october-2026-jobs-report-165000-what-job-seekers-should-do',
     title: "October Jobs Report: 165,000 Jobs Added, Unemployment at 4.1%. Where the Hiring Was and What It Means for Your Search.",
     description: "The BLS October 2026 report shows payrolls up 165,000, unemployment at 4.1 percent, and August and September revised up by a combined 84,000. Professional services, health care and transportation led. Here's what changed and how to use it.",
